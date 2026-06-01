@@ -138,5 +138,5 @@ Fazit: Im Jahr 2026 bietet SmartTV.ONE mit Preisen ab EUR15 und einem Lifetime-P
 
 **Autor:** SmartTV Redaktion - IPTV-Experten fur Deutschland, Österreich andamp; Schweiz.
 **Zuletzt aktualisiert:** 01. June 2026 | Getestet auf: Firestick 4K, Samsung QLED, iPhone.
-**Kontakt:** [Telegram @smartiptvactivate](https://t.me/smartiptvactivate) | [WhatsApp +44 7311 127035](https://wa.me/447311127035)
+**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/447311127035)
 
