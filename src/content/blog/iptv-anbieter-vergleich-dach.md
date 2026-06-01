@@ -7,6 +7,7 @@ keywords: "IPTV Anbieter Vergleich Deutschland sterreich Schweiz, IPTV, Deutschl
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1537
+image: "https://source.unsplash.com/1200x400/?Comparison,test,analysis"
 ---
 
 

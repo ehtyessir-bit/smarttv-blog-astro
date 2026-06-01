@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "WM 2026 live IPTV Deutschland schauen, WM 2026, IPTV, ARD, ZDF, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
 ---
 
 > **Direkte Antwort:** ## Hook

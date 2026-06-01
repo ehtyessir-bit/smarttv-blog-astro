@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Deutschland WM 2026 Kader Spieler, Jamal Musiala, Florian Wirtz, Kai Havertz, Toni Kroos, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?World,Cup,2026,football,Germany"
 ---
 
 > **Kurz erklart:** Was du uber Deutschland wissen musst Deutschland plant grossartig fur die Fussball-WM 2026. Mit Kaderstellungen, - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

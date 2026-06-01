@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Deutschland Gruppe WM 2026 Gegner, Deutschland, WM 2026 Gruppe, FIFA, Spielplan, Gegner, IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?Germany,football,national,team,2026"
 ---
 
 > **Kurz andamp; klar:** Einleitung Die Fussball-Weltmeisterschaft 2026 (WM 2026) steht bevor, und die deutsche Nationalmannschaft hat ihren Platz - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

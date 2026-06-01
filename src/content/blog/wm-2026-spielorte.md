@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "WM 2026 Spielorte Stadien USA Kanada Mexiko, WM 2026, New York, Los Angeles, Dallas, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
 ---
 
 > **Direkte Antwort:** ## Hook

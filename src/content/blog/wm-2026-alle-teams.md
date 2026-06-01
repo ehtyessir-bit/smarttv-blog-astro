@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "WM 2026 alle 48 Teams qualifiziert, WM 2026, FIFA, Brasilien, Frankreich, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
 ---
 
 > **Kurz erklart:** Was du uber WM 2026 wissen musst WM 2026 wird eine historische Veranstaltung sein, bei der alle 48 Teams quali - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

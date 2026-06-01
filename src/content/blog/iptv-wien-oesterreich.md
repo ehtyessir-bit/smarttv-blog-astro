@@ -7,6 +7,7 @@ keywords: "IPTV Wien sterreich beste Anbieter, IPTV, Wien, sterreich, smarttv.on
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1289
+image: "https://source.unsplash.com/1200x400/?Vienna,Austria,city"
 ---
 
 

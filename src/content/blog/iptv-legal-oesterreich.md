@@ -7,6 +7,7 @@ keywords: "Ist IPTV legal sterreich 2026, IPTV, legal, sterreich, Wien, WM 2026 
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1437
+image: "https://source.unsplash.com/1200x400/?Austria,law,legal,document"
 ---
 
 

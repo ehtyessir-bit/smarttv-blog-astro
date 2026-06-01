@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Florian Wirtz WM 2026, Florian Wirtz, Bayer Leverkusen, DFB, WM 2026, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?Florian,Wirtz,football,player,Germany"
 ---
 
 > **Kurz erklart:** Was du uber Florian wissen musst Florian Wirtz ist ein talentierter Fussballspieler, der im Bayer Leverkusen un - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "IPTV App Android iPhone, IPTV Deutschland, IPTV sterreich, IPTV Schweiz, DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?Android,smartphone,mobile,device"
 ---
 
 > **Kurz andamp; klar:** Alles Wichtige zu **IPTV App Android iPhone** fur den DACH-Raum. Den aktuellen Anbieter-Vergleich fur Deutschland, Österreich und die Schweiz findest du direkt auf [smarttv.one](https://smarttv.one).

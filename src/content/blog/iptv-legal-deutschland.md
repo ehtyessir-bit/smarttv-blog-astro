@@ -7,6 +7,7 @@ keywords: "Ist IPTV legal in Deutschland 2026, IPTV, legal, Deutschland, Gesetz,
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1492
+image: "https://source.unsplash.com/1200x400/?German,law,legal,document"
 ---
 
 

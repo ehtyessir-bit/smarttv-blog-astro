@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Argentinien WM 2026 Messi, Lionel Messi, Argentinien, WM 2026, Titelverteidiger, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?Argentina,football,stadium,2026,World,Cup"
 ---
 
 > **Direkte Antwort:** ## Hook: 2-3 direkte Satze zum Kern

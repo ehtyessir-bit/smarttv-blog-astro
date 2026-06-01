@@ -7,6 +7,7 @@ keywords: "IPTV einrichten Anleitung Schritt fr Schritt, IPTV, Firestick, Smart 
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1490
+image: "https://source.unsplash.com/1200x400/?Tutorial,guide,instruction"
 ---
 
 

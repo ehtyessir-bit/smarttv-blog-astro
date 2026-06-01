@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "bestes IPTV Anbieter WM 2026 Test, IPTV Test, WM 2026, 30000 Sender, 4K HD, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
 ---
 
 > **Direkte Antwort:** ## Hook

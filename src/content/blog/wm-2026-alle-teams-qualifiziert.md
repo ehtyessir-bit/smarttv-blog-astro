@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "WM 2026 alle qualifizierten Teams, WM 2026, FIFA, Brasilien, Frankreich, Argentinien, IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
 ---
 
 > **Kurz andamp; klar:** Einleitung WM 2026 alle qualifizierten Teams – das sind die Fragen, die sich viele Fussballfans in Deutschland, Österreic - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

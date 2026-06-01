@@ -7,6 +7,7 @@ keywords: "IPTV legal Schweiz 2026, IPTV, legal, Schweiz, Zrich, WM 2026 IPTV"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1441
+image: "https://source.unsplash.com/1200x400/?Switzerland,law,legal,document"
 ---
 
 

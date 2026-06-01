@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Jamal Musiala WM 2026, Jamal Musiala, FC Bayern Mnchen, DFB, WM 2026, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?Jamal,Musiala,football,player"
 ---
 
 > **Direkt beantwortet:** ## Einleitender Hook - 2-3 provokante Satze die sofort den Nutzen klar machen

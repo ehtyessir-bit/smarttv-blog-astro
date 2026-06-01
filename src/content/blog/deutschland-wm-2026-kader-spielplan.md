@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Deutschland WM 2026, Jamal Musiala, Florian Wirtz, Manuel Neuer, Toni Kroos, Leroy San, IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?World,Cup,2026,football,Germany"
 ---
 
 > **Kurz andamp; klar:** Einleitung – beantworte direkt die Nutzerfrage in 2-3 Satzen Die Weltmeisterschaft 2026 (WM 2026) ist nicht nur ein gross - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

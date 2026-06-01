@@ -7,6 +7,7 @@ keywords: "Bester IPTV Anbieter Berlin 2026, IPTV, Berlin, smarttv.one, HD, WM 2
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1324
+image: "https://source.unsplash.com/1200x400/?IPTV,streaming,television"
 ---
 
 

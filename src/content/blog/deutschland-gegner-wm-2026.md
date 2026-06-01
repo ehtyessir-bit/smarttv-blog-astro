@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "Deutschland Gruppe WM 2026 Gegner, Deutschland, WM 2026, Gruppenphase, FIFA, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?Germany,football,national,team,2026"
 ---
 
 > **Kurz erklart:** Was du uber Deutschland wissen musst Deutschland nimmt an der WM 2026 in Nordamerika teil. Die Gruppenphase be - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

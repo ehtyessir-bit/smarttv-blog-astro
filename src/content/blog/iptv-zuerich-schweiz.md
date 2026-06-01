@@ -7,6 +7,7 @@ keywords: "IPTV Zrich Schweiz bester Anbieter, IPTV, Zrich, Schweiz, smarttv.one
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1256
+image: "https://source.unsplash.com/1200x400/?Zurich,Switzerland,city"
 ---
 
 

@@ -7,6 +7,7 @@ keywords: "IPTV Deutschland 2026 komplett Guide, IPTV, Deutschland, sterreich, S
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1474
+image: "https://source.unsplash.com/1200x400/?IPTV,streaming,television"
 ---
 
 

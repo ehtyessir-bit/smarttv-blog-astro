@@ -6,6 +6,7 @@ date: "2026-06-01"
 keywords: "IPTV Testbericht beste Anbieter Deutschland, IPTV Test, Deutschland, sterreich, Schweiz, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
+image: "https://source.unsplash.com/1200x400/?IPTV,service,provider"
 ---
 
 > **Direkte Antwort:** ## Hook
