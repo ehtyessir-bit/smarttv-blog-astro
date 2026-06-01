@@ -20,6 +20,7 @@ const { Content } = await post.render();
   date={post.data.date}
   keywords={post.data.keywords}
   mainSite={post.data.mainSite || 'https://smarttv.one'}
+  slug={post.slug}
 >
   <Content />
 </BlogPost>
