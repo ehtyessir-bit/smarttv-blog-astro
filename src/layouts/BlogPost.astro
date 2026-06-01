@@ -1,0 +1,99 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  date: string;
+  keywords?: string;
+  mainSite?: string;
+}
+const { title, description, date, keywords, mainSite = 'https://smarttv.one' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title} | SmartTV Blog</title>
+  <meta name="description" content={description} />
+  {keywords && <meta name="keywords" content={keywords} />}
+  <link rel="canonical" href={canonicalURL} />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:site_name" content="SmartTV Blog" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+
+  <!-- Header -->
+  <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
+    <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
+      <a href="/" class="text-xl font-bold text-blue-600">SmartTV Blog</a>
+      <a href={mainSite} target="_blank" rel="noopener"
+         class="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition">
+        → smarttv.one
+      </a>
+    </div>
+  </header>
+
+  <!-- Article -->
+  <main class="max-w-4xl mx-auto px-4 py-10">
+
+    <!-- Breadcrumb -->
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-blue-600">Blog</a>
+      <span class="mx-2">›</span>
+      <span>{title}</span>
+    </nav>
+
+    <!-- Meta -->
+    <div class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-3 leading-tight">{title}</h1>
+      <div class="flex items-center gap-4 text-sm text-gray-500">
+        <time datetime={date}>{new Date(date).toLocaleDateString('de-DE', {year:'numeric',month:'long',day:'numeric'})}</time>
+        <span>•</span>
+        <span>smarttv.one</span>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <article class="prose prose-lg prose-blue max-w-none
+      prose-headings:font-bold prose-headings:text-gray-900
+      prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline
+      prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50 prose-blockquote:rounded-r-lg prose-blockquote:py-1
+      prose-code:bg-gray-100 prose-code:rounded prose-code:px-1">
+      <slot />
+    </article>
+
+    <!-- CTA Banner (bottom) -->
+    <div class="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white text-center">
+      <h2 class="text-2xl font-bold mb-2">Besten IPTV-Anbieter finden</h2>
+      <p class="text-blue-100 mb-6">
+        Aktuelle Tests, Preisvergleiche und Setup-Guides für Deutschland, Österreich &amp; Schweiz.
+      </p>
+      <a href={mainSite} target="_blank" rel="noopener"
+         class="inline-block bg-white text-blue-700 font-bold px-8 py-3 rounded-xl hover:bg-blue-50 transition text-lg">
+        Jetzt vergleichen auf smarttv.one →
+      </a>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-gray-200 mt-16 py-8 text-center text-sm text-gray-500">
+    <p>
+      SmartTV Blog — Infos &amp; Guides für <a href={mainSite} class="text-blue-600 hover:underline">smarttv.one</a>
+    </p>
+    <p class="mt-1">Deutschland · Österreich · Schweiz</p>
+  </footer>
+
+</body>
+</html>
