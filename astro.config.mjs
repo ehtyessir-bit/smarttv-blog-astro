@@ -7,7 +7,7 @@ export default defineConfig({
   site: 'https://blog.smarttv.one',
   integrations: [
     mdx(),
-    sitemap(),
+    // sitemap(),
     tailwind(),
   ],
   markdown: {
