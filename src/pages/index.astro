@@ -1,0 +1,75 @@
+---
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('blog')).sort(
+  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
+);
+---
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SmartTV Blog — IPTV Guides für DE, AT, CH</title>
+  <meta name="description" content="Aktuelle IPTV-Guides, Tests und Tipps für Deutschland, Österreich und die Schweiz. Alles auf smarttv.one." />
+  <link rel="canonical" href="https://blog.smarttv.one/" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+
+  <header class="bg-white border-b border-gray-200">
+    <div class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
+      <div>
+        <h1 class="text-xl font-bold text-blue-600">SmartTV Blog</h1>
+        <p class="text-xs text-gray-500">IPTV Guides für DE · AT · CH</p>
+      </div>
+      <a href="https://smarttv.one" target="_blank" rel="noopener"
+         class="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition">
+        → smarttv.one
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-4xl mx-auto px-4 py-10">
+
+    <!-- Hero CTA -->
+    <div class="bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white text-center mb-12">
+      <h2 class="text-2xl font-bold mb-2">IPTV-Anbieter vergleichen</h2>
+      <p class="text-blue-100 mb-4">Die besten IPTV-Dienste für Deutschland, Österreich und die Schweiz im direkten Vergleich.</p>
+      <a href="https://smarttv.one" target="_blank" rel="noopener"
+         class="inline-block bg-white text-blue-700 font-bold px-6 py-3 rounded-xl hover:bg-blue-50 transition">
+        Jetzt auf smarttv.one →
+      </a>
+    </div>
+
+    <!-- Article grid -->
+    <h2 class="text-2xl font-bold text-gray-900 mb-6">Neueste Artikel</h2>
+    <div class="grid gap-6">
+      {posts.map(post => (
+        <article class="bg-white rounded-xl border border-gray-200 p-6 hover:border-blue-300 hover:shadow-md transition">
+          <a href={`/blog/${post.slug}/`} class="block">
+            <h3 class="text-lg font-semibold text-gray-900 mb-2 hover:text-blue-600">{post.data.title}</h3>
+            <p class="text-gray-500 text-sm mb-3 line-clamp-2">{post.data.description}</p>
+            <div class="flex items-center justify-between">
+              <time class="text-xs text-gray-400">
+                {new Date(post.data.date).toLocaleDateString('de-DE', {year:'numeric',month:'long',day:'numeric'})}
+              </time>
+              <span class="text-blue-600 text-sm font-medium">Weiterlesen →</span>
+            </div>
+          </a>
+        </article>
+      ))}
+    </div>
+
+    {posts.length === 0 && (
+      <p class="text-center text-gray-400 py-16">Artikel werden bald veröffentlicht...</p>
+    )}
+  </main>
+
+  <footer class="border-t border-gray-200 mt-16 py-8 text-center text-sm text-gray-500">
+    <p>SmartTV Blog — <a href="https://smarttv.one" class="text-blue-600 hover:underline">smarttv.one</a></p>
+  </footer>
+
+</body>
+</html>
