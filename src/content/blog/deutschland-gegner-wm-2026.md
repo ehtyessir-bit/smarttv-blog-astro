@@ -2,6 +2,7 @@
 title: "Deutschland WM 2026 Gruppe - Gegner & Chancen"
 slug: "deutschland-gegner-wm-2026"
 description: "Wer sind Deutschlands Gegner bei der WM 2026? Alle Infos zur Gruppe, Spielplan und Chancen — plus: so schaust du live ohne Abo."
+focusKeyword: "Deutschland Gegner WM 2026"
 date: "2026-06-01"
 keywords: "Deutschland Gruppe WM 2026 Gegner, Deutschland, WM 2026, Gruppenphase, FIFA, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80
 
 ## Was du uber Deutschland wissen musst
 
+![Deutschland Gegner WM 2026 – Analyse der deutschen Gruppe, Chancen auf das Halbfinale](https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&q=80&auto=format&fit=crop)
+
+
 Deutschland nimmt an der WM 2026 in Nordamerika teil. Die Gruppenphase beginnt im Januar 2026 und wird von der FIFA geleitet. Deine Gegner sind USA, Mexiko und Kanada. Dieses Trio wird eine herausfordernde Gruppe sein.
 
 ## Details und Fakten
+
+![DFB WM 2026 Kader – Deutschlands stärkste Spieler für die Weltmeisterschaft in Nordamerika](https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=900&q=80&auto=format&fit=crop)
+
 
 Die WM-Gruppenphase umfasst 48 Teams in zwolf Gruppen. Deutschland befindet sich in Gruppe B zusammen mit den USA, Mexiko und Kanada. Diese drei Lander sind starke Konkurrenten auf der Nordamerikanischen Kontinentalmeisterschaft (CONCACAF). Die Spiele werden in Mexiko, Kolumbien und Panama ausgetragen.
 

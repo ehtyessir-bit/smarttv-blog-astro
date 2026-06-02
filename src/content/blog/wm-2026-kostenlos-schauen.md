@@ -2,6 +2,7 @@
 title: "WM 2026 kostenlos & legal schauen - DE, AT & CH komplett"
 slug: "wm-2026-kostenlos-schauen"
 description: "WM 2026 kostenlos & legal schauen in Deutschland, Österreich und der Schweiz — alle Sender, alle Spiele, ohne einen Cent."
+focusKeyword: "WM 2026 kostenlos schauen Deutschland"
 date: "2026-06-01"
 keywords: "WM 2026 kostenlos legal schauen Deutschland, ARD, ZDF, ORF, SRF, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=1200&q=80
 Die Fussball-Weltmeisterschaft 2026 wird viele Fans begeistern – aber wie schaut man das Turnier kostenlos und legal in Deutschland?
 
 ## Hauptteil
+
+![WM 2026 kostenlos schauen Deutschland – alle Spiele legal und gratis auf ARD ZDF und IPTV](https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=900&q=80&auto=format&fit=crop)
+
 Fur die WM 2026 bietet sich IPTV als Losung an. Vollstandiger Vergleich mit Preisen auf [smarttv.one](https://smarttv.one).
 
 ## Hook
+
+![WM 2026 gratis streamen Smart TV – kostenlose Sender für Deutschland Österreich Schweiz](https://images.unsplash.com/photo-1593784991095-a205069470b6?w=900&q=80&auto=format&fit=crop)
+
 Die Fussball-Weltmeisterschaft 2026 wird viele Fans begeistern – aber wie schaut man das Turnier kostenlos und legal in Deutschland?
 
 ## Hauptteil

@@ -2,6 +2,7 @@
 title: "WM 2026 Spielorte - Die 16 Stadien in USA, Kanada & Mexiko"
 slug: "wm-2026-spielorte"
 description: "Die 16 WM-Stadien 2026 in USA, Kanada und Mexiko: Welche Arenen Weltklasse sind — und wo das Finale stattfindet."
+focusKeyword: "WM 2026 Spielorte Stadien"
 date: "2026-06-01"
 keywords: "WM 2026 Spielorte Stadien USA Kanada Mexiko, WM 2026, New York, Los Angeles, Dallas, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&q=80
 WM 2026 wird in den USA, Kanada und Mexiko ausgetragen – aber was ist mit IPTV? Lassen Sie uns die Spielorte der Stadien und den Preis fur IPTV verstehen. Vollstandiger Vergleich mit Preisen auf [smarttv.one](https://smarttv.one).
 
 ## Hook
+
+![WM 2026 Spielorte Stadien – die 16 Arenen in USA Kanada Mexiko für die Weltmeisterschaft](https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=900&q=80&auto=format&fit=crop)
+
 WM 2026 wird in den USA, Kanada und Mexiko ausgetragen – aber was ist mit IPTV? Lassen Sie uns die Spielorte der Stadien und den Preis fur IPTV verstehen.
 
 ## Hauptteil
+
+![WM 2026 Finalstadion USA – größte Stadien der Weltmeisterschaft 2026 im Überblick](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=900&q=80&auto=format&fit=crop)
+
 Die WM 2026 wird in mehreren Stadten stattfinden. New York, Los Angeles, Dallas, Miami, Toronto, Vancouver und Mexico City bieten ihre modernsten Stadien fur das grosse Turnier an. MetLife Stadium in East Rutherford, New Jersey, ist ein bekanntes Beispiel dafur.
 
 ## Details/Anleitung

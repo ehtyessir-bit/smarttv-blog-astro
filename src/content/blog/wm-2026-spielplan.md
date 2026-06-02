@@ -2,6 +2,7 @@
 title: "WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland"
 slug: "wm-2026-spielplan"
 description: "Der komplette WM 2026 Spielplan mit allen Anstoßzeiten für Deutschland — alle Gruppenspiele, K.o.-Runden und das Finale."
+focusKeyword: "WM 2026 Spielplan Deutschland"
 date: "2026-06-01"
 keywords: "WM 2026 Spielplan alle Termine, WM 2026, Spielplan, Gruppenphase, Achtelfinale, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80
 Am 21. Vollstandiger Vergleich mit Preisen auf [smarttv.one](https://smarttv.one).
 
 ## Hook
+
+![WM 2026 Spielplan Deutschland – alle Anstoßzeiten Gruppenspiele und K.o.-Runden Übersicht](https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&q=80&auto=format&fit=crop)
+
 Am 21. Juni 2026 beginnt die WM 2026 in der Zeitzone von Kalifornien, und alle Termine sind wichtig zu planen.
 
 ## Hauptteil
+
+![WM 2026 Terminplan – kompletter Spielplan mit allen 64 Spielen und deutschen Zeiten](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=900&q=80&auto=format&fit=crop)
+
 Der Spielplan fur das WM-Endspiel 2026 umfasst drei Phasen: Gruppenphase, Achtelfinale und Finale. Die FIFA hat den Anstosstermin fur die Gruppenphase festgelegt, der vom 21. Juni bis zum 2. Juli 2026 reicht. Das Achtelfinale folgt vom 7. bis 9. Juli, wahrend die Finale am 15. Juli in Los Angeles ausgetragen wird.
 
 ## Details/Anleitung

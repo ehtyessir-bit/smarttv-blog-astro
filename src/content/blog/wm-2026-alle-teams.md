@@ -2,6 +2,7 @@
 title: "WM 2026 - Alle 48 qualifizierten Teams"
 slug: "wm-2026-alle-teams"
 description: "48 Teams, ein Titel: Wer sind die Favoriten bei der WM 2026? Alle Gruppen, alle Spieler, alle Chancen — komplett erklärt."
+focusKeyword: "WM 2026 alle Teams"
 date: "2026-06-01"
 keywords: "WM 2026 alle 48 Teams qualifiziert, WM 2026, FIFA, Brasilien, Frankreich, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80&au
 
 ## Was du uber WM 2026 wissen musst
 
+![WM 2026 alle Teams – Weltmeisterschaft 2026 mit 48 Mannschaften aus aller Welt](https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=900&q=80&auto=format&fit=crop)
+
+
 WM 2026 wird eine historische Veranstaltung sein, bei der alle 48 Teams qualifiziert sind. Dies bedeutet, dass die Teilnehmerzahl um ein Drittel gesteigert wird. FIFA hat diese Entscheidung getroffen, um das Turnier zu vergrossern und die Spannung zu erhohen. Deutschland, Österreich und die Schweiz freuen sich auf die bevorstehende WM, bei der Teams wie Brasilien, Frankreich, Argentinien, England, Spanien, Portugal und die Niederlande antraten.
 
 ## Details und Fakten
+
+![WM 2026 Gruppen und Teams – Favoriten Außenseiter und Überraschungsmannschaften im Überblick](https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&q=80&auto=format&fit=crop)
+
 
 WM 2026 wird in den USA, Kanada und Mexiko ausgetragen. FIFA hat die Entscheidung getroffen, um das Turnier zu internationalisieren und es zuganglicher fur mehr Teams zu machen. Deutschland, Österreich und die Schweiz konnen sich darauf freuen, dass viele der Favoriten wie Brasilien, Frankreich, Argentinien, England, Spanien, Portugal und die Niederlande antraten.
 

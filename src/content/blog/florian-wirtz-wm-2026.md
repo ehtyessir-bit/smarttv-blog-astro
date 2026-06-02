@@ -2,6 +2,7 @@
 title: "Florian Wirtz WM 2026 - Der Bayer-Star"
 slug: "florian-wirtz-wm-2026"
 description: "Florian Wirtz bei der WM 2026: Kann Deutschlands bester Spieler den Titel holen? Wir analysieren seine Chancen und verraten alles."
+focusKeyword: "Florian Wirtz WM 2026"
 date: "2026-06-01"
 keywords: "Florian Wirtz WM 2026, Florian Wirtz, Bayer Leverkusen, DFB, WM 2026, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80
 
 ## Was du uber Florian wissen musst
 
+![Florian Wirtz WM 2026 – Bayer Leverkusen Star als wichtigster Spieler der deutschen Nationalmannschaft](https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=900&q=80&auto=format&fit=crop)
+
+
 Florian Wirtz ist ein talentierter Fussballspieler, der im Bayer Leverkusen unter Vertrag steht. Er ist Teil des DFB und hat bereits mehrere Tore in der Bundesliga erzielt. Florian Wirtz ist eng mit Jamal Musiala verbunden, einem anderen deutschen Talente, das ebenfalls an der WM 2026 teilnehmen wird.
 
 ## Details und Fakten
+
+![Florian Wirtz DFB 2026 – WM-Kader Deutschland mit Wirtz als entscheidendem Spielmacher](https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&q=80&auto=format&fit=crop)
+
 
 Florian Wirtz hat sich durch seine Leistung im Bayer Leverkusen etabliert. Er hat bereits mehrere Tore in der Bundesliga erzielt und ist ein wichtiger Teil des Teams. Florian Wirtz wurde auch fur die WM 2026 nominiert, was ihn zu einem der fuhrenden Spieler Deutschlands macht.
 

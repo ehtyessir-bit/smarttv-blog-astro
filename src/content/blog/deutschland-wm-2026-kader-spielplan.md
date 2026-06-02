@@ -2,6 +2,7 @@
 title: "Deutschland WM 2026 - Kader, Spielplan und alle Infos"
 slug: "deutschland-wm-2026-kader-spielplan"
 description: "Der komplette DFB-Kader 2026 mit allen Spielern, Spielplan und Anstoßzeiten. So verpasst du kein einziges Deutschlandspiel bei der WM."
+focusKeyword: "Deutschland WM 2026 Kader Spielplan"
 date: "2026-06-01"
 keywords: "Deutschland WM 2026, Jamal Musiala, Florian Wirtz, Manuel Neuer, Toni Kroos, Leroy San, IPTV DACH"
 mainSite: "https://smarttv.one"
@@ -13,9 +14,15 @@ image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80&au
 
 ## Einleitung – beantworte direkt die Nutzerfrage in 2-3 Satzen
 
+![Deutschland WM 2026 Kader – die 26 DFB-Spieler mit Musiala und Wirtz als Leistungsträger](https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=900&q=80&auto=format&fit=crop)
+
+
 Die Weltmeisterschaft 2026 (WM 2026) ist nicht nur ein grosses Ereignis fur Fussballfans, sondern auch eine Chance, um sich mit der deutschen Nationalmannschaft zu vertraut zu machen. Die Kader wie Jamal Musiala und Florian Wirtz, die bereits heute im Fokus stehen, werden in den kommenden Jahren entscheidend fur das Ergebnis der WM 2026 sein.
 
 ## Abschnitt 1 - Hauptthema mit Fakten und Entities
+
+![Deutschland WM 2026 Spielplan – alle Anstoßzeiten und Gruppenspiele im Überblick](https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&q=80&auto=format&fit=crop)
+
 
 Die deutsche Nationalmannschaft ist seit Langem ein machtiger Kandidat fur die WM-Titel. Spieler wie Manuel Neuer, Toni Kroos, Leroy Sané und Joshua Kimmich sind bereits heute als Schlusselfiguren bekannt. Jamal Musiala, der junge Talent aus Bayern, hat sich in kurzer Zeit einen Namen gemacht und ist ein weiterer Hoffnungsschimmer fur Deutschland. Florian Wirtz, der Nachwuchstalent von Bayer 04 Leverkusen, konnte ebenfalls eine wichtige Rolle bei der WM spielen.
 
