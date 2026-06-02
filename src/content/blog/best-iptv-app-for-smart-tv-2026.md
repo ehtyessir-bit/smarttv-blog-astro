@@ -11,37 +11,6 @@ noindex: false
 ---
 
 <style>
-  .article-hero {
-    position: relative;
-    width: 100%;
-    height: 400px;
-    background: linear-gradient(135deg, rgba(20, 20, 40, 0.7), rgba(80, 60, 180, 0.5));
-    border-radius: 12px;
-    overflow: hidden;
-    margin-bottom: 40px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-  }
-  
-  .article-hero img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s ease;
-  }
-  
-  .article-hero:hover img {
-    transform: scale(1.05);
-  }
-  
-  .article-hero a {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    cursor: pointer;
-  }
-
   .whatsapp-button {
     display: inline-flex;
     align-items: center;
@@ -70,12 +39,6 @@ noindex: false
     height: 24px;
   }
 </style>
-
-<div class="article-hero">
-  <a href="https://smarttv.one" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&h=400&fit=crop" alt="Best IPTV App for Smart TV 2026" loading="lazy" />
-  </a>
-</div>
 
 <a 
   href="https://wa.me/491234567890?text=Ich%20bin%20an%20einem%20Abonnement%20interessiert"
