@@ -10,7 +10,7 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
-<img src="/images/Xbox_Series_X_Gaming_Setup_Guide_featured.webp" alt="Xbox Series X Gaming Setup Guide - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+<a href="https://smarttv.one" target="_blank" rel="noopener noreferrer"><img src="/images/Xbox_Series_X_Gaming_Setup_Guide_featured.webp" alt="Xbox Series X Gaming Setup Guide - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0; cursor:pointer;" /></a>
 
 # Xbox Series X Gaming Setup Guide
 

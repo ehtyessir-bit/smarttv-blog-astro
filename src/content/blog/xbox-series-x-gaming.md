@@ -10,7 +10,7 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
-<img src="/images/Xbox_Series_X_Gaming_featured.webp" alt="Xbox Series X Gaming - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+<a href="https://smarttv.one" target="_blank" rel="noopener noreferrer"><img src="/images/Xbox_Series_X_Gaming_featured.webp" alt="Xbox Series X Gaming - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0; cursor:pointer;" /></a>
 
 <script type="application/ld+json">
 {

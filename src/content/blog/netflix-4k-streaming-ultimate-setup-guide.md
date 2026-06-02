@@ -10,7 +10,7 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
-<img src="/images/Netflix_4K_Streaming_-_Ultimate_Setup_Guide_featured.webp" alt="Netflix 4K Streaming - Ultimate Setup Guide - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+<a href="https://smarttv.one" target="_blank" rel="noopener noreferrer"><img src="/images/Netflix_4K_Streaming_-_Ultimate_Setup_Guide_featured.webp" alt="Netflix 4K Streaming - Ultimate Setup Guide - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0; cursor:pointer;" /></a>
 
 # Netflix 4K Streaming - Ultimate Setup Guide
 

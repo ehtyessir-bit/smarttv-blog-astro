@@ -10,7 +10,7 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
-<img src="/images/Best_IPTV_App_for_Smart_TV_2026_featured.webp" alt="Best IPTV App for Smart TV 2026 - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+<a href="https://smarttv.one" target="_blank" rel="noopener noreferrer"><img src="/images/Best_IPTV_App_for_Smart_TV_2026_featured.webp" alt="Best IPTV App for Smart TV 2026 - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0; cursor:pointer;" /></a>
 
 # Best IPTV App for Smart TV 2026
 
