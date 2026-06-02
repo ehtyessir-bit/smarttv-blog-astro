@@ -72,3 +72,13 @@ Auf [smarttv.one](https://smarttv.one) findest du:
 - ✅ Ehrliche Tests, aktuelle Preise, keine Werbung
 
 *Kostenlos vergleichen - kein Account notig.*
+<!-- INTERNAL_LINKS -->
+
+---
+
+## Das könnte dich auch interessieren
+
+- [Deutschlands WM 2026 Kader - Die 26 Spieler](/blog/deutschland-wm-2026-spieler-kader/)
+- [Deutschland WM 2026 Gruppe - Gegner, Spielplan & Chancen](/blog/deutschland-gegner-wm-2026-gruppe/)
+- [WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland](/blog/wm-2026-spielplan/)
+- [Deutschland WM 2026 Gruppe - Gegner & Chancen](/blog/deutschland-gegner-wm-2026/)

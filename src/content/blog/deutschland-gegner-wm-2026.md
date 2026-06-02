@@ -60,3 +60,13 @@ Auf [smarttv.one](https://smarttv.one):
 - ✅ Aktuell, kostenlos, ohne Registrierung
 
 *Kein Abo, kein Account - direkt vergleichen.*
+<!-- INTERNAL_LINKS -->
+
+---
+
+## Das könnte dich auch interessieren
+
+- [Deutschland WM 2026 Gruppe - Gegner, Spielplan & Chancen](/blog/deutschland-gegner-wm-2026-gruppe/)
+- [WM 2026 - Alle 48 qualifizierten Teams](/blog/wm-2026-alle-teams/)
+- [WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland](/blog/wm-2026-spielplan/)
+- [Bestes IPTV fr WM 2026 - 8 Anbieter ehrlich getestet](/blog/bestes-iptv-wm-2026/)

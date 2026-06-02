@@ -62,3 +62,13 @@ Auf [smarttv.one](https://smarttv.one):
 - ✅ Aktuell, kostenlos, ohne Registrierung
 
 *Kein Abo, kein Account - direkt vergleichen.*
+<!-- INTERNAL_LINKS -->
+
+---
+
+## Das könnte dich auch interessieren
+
+- [WM 2026 - Alle 48 qualifizierten Teams](/blog/wm-2026-alle-teams/)
+- [Deutschlands WM 2026 Kader - Die 26 Spieler](/blog/deutschland-wm-2026-spieler-kader/)
+- [Deutschland WM 2026 Gruppe - Gegner, Spielplan & Chancen](/blog/deutschland-gegner-wm-2026-gruppe/)
+- [Jamal Musiala WM 2026 - Kann er Deutschland zum Titel schieen?](/blog/jamal-musiala-wm-2026/)

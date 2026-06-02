@@ -60,3 +60,13 @@ Auf [smarttv.one](https://smarttv.one):
 - ✅ Aktuell, kostenlos, ohne Registrierung
 
 *Kein Abo, kein Account - direkt vergleichen.*
+<!-- INTERNAL_LINKS -->
+
+---
+
+## Das könnte dich auch interessieren
+
+- [Deutschland WM 2026 - Kader, Spielplan und alle Infos](/blog/deutschland-wm-2026-kader-spielplan/)
+- [Deutschland WM 2026 Gruppe - Gegner & Chancen](/blog/deutschland-gegner-wm-2026/)
+- [Florian Wirtz WM 2026 - Der Bayer-Star](/blog/florian-wirtz-wm-2026/)
+- [IPTV-Anbieter Vergleich: Wir haben 4 Lnder getestet](/blog/iptv-anbieter-vergleich-dach/)

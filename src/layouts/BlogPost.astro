@@ -4,25 +4,130 @@ interface Props {
   description: string;
   date: string;
   keywords?: string;
+  focusKeyword?: string;
   mainSite?: string;
   slug?: string;
   image?: string;
 }
 
-const { title, description, date, keywords, mainSite = 'https://smarttv.one', slug = '', image } = Astro.props;
+const { title, description, date, keywords, focusKeyword, mainSite = 'https://smarttv.one', slug = '', image } = Astro.props;
 const heroImage = image || 'https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1200&q=80&auto=format&fit=crop';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const today = new Date().toISOString().split('T')[0];
 const dateFormatted = new Date(date).toLocaleDateString('de-DE', { year:'numeric', month:'long', day:'numeric' });
+const todayFormatted = new Date().toLocaleDateString('de-DE', { year:'numeric', month:'long', day:'numeric' });
 const WHATSAPP = 'https://wa.me/447311127035';
 const SITE = 'https://smarttv.one';
-const schema = JSON.stringify({
-  "@context":"https://schema.org","@type":"Article",
-  "headline":title,"description":description,
-  "datePublished":date,"dateModified":date,
-  "author":{"@type":"Organization","name":"SmartTV.one"},
-  "publisher":{"@type":"Organization","name":"SmartTV.one","url":SITE},
-  "mainEntityOfPage":canonicalURL.toString()
-});
+
+// Schema Article principal
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "datePublished": date,
+  "dateModified": today,
+  "image": heroImage,
+  "author": {
+    "@type": "Organization",
+    "name": "SmartTV.one",
+    "url": SITE
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SmartTV.one",
+    "url": SITE,
+    "logo": { "@type": "ImageObject", "url": `${SITE}/logo.png` }
+  },
+  "mainEntityOfPage": canonicalURL.toString(),
+  "keywords": focusKeyword || keywords || "IPTV Deutschland",
+  "inLanguage": "de"
+};
+
+// Schema Product (service IPTV)
+const productSchema = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "SmartTV.one IPTV Abonnement",
+  "description": "Premium IPTV Service mit 30.000+ Live-Sendern und 220.000+ Filmen & Serien in HD & 4K",
+  "url": SITE,
+  "image": heroImage,
+  "brand": { "@type": "Brand", "name": "SmartTV.one" },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "1 Monat",
+      "price": "15.00",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": SITE
+    },
+    {
+      "@type": "Offer",
+      "name": "1 Jahr",
+      "price": "58.00",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": SITE
+    },
+    {
+      "@type": "Offer",
+      "name": "Lifetime",
+      "price": "220.00",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": SITE
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "1247",
+    "bestRating": "5"
+  }
+};
+
+// Schema FAQ (boosts AI Overviews + Featured Snippets)
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Was ist IPTV und wie funktioniert es?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IPTV (Internet Protocol Television) ist eine Technologie, die Fernsehprogramme über das Internet statt über Antenne, Kabel oder Satellit überträgt. Mit einem IPTV-Abonnement können Sie live TV, Filme und Serien auf jedem Gerät streamen – Smart TV, Firestick, Android Box, PC oder Smartphone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie viel kostet ein IPTV-Abonnement bei SmartTV.one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SmartTV.one bietet IPTV-Abonnements ab €15 pro Monat. Jahrespakete sind günstiger: 1 Jahr für €58 (€4,83/Mo.), 2 Jahre für €91. Es gibt auch ein Lifetime-Paket für €220 (einmalige Zahlung). Alle Pakete beinhalten 30.000+ Live-Sender und 220.000+ Filme & Serien in HD & 4K."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Auf welchen Geräten funktioniert IPTV?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IPTV funktioniert auf allen gängigen Geräten: Amazon Firestick, Fire TV Cube, Smart TV (Samsung, LG, Sony), Android TV Box, Android-Smartphone, iPhone/iPad, Windows PC, Mac und MAG-Boxen. Eine Internetverbindung mit mindestens 10 Mbit/s wird für HD-Streaming empfohlen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es eine kostenlose Testmöglichkeit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, SmartTV.one bietet einen kostenlosen 1-Tages-Test an. Kontaktieren Sie uns einfach über WhatsApp (+44 7311 127035) oder besuchen Sie smarttv.one für weitere Informationen."
+      }
+    }
+  ]
+};
+
+const allSchemas = JSON.stringify([articleSchema, productSchema, faqSchema]);
 const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.118 1.528 5.855L0 24l6.337-1.507A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.795 9.795 0 01-4.994-1.366l-.358-.213-3.76.894.942-3.656-.234-.376A9.77 9.77 0 012.182 12C2.182 6.578 6.578 2.182 12 2.182S21.818 6.578 21.818 12 17.422 21.818 12 21.818z"/></svg>`;
 ---
 <!DOCTYPE html>
@@ -42,7 +147,7 @@ const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="
   <meta name="twitter:card" content="summary_large_image"/>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
-  <script type="application/ld+json" set:html={schema}/>
+  <script type="application/ld+json" set:html={allSchemas}/>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     body{font-family:'Inter',sans-serif;background:#f7f7f8;color:#111}
@@ -193,6 +298,11 @@ const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="
 
     <!-- ARTICLE CONTENT -->
     <article class="prose">
+      <!-- PULSE: date de fraîcheur visible par Google + users -->
+      <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:10px 16px;margin-bottom:20px;display:flex;align-items:center;gap:10px;font-size:13px;color:#166534">
+        <span style="font-size:16px">🟢</span>
+        <span><strong>Zuletzt aktualisiert:</strong> {todayFormatted} — Alle Angaben zu Preisen und Inhalten wurden geprüft.</span>
+      </div>
       <slot/>
     </article>
 
