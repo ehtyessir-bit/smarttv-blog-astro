@@ -1,12 +1,12 @@
 ---
 title: "Deutschland WM 2026 Gruppe - Gegner & Chancen"
 slug: "deutschland-gegner-wm-2026"
-description: "Was du ber Deutschland wissen musst Deutschland nimmt an der WM 2026 in Nordamerika teil. Die Gruppenphase beginnt im Januar 2026 und wird von der FIFA g"
+description: "Wer sind Deutschlands Gegner bei der WM 2026? Alle Infos zur Gruppe, Spielplan und Chancen — plus: so schaust du live ohne Abo."
 date: "2026-06-01"
 keywords: "Deutschland Gruppe WM 2026 Gegner, Deutschland, WM 2026, Gruppenphase, FIFA, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?Germany,football,national,team,2026"
+image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Kurz erklart:** Was du uber Deutschland wissen musst Deutschland nimmt an der WM 2026 in Nordamerika teil. Die Gruppenphase be - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

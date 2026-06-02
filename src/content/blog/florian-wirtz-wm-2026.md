@@ -1,12 +1,12 @@
 ---
 title: "Florian Wirtz WM 2026 - Der Bayer-Star"
 slug: "florian-wirtz-wm-2026"
-description: "Was du ber Florian wissen musst Florian Wirtz ist ein talentierter Fuballspieler, der im Bayer Leverkusen unter Vertrag steht. Er ist Teil des DFB und h"
+description: "Florian Wirtz bei der WM 2026: Kann Deutschlands bester Spieler den Titel holen? Wir analysieren seine Chancen und verraten alles."
 date: "2026-06-01"
 keywords: "Florian Wirtz WM 2026, Florian Wirtz, Bayer Leverkusen, DFB, WM 2026, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?Florian,Wirtz,football,player,Germany"
+image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Kurz erklart:** Was du uber Florian wissen musst Florian Wirtz ist ein talentierter Fussballspieler, der im Bayer Leverkusen un - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

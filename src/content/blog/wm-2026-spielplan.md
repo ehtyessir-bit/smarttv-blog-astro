@@ -1,12 +1,12 @@
 ---
 title: "WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland"
 slug: "wm-2026-spielplan"
-description: " WM 2026 Spielplan alle Termine - Ehrlicher Test & Guide fr Deutschland 2026. WM 2026 Streams + IPTV ab 15. Alle Fakten jetzt "
+description: "Der komplette WM 2026 Spielplan mit allen Anstoßzeiten für Deutschland — alle Gruppenspiele, K.o.-Runden und das Finale."
 date: "2026-06-01"
 keywords: "WM 2026 Spielplan alle Termine, WM 2026, Spielplan, Gruppenphase, Achtelfinale, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
+image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Direkte Antwort:** ## Hook

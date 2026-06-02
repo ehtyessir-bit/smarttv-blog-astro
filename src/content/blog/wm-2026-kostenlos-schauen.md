@@ -1,12 +1,12 @@
 ---
 title: "WM 2026 kostenlos & legal schauen - DE, AT & CH komplett"
 slug: "wm-2026-kostenlos-schauen"
-description: " WM 2026 kostenlos legal schauen Deutschland - Ehrlicher Test & Guide fr Deutschland 2026. WM 2026 Streams + IPTV ab 15. Alle Fakten jetzt "
+description: "WM 2026 kostenlos & legal schauen in Deutschland, Österreich und der Schweiz — alle Sender, alle Spiele, ohne einen Cent."
 date: "2026-06-01"
 keywords: "WM 2026 kostenlos legal schauen Deutschland, ARD, ZDF, ORF, SRF, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
+image: "https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Direkte Antwort:** ## Hook

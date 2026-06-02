@@ -1,12 +1,12 @@
 ---
 title: "WM 2026 Spielorte - Die 16 Stadien in USA, Kanada & Mexiko"
 slug: "wm-2026-spielorte"
-description: " WM 2026 Spielorte Stadien USA Kanada Mexiko - Ehrlicher Test & Guide fr Deutschland 2026. WM 2026 Streams + IPTV ab 15. Alle Fakten jetzt "
+description: "Die 16 WM-Stadien 2026 in USA, Kanada und Mexiko: Welche Arenen Weltklasse sind — und wo das Finale stattfindet."
 date: "2026-06-01"
 keywords: "WM 2026 Spielorte Stadien USA Kanada Mexiko, WM 2026, New York, Los Angeles, Dallas, WM 2026 IPTV Deutschland"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?FIFA,World,Cup,2026,stadium"
+image: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Direkte Antwort:** ## Hook

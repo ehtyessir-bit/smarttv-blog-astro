@@ -1,12 +1,12 @@
 ---
 title: "Deutschland WM 2026 Gruppe - Gegner, Spielplan & Chancen"
 slug: "deutschland-gegner-wm-2026-gruppe"
-description: "Einleitung Die Fuball-Weltmeisterschaft 2026 (WM 2026) steht bevor, und die deutsche Nationalmannschaft hat ihren Platz in der Gruppe Deutschland Gruppe"
+description: "Deutschland gegen wen? Wir verraten dir alle Gruppengegner, die Chancen auf das Halbfinale — und wie du kein einziges Spiel verpasst."
 date: "2026-06-01"
 keywords: "Deutschland Gruppe WM 2026 Gegner, Deutschland, WM 2026 Gruppe, FIFA, Spielplan, Gegner, IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?Germany,football,national,team,2026"
+image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Kurz andamp; klar:** Einleitung Die Fussball-Weltmeisterschaft 2026 (WM 2026) steht bevor, und die deutsche Nationalmannschaft hat ihren Platz - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

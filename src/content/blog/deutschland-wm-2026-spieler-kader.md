@@ -1,12 +1,12 @@
 ---
 title: "Deutschlands WM 2026 Kader - Die 26 Spieler"
 slug: "deutschland-wm-2026-spieler-kader"
-description: "Was du ber Deutschland wissen musst Deutschland plant groartig fr die Fuball-WM 2026. Mit Kaderstellungen, die auf Talente wie Jamal Musiala und Flori"
+description: "Wer fährt zur WM 2026? Der endgültige 26-Mann-Kader der deutschen Nationalmannschaft — mit Überraschungen, die niemand erwartet hat."
 date: "2026-06-01"
 keywords: "Deutschland WM 2026 Kader Spieler, Jamal Musiala, Florian Wirtz, Kai Havertz, Toni Kroos, WM 2026 IPTV DACH"
 mainSite: "https://smarttv.one"
 noindex: false
-image: "https://source.unsplash.com/1200x400/?World,Cup,2026,football,Germany"
+image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1200&q=80&auto=format&fit=crop"
 ---
 
 > **Kurz erklart:** Was du uber Deutschland wissen musst Deutschland plant grossartig fur die Fussball-WM 2026. Mit Kaderstellungen, - Aktuellen IPTV-Vergleich fur DE, AT andamp; CH auf [smarttv.one](https://smarttv.one).

@@ -1,13 +1,13 @@
 ---
 title: "IPTV einrichten: Schritt-fr-Schritt-Anleitung 2026"
 slug: "iptv-einrichten-anleitung"
-description: " IPTV einrichten Anleitung Schritt fr Schritt - 2800+ Wrter Test & Guide 2026. WM 2026 live ab 4,83/Mo. Ehrliche Antwort fr Deutschland "
+description: "IPTV einrichten in 3 Minuten? So geht's — Schritt-für-Schritt-Anleitung für jeden Router, jeden TV und jedes Gerät."
 date: "2026-06-01"
 keywords: "IPTV einrichten Anleitung Schritt fr Schritt, IPTV, Firestick, Smart TV, Android, WM 2026 IPTV"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1490
-image: "https://source.unsplash.com/1200x400/?Tutorial,guide,instruction"
+image: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1200&q=80&auto=format&fit=crop"
 ---
 
 
