@@ -10,6 +10,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/Best_IPTV_App_featured.webp" alt="Best IPTV App - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

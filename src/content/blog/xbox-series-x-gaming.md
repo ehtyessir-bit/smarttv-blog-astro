@@ -10,6 +10,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/Xbox_Series_X_Gaming_featured.webp" alt="Xbox Series X Gaming - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

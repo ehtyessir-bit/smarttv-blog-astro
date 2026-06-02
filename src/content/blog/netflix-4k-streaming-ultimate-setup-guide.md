@@ -10,6 +10,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/Netflix_4K_Streaming_-_Ultimate_Setup_Guide_featured.webp" alt="Netflix 4K Streaming - Ultimate Setup Guide - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 # Netflix 4K Streaming - Ultimate Setup Guide
 
 Learn how to maximize your Netflix 4K streaming experience on your Smart TV with this complete guide.

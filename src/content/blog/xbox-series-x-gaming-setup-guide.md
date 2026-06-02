@@ -10,6 +10,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/Xbox_Series_X_Gaming_Setup_Guide_featured.webp" alt="Xbox Series X Gaming Setup Guide - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 # Xbox Series X Gaming Setup Guide
 
 Complete guide to setting up your Xbox Series X for the best gaming experience.

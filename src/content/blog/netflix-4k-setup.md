@@ -10,6 +10,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/Netflix_4K_Setup_featured.webp" alt="Netflix 4K Setup - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

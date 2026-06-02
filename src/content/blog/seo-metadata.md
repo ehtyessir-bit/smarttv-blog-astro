@@ -11,6 +11,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/SEO_Metadata_featured.webp" alt="SEO Metadata - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 ---
 # SEO Metadata
 seo_title: Die 8 besten Top Features Of Leading Iptv Providers in Germa

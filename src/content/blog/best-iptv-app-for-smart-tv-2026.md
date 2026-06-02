@@ -10,6 +10,8 @@ mainSite: https://smarttv.one
 noindex: false
 ---
 
+<img src="/images/Best_IPTV_App_for_Smart_TV_2026_featured.webp" alt="Best IPTV App for Smart TV 2026 - Complete guide and overview" style="max-width:100%; height:auto; margin: 20px 0;" />
+
 # Best IPTV App for Smart TV 2026
 
 If you're looking for the ultimate IPTV streaming experience, this guide will help you find the perfect app for your Smart TV.
