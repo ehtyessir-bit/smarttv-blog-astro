@@ -3,7 +3,6 @@
   "outputDirectory": "dist",
   "framework": "astro",
   "nodeVersion": "18.x",
-  "pythonVersion": "3.11",
   "env": {
     "KIE_API_KEY": {
       "description": "Kie.ai API key for article image generation",
