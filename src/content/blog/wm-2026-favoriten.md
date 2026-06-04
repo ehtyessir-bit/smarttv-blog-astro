@@ -1,13 +1,15 @@
 ---
-title: "WM 2026 Favoriten - Diese 5 Teams kmpfen um den WM-Titel"
-slug: "wm-2026-favoriten"
-description: "5 Teams kämpfen wirklich um den WM-Titel 2026. Deutschland ist dabei — aber wer ist wirklich der Favorit? Analyse & Quoten."
-focusKeyword: "WM 2026 Favoriten"
-date: "2026-06-01"
-keywords: "WM 2026 Favoriten Wer gewinnt, Brasilien, Frankreich, Argentinien, Deutschland, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 5 Teams kämpfen wirklich um den WM-Titel 2026. Deutschland ist dabei
+  — aber wer ist wirklich der Favorit? Analyse & Quoten.
+focusKeyword: WM 2026 Favoriten
+image: /images/blog/wm-2026-favoriten-featured.jpg
+keywords: WM 2026 Favoriten Wer gewinnt, Brasilien, Frankreich, Argentinien, Deutschland,
+  WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
+slug: wm-2026-favoriten
+title: WM 2026 Favoriten - Diese 5 Teams kmpfen um den WM-Titel
 ---
 
 > **Direkte Antwort:** ## Hook

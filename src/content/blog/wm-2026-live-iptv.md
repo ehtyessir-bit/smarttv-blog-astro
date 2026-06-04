@@ -1,13 +1,15 @@
 ---
-title: "WM 2026 live schauen: Der beste IPTV-Guide fr Deutschland"
-slug: "wm-2026-live-iptv"
-description: "WM 2026 live per IPTV in HD schauen — so geht's in Deutschland. Kein Sky, kein Dazn, nur €4,83/Monat für alle Spiele."
-focusKeyword: "WM 2026 live IPTV Deutschland"
-date: "2026-06-01"
-keywords: "WM 2026 live IPTV Deutschland schauen, WM 2026, IPTV, ARD, ZDF, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: WM 2026 live per IPTV in HD schauen — so geht's in Deutschland. Kein
+  Sky, kein Dazn, nur €4,83/Monat für alle Spiele.
+focusKeyword: WM 2026 live IPTV Deutschland
+image: /images/blog/wm-2026-live-iptv-featured.jpg
+keywords: WM 2026 live IPTV Deutschland schauen, WM 2026, IPTV, ARD, ZDF, WM 2026
+  IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80&auto=format&fit=crop"
+slug: wm-2026-live-iptv
+title: 'WM 2026 live schauen: Der beste IPTV-Guide fr Deutschland'
 ---
 
 > **Direkte Antwort:** ## Hook

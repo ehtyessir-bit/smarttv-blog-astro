@@ -1,14 +1,16 @@
 ---
-title: "Ist 50 Mbit genug fr IPTV? Wahrheit 2026"
-slug: "iptv-internet-geschwindigkeit"
-description: "Reichen 50 Mbit für IPTV wirklich aus? Die ehrliche Antwort überrascht die meisten — und so optimierst du deinen Stream."
-focusKeyword: "IPTV Internet Geschwindigkeit Mbit 2026"
-date: "2026-06-01"
-keywords: "Wie schnell muss Internet fr IPTV sein Mbit, IPTV, Internet, Mbit, Router, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Reichen 50 Mbit für IPTV wirklich aus? Die ehrliche Antwort überrascht
+  die meisten — und so optimierst du deinen Stream.
+focusKeyword: IPTV Internet Geschwindigkeit Mbit 2026
+image: /images/blog/iptv-internet-geschwindigkeit-featured.jpg
+keywords: Wie schnell muss Internet fr IPTV sein Mbit, IPTV, Internet, Mbit, Router,
+  WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-internet-geschwindigkeit
+title: Ist 50 Mbit genug fr IPTV? Wahrheit 2026
 wordCount: 1231
-image: "https://images.unsplash.com/photo-1558618047-3c8c76d2e6a0?w=1200&q=80&auto=format&fit=crop"
 ---
 
 Fur IPTV sollte das Internet mindestens 50 Mbit/s bieten. Empfehlung: Router mit Quality of Service und min. 100 Mbit/s fur HD und 250 Mbit/s fur 4K.Streaming auf SmartTV.one.

@@ -1,14 +1,15 @@
 ---
-title: "Ist IPTV in sterreich 2026 legal?"
-slug: "iptv-legal-oesterreich"
-description: "IPTV legal in Österreich? Das musst du 2026 wissen — klare Antworten statt juristischem Kauderwelsch. Lies es jetzt."
-focusKeyword: "IPTV legal Österreich 2026"
-date: "2026-06-01"
-keywords: "Ist IPTV legal sterreich 2026, IPTV, legal, sterreich, Wien, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: IPTV legal in Österreich? Das musst du 2026 wissen — klare Antworten
+  statt juristischem Kauderwelsch. Lies es jetzt.
+focusKeyword: IPTV legal Österreich 2026
+image: /images/blog/iptv-legal-oesterreich-featured.jpg
+keywords: Ist IPTV legal sterreich 2026, IPTV, legal, sterreich, Wien, WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-legal-oesterreich
+title: Ist IPTV in sterreich 2026 legal?
 wordCount: 1437
-image: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=1200&q=80&auto=format&fit=crop"
 ---
 
 In 2026 ist IPTV in Österreich legal, solange es keine Urheberrechtsverletzungen gibt. https://smarttv.one bietet legale Losungen fur Smart-TV-Streams in Wien und ganz Österreich.

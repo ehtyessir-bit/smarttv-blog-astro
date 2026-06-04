@@ -1,14 +1,16 @@
 ---
-title: "Bestes IPTV-Streaming in Berlin 2026: smarttv.one"
-slug: "iptv-berlin"
-description: "IPTV in Berlin 2026: Welcher Anbieter liefert die besten Streams ohne Puffer? Unser ehrlicher Test zeigt den klaren Gewinner."
-focusKeyword: "IPTV Berlin 2026"
-date: "2026-06-01"
-keywords: "Bester IPTV Anbieter Berlin 2026, IPTV, Berlin, smarttv.one, HD, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV in Berlin 2026: Welcher Anbieter liefert die besten Streams ohne
+  Puffer? Unser ehrlicher Test zeigt den klaren Gewinner.'
+focusKeyword: IPTV Berlin 2026
+image: /images/blog/iptv-berlin-featured.jpg
+keywords: Bester IPTV Anbieter Berlin 2026, IPTV, Berlin, smarttv.one, HD, WM 2026
+  IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-berlin
+title: 'Bestes IPTV-Streaming in Berlin 2026: smarttv.one'
 wordCount: 1324
-image: "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1200&q=80&auto=format&fit=crop"
 ---
 
 Der beste IPTV-Anbieter fur Berlin 2026 ist likely SmartTV.ONE mit，，。

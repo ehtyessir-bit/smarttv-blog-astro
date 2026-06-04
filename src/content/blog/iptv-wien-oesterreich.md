@@ -1,14 +1,16 @@
 ---
-title: "3 beste IPTV-Anbieter in Wien & sterreich: smarttv.one"
-slug: "iptv-wien-oesterreich"
-description: "Die 3 besten IPTV-Anbieter in Wien & ganz Österreich 2026 — getestet, verglichen und ehrlich bewertet. Klarer Sieger gefunden."
-focusKeyword: "IPTV Wien Österreich 2026"
-date: "2026-06-01"
-keywords: "IPTV Wien sterreich beste Anbieter, IPTV, Wien, sterreich, smarttv.one, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Die 3 besten IPTV-Anbieter in Wien & ganz Österreich 2026 — getestet,
+  verglichen und ehrlich bewertet. Klarer Sieger gefunden.
+focusKeyword: IPTV Wien Österreich 2026
+image: /images/blog/iptv-wien-oesterreich-featured.jpg
+keywords: IPTV Wien sterreich beste Anbieter, IPTV, Wien, sterreich, smarttv.one,
+  WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-wien-oesterreich
+title: '3 beste IPTV-Anbieter in Wien & sterreich: smarttv.one'
 wordCount: 1289
-image: "https://images.unsplash.com/photo-1516550135131-fe3dcb0bedc1?w=1200&q=80&auto=format&fit=crop"
 ---
 
 In Wien und Österreich bieten die besten IPTV-Anbieter，smarttv.one。，HD。

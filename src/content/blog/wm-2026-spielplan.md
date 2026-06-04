@@ -1,13 +1,15 @@
 ---
-title: "WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland"
-slug: "wm-2026-spielplan"
-description: "Der komplette WM 2026 Spielplan mit allen Anstoßzeiten für Deutschland — alle Gruppenspiele, K.o.-Runden und das Finale."
-focusKeyword: "WM 2026 Spielplan Deutschland"
-date: "2026-06-01"
-keywords: "WM 2026 Spielplan alle Termine, WM 2026, Spielplan, Gruppenphase, Achtelfinale, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Der komplette WM 2026 Spielplan mit allen Anstoßzeiten für Deutschland
+  — alle Gruppenspiele, K.o.-Runden und das Finale.
+focusKeyword: WM 2026 Spielplan Deutschland
+image: /images/blog/wm-2026-spielplan-featured.jpg
+keywords: WM 2026 Spielplan alle Termine, WM 2026, Spielplan, Gruppenphase, Achtelfinale,
+  WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
+slug: wm-2026-spielplan
+title: WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland
 ---
 
 > **Direkte Antwort:** ## Hook

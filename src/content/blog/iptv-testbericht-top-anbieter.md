@@ -1,13 +1,15 @@
 ---
-title: "IPTV Testbericht 2026: Diese 5 Anbieter berzeugen wirklich"
-slug: "iptv-testbericht-top-anbieter"
-description: "Wir haben 5 IPTV-Anbieter monatelang getestet — 2 haben komplett versagt. Hier ist der ehrliche Testbericht mit Sieger."
-focusKeyword: "IPTV Testbericht Top Anbieter 2026"
-date: "2026-06-01"
-keywords: "IPTV Testbericht beste Anbieter Deutschland, IPTV Test, Deutschland, sterreich, Schweiz, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Wir haben 5 IPTV-Anbieter monatelang getestet — 2 haben komplett versagt.
+  Hier ist der ehrliche Testbericht mit Sieger.
+focusKeyword: IPTV Testbericht Top Anbieter 2026
+image: /images/blog/iptv-testbericht-top-anbieter-featured.jpg
+keywords: IPTV Testbericht beste Anbieter Deutschland, IPTV Test, Deutschland, sterreich,
+  Schweiz, WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=1200&q=80&auto=format&fit=crop"
+slug: iptv-testbericht-top-anbieter
+title: 'IPTV Testbericht 2026: Diese 5 Anbieter berzeugen wirklich'
 ---
 
 > **Direkte Antwort:** ## Hook

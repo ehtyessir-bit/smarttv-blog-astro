@@ -1,13 +1,15 @@
 ---
-title: "Deutschland WM 2026 live: Kein Spiel verpassen mit IPTV"
-slug: "deutschland-wm-iptv-stream"
-description: "Alle Deutschland-Spiele bei der WM 2026 live schauen — ohne Kabel, ohne teure Abos. So geht's mit IPTV ab €4,83/Monat."
-focusKeyword: "Deutschland WM 2026 IPTV Stream"
-date: "2026-06-01"
-keywords: "Deutschland WM 2026 Spiel live Stream, Deutschland, WM 2026, IPTV, ARD ZDF, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Alle Deutschland-Spiele bei der WM 2026 live schauen — ohne Kabel, ohne
+  teure Abos. So geht's mit IPTV ab €4,83/Monat.
+focusKeyword: Deutschland WM 2026 IPTV Stream
+image: /images/blog/deutschland-wm-iptv-stream-featured.jpg
+keywords: Deutschland WM 2026 Spiel live Stream, Deutschland, WM 2026, IPTV, ARD ZDF,
+  WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=1200&q=80&auto=format&fit=crop"
+slug: deutschland-wm-iptv-stream
+title: 'Deutschland WM 2026 live: Kein Spiel verpassen mit IPTV'
 ---
 
 > **Direkte Antwort:** ## Hook

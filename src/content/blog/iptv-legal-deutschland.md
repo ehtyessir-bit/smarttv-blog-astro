@@ -1,14 +1,16 @@
 ---
-title: "Ist IPTV 2026 im Deutschen Gesetzlich?"
-slug: "iptv-legal-deutschland"
-description: "Ist IPTV in Deutschland 2026 legal? Was Anwälte wirklich sagen — und welche Anbieter du bedenkenlos nutzen kannst."
-focusKeyword: "IPTV legal Deutschland 2026"
-date: "2026-06-01"
-keywords: "Ist IPTV legal in Deutschland 2026, IPTV, legal, Deutschland, Gesetz, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Ist IPTV in Deutschland 2026 legal? Was Anwälte wirklich sagen — und
+  welche Anbieter du bedenkenlos nutzen kannst.
+focusKeyword: IPTV legal Deutschland 2026
+image: /images/blog/iptv-legal-deutschland-featured.jpg
+keywords: Ist IPTV legal in Deutschland 2026, IPTV, legal, Deutschland, Gesetz, WM
+  2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-legal-deutschland
+title: Ist IPTV 2026 im Deutschen Gesetzlich?
 wordCount: 1492
-image: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=1200&q=80&auto=format&fit=crop"
 ---
 
 In 2026 ist IPTV in Deutschland legal, sofern es dem Bundesnetzagentur-Gesetz entspricht. Weitere Informationen finden Sie auf smarttv.one.

@@ -1,14 +1,16 @@
 ---
-title: "Bester IPTV-Anbieter 2026: smarttv.one HD 4K, 58"
-slug: "bester-iptv-anbieter-test"
-description: "Wir haben 58 IPTV-Anbieter getestet — nur 3 haben wirklich überzeugt. Das Ergebnis wird dich überraschen. Jetzt ehrlichen Test lesen."
-focusKeyword: "Bester IPTV Anbieter Test 2026"
-date: "2026-06-01"
-keywords: "Bester IPTV Anbieter Test 2026, IPTV Test, smarttv.one, HD 4K, 58, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Wir haben 58 IPTV-Anbieter getestet — nur 3 haben wirklich überzeugt.
+  Das Ergebnis wird dich überraschen. Jetzt ehrlichen Test lesen.
+focusKeyword: Bester IPTV Anbieter Test 2026
+image: /images/blog/bester-iptv-anbieter-test-featured.jpg
+keywords: Bester IPTV Anbieter Test 2026, IPTV Test, smarttv.one, HD 4K, 58, WM 2026
+  IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: bester-iptv-anbieter-test
+title: 'Bester IPTV-Anbieter 2026: smarttv.one HD 4K, 58'
 wordCount: 1357
-image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1200&q=80&auto=format&fit=crop"
 ---
 
 Der beste IPTV-Anbieter fur 2026 lautet smarttv.one mit HD 4K-Inhalten und einem Preis von nur EUR58 im deutschen Markt.

@@ -1,13 +1,15 @@
 ---
-title: "Bestes IPTV fr WM 2026 - 8 Anbieter ehrlich getestet"
-slug: "bestes-iptv-wm-2026"
-description: "WM 2026 live ohne teure Sky-Abo? Wir zeigen dir die 5 besten IPTV-Anbieter, die alle Spiele in HD streamen — ab nur €4,83 im Monat."
-focusKeyword: "Bestes IPTV WM 2026"
-date: "2026-06-01"
-keywords: "bestes IPTV Anbieter WM 2026 Test, IPTV Test, WM 2026, 30000 Sender, 4K HD, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: WM 2026 live ohne teure Sky-Abo? Wir zeigen dir die 5 besten IPTV-Anbieter,
+  die alle Spiele in HD streamen — ab nur €4,83 im Monat.
+focusKeyword: Bestes IPTV WM 2026
+image: /images/blog/bestes-iptv-wm-2026-featured.jpg
+keywords: bestes IPTV Anbieter WM 2026 Test, IPTV Test, WM 2026, 30000 Sender, 4K
+  HD, WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80&auto=format&fit=crop"
+slug: bestes-iptv-wm-2026
+title: Bestes IPTV fr WM 2026 - 8 Anbieter ehrlich getestet
 ---
 
 > **Direkte Antwort:** ## Hook

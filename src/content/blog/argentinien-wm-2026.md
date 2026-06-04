@@ -1,13 +1,15 @@
 ---
-title: "Argentinien WM 2026 - Kann Messi den Weltmeistertitel verteidigen?"
-slug: "argentinien-wm-2026"
-description: "Kann Messi 2026 nochmal Weltmeister werden? Wir analysieren Argentiniens Chancen — und zeigen dir, wo du jedes Spiel live und kostenlos schaust."
-focusKeyword: "Argentinien WM 2026"
-date: "2026-06-01"
-keywords: "Argentinien WM 2026 Messi, Lionel Messi, Argentinien, WM 2026, Titelverteidiger, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Kann Messi 2026 nochmal Weltmeister werden? Wir analysieren Argentiniens
+  Chancen — und zeigen dir, wo du jedes Spiel live und kostenlos schaust.
+focusKeyword: Argentinien WM 2026
+image: /images/blog/argentinien-wm-2026-featured.jpg
+keywords: Argentinien WM 2026 Messi, Lionel Messi, Argentinien, WM 2026, Titelverteidiger,
+  WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1200&q=80&auto=format&fit=crop"
+slug: argentinien-wm-2026
+title: Argentinien WM 2026 - Kann Messi den Weltmeistertitel verteidigen?
 ---
 
 > **Direkte Antwort:** ## Hook: 2-3 direkte Satze zum Kern

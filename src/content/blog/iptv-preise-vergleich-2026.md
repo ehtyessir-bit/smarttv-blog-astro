@@ -1,14 +1,15 @@
 ---
-title: "IPTV-Preise 2026: Wir haben 58 getestet"
-slug: "iptv-preise-vergleich-2026"
-description: "Wir haben 58 IPTV-Preise verglichen — der günstigste kostet nur €4,83/Monat. Hier ist, warum du zu viel bezahlst."
-focusKeyword: "IPTV Preise Vergleich 2026"
-date: "2026-06-01"
-keywords: "IPTV Preise Vergleich 2026, 15, 35, 41, 58, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Wir haben 58 IPTV-Preise verglichen — der günstigste kostet nur €4,83/Monat.
+  Hier ist, warum du zu viel bezahlst.
+focusKeyword: IPTV Preise Vergleich 2026
+image: /images/blog/iptv-preise-vergleich-2026-featured.jpg
+keywords: IPTV Preise Vergleich 2026, 15, 35, 41, 58, WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-preise-vergleich-2026
+title: 'IPTV-Preise 2026: Wir haben 58 getestet'
 wordCount: 1579
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80&auto=format&fit=crop"
 ---
 
 IPTV-Preise im Jahr 2026 variieren: von EUR15 bis EUR220. SmartTV.one bietet Pakete ab EUR35 und einLifetime-Programm fur EUR91.

@@ -1,14 +1,16 @@
 ---
-title: "IPTV-Anbieter Vergleich: Wir haben 4 Lnder getestet"
-slug: "iptv-anbieter-vergleich-dach"
-description: "IPTV in Deutschland, Österreich und der Schweiz: Wir haben 4 Länder verglichen und zeigen, wer wirklich das beste Angebot hat."
-focusKeyword: "IPTV Anbieter Vergleich DACH"
-date: "2026-06-01"
-keywords: "IPTV Anbieter Vergleich Deutschland sterreich Schweiz, IPTV, Deutschland, sterreich, Schweiz, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV in Deutschland, Österreich und der Schweiz: Wir haben 4 Länder
+  verglichen und zeigen, wer wirklich das beste Angebot hat.'
+focusKeyword: IPTV Anbieter Vergleich DACH
+image: /images/blog/iptv-anbieter-vergleich-dach-featured.jpg
+keywords: IPTV Anbieter Vergleich Deutschland sterreich Schweiz, IPTV, Deutschland,
+  sterreich, Schweiz, WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-anbieter-vergleich-dach
+title: 'IPTV-Anbieter Vergleich: Wir haben 4 Lnder getestet'
 wordCount: 1537
-image: "https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=1200&q=80&auto=format&fit=crop"
 ---
 
 IPTV-Anbieter wie smarttv.one bieten in Deutschland, Österreich und der Schweiz gunstige Preise ab 5 Euro monatlich. Vergleichswerte sind ahnlich.

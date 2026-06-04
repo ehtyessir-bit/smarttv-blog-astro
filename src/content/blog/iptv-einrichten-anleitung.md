@@ -1,14 +1,16 @@
 ---
-title: "IPTV einrichten: Schritt-fr-Schritt-Anleitung 2026"
-slug: "iptv-einrichten-anleitung"
-description: "IPTV einrichten in 3 Minuten? So geht's — Schritt-für-Schritt-Anleitung für jeden Router, jeden TV und jedes Gerät."
-focusKeyword: "IPTV einrichten Anleitung 2026"
-date: "2026-06-01"
-keywords: "IPTV einrichten Anleitung Schritt fr Schritt, IPTV, Firestick, Smart TV, Android, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: IPTV einrichten in 3 Minuten? So geht's — Schritt-für-Schritt-Anleitung
+  für jeden Router, jeden TV und jedes Gerät.
+focusKeyword: IPTV einrichten Anleitung 2026
+image: /images/blog/iptv-einrichten-anleitung-featured.jpg
+keywords: IPTV einrichten Anleitung Schritt fr Schritt, IPTV, Firestick, Smart TV,
+  Android, WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-einrichten-anleitung
+title: 'IPTV einrichten: Schritt-fr-Schritt-Anleitung 2026'
 wordCount: 1490
-image: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=1200&q=80&auto=format&fit=crop"
 ---
 
 Hier ist eine Schritt-fur-Schritt-Anleitung zur Einrichtung von IPTV auf Ihrem Firestick oder Smart TV: Installieren Sie das IPTV-App auf Ihrem Gerat. Wahlen Sie einen Dienstprovider und folgen Sie dessen Anweisungen fur die Registrierung. Nutzen Sie Android-TV-Funktionen auf Smart TVs, oder installieren Sie eine App auf dem Firestick. Zugriff auf Inhalte ist abhangig

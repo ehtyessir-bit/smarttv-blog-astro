@@ -1,13 +1,15 @@
 ---
-title: "WM 2026 Favoriten - Wer holt den Weltmeistertitel?"
-slug: "wm-2026-favoriten-wer-gewinnt"
-description: "Wer wird Weltmeister 2026? Unsere Experten haben alle 48 Teams analysiert — und kommen zu einem klaren, überraschenden Ergebnis."
-focusKeyword: "WM 2026 Favoriten wer gewinnt"
-date: "2026-06-01"
-keywords: "WM 2026 Favoriten Wer gewinnt, Brasilien, Frankreich, Argentinien, England, Deutschland, IPTV DACH"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Wer wird Weltmeister 2026? Unsere Experten haben alle 48 Teams analysiert
+  — und kommen zu einem klaren, überraschenden Ergebnis.
+focusKeyword: WM 2026 Favoriten wer gewinnt
+image: /images/blog/wm-2026-favoriten-wer-gewinnt-featured.jpg
+keywords: WM 2026 Favoriten Wer gewinnt, Brasilien, Frankreich, Argentinien, England,
+  Deutschland, IPTV DACH
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&q=80&auto=format&fit=crop"
+slug: wm-2026-favoriten-wer-gewinnt
+title: WM 2026 Favoriten - Wer holt den Weltmeistertitel?
 ---
 
 > **Kurz andamp; klar:** Einleitung Wer gewinnt bei der FIFA WM 2026? Dies ist eine Frage, die sich viele Fussballfans in den Sinn gesetzt haben.  - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

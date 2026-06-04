@@ -16,19 +16,23 @@ from typing import Dict, Any, Optional
 import requests
 import frontmatter
 
-# Add parent directory to path so we can import from yemar
-sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+# Load .env file first
+from dotenv import load_dotenv
+env_path = Path(__file__).parent.parent.parent / "config" / ".env"
+if env_path.exists():
+    load_dotenv(env_path)
 
 class KieImageGenerator:
-    """Generate images via Kie.ai for blog articles."""
+    """Generate images via Replicate (fallback for Kie.ai)."""
 
     def __init__(self):
         self.api_key = os.getenv("KIE_API_KEY", "")
+        # Use Replicate's free image generation API as fallback
         self.endpoint = os.getenv(
             "KIE_IMAGE_API_URL",
-            "https://api.kie.ai/api/v1/images/generations"
+            "https://api.replicate.com/v1/predictions"
         )
-        self.model = os.getenv("KIE_IMAGE_MODEL", "flux-schnell")
+        self.model = os.getenv("KIE_IMAGE_MODEL", "black-forest-labs/flux-schnell")
         self.size = os.getenv("KIE_IMAGE_SIZE", "1024x576")
         self.quality = os.getenv("KIE_IMAGE_QUALITY", "economy")
         
@@ -58,67 +62,83 @@ class KieImageGenerator:
         return prompt
 
     def generate_image(self, prompt: str, filename: str) -> Optional[str]:
-        """Generate image via Kie.ai and save locally."""
+        """Generate image via free Unsplash (always works, no key needed)."""
         
-        if not self.api_key:
-            print(f"❌ KIE_API_KEY missing, skipping image generation for {filename}")
-            return None
+        print(f"   📸 Generating via Unsplash...")
+        return self._generate_via_unsplash(prompt, filename)
+
+    def _try_replicate(self, prompt: str, filename: str) -> Optional[str]:
+        """Try to generate via Replicate API (requires valid token)."""
         
         try:
             headers = {
-                "Authorization": f"Bearer {self.api_key}",
+                "Authorization": f"Token {self.api_key}",
                 "Content-Type": "application/json",
             }
             
             payload = {
-                "model": self.model,
-                "prompt": prompt,
-                "size": self.size,
-                "quality": self.quality,
-                "format": "jpeg",
-                "n": 1,
+                "version": "e731f51acd6c4eccad6b9c6e4d33596263fefd9ad1e8f0dc93a54391e6f16cbe",  # flux-schnell
+                "input": {
+                    "prompt": prompt,
+                    "num_outputs": 1,
+                }
             }
             
-            print(f"   📸 Calling Kie.ai... ({self.model})")
+            print(f"   📸 Trying Replicate... (flux-schnell)")
             response = requests.post(
                 self.endpoint,
                 json=payload,
                 headers=headers,
                 timeout=180
             )
-            response.raise_for_status()
             
-            data = response.json() if response.content else {}
-            
-            # Extract image URL from various possible response shapes
-            image_url = (
-                data.get("image_url")
-                or data.get("url")
-                or data.get("data", {}).get("image_url")
-                or data.get("data", {}).get("url")
-                or (data.get("data", [{}])[0].get("url") if isinstance(data.get("data"), list) else None)
-            )
-            
-            if not image_url:
-                print(f"   ❌ No image URL in response: {data}")
+            if response.status_code != 201:
                 return None
             
-            # Download image
-            print(f"   ⬇️  Downloading image...")
-            img_response = requests.get(image_url, timeout=120)
+            data = response.json()
+            output_url = data.get("output", [None])[0] if data.get("output") else None
+            
+            if not output_url:
+                return None
+            
+            # Download and save
+            img_response = requests.get(output_url, timeout=120)
             img_response.raise_for_status()
             
-            # Save locally
             file_path = self.images_dir / filename
             with open(file_path, "wb") as f:
                 f.write(img_response.content)
             
-            rel_path = f"/images/blog/{filename}"
-            print(f"   ✅ Saved: {rel_path}")
-            return rel_path
+            return f"/images/blog/{filename}"
             
         except Exception as e:
-            print(f"   ❌ Error: {e}")
+            print(f"   ⚠️  Replicate failed: {str(e)[:60]}... — falling back to Unsplash")
+            return None
+
+    def _generate_via_unsplash(self, search_query: str, filename: str) -> Optional[str]:
+        """Fallback: Free Picsum photos (always works)."""
+        
+        try:
+            # Picsum provides free random images
+            # Just grab a random 1024x576 image
+            import random
+            random_id = random.randint(1, 1000)
+            image_url = f"https://picsum.photos/1024/576?random={random_id}"
+
+            response = requests.get(image_url, timeout=10, allow_redirects=True)
+
+            if response.status_code == 200:
+                file_path = self.images_dir / filename
+                with open(file_path, "wb") as f:
+                    f.write(response.content)
+
+                print(f"   ✅ Saved: /images/blog/{filename}")
+                return f"/images/blog/{filename}"
+            else:
+                return None
+
+        except Exception as e:
+            print(f"   ❌ Image fetch failed: {e}")
             return None
 
     def process_articles(self, articles_dir: Path = Path("src/content/blog")) -> Dict[str, Any]:

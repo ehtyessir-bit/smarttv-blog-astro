@@ -1,13 +1,14 @@
 ---
-title: "gnstigstes IPTV Abo Deutschland - Guide 2026 fr DE, AT & CH"
-slug: "guenstigstes-iptv-abo"
-description: "Du zahlst zu viel für IPTV. Das günstigste Abo in Deutschland kostet nur €4,83/Monat — wir zeigen dir, wo und wie du sparst."
-focusKeyword: "Günstigstes IPTV Abo Deutschland 2026"
-date: "2026-06-01"
-keywords: "gnstigstes IPTV Abo Deutschland, IPTV DACH, IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Du zahlst zu viel für IPTV. Das günstigste Abo in Deutschland kostet
+  nur €4,83/Monat — wir zeigen dir, wo und wie du sparst.
+focusKeyword: Günstigstes IPTV Abo Deutschland 2026
+image: /images/blog/guenstigstes-iptv-abo-featured.jpg
+keywords: gnstigstes IPTV Abo Deutschland, IPTV DACH, IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80&auto=format&fit=crop"
+slug: guenstigstes-iptv-abo
+title: gnstigstes IPTV Abo Deutschland - Guide 2026 fr DE, AT & CH
 ---
 
 > **Kurz andamp; klar:** Alles Wichtige uber **gunstigstes IPTV Abo Deutschland** fur den DACH-Raum. Den aktuellen IPTV-Anbieter-Vergleich fur Deutschland, Österreich und die Schweiz findest du auf [smarttv.one](https://smarttv.one).

@@ -1,13 +1,15 @@
 ---
-title: "IPTV Anbieter Deutschland 2026 - Guide 2026 fr DE, AT & CH"
-slug: "iptv-anbieter-deutschland-2026"
-description: "Die besten IPTV-Anbieter in Deutschland 2026 im Vergleich — Preise, Qualität, Kanäle. Wir nennen dir den klaren Sieger."
-focusKeyword: "IPTV Anbieter Deutschland 2026"
-date: "2026-06-01"
-keywords: "IPTV Anbieter Deutschland 2026, IPTV Deutschland, IPTV sterreich, IPTV Schweiz, DACH"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Die besten IPTV-Anbieter in Deutschland 2026 im Vergleich — Preise, Qualität,
+  Kanäle. Wir nennen dir den klaren Sieger.
+focusKeyword: IPTV Anbieter Deutschland 2026
+image: /images/blog/iptv-anbieter-deutschland-2026-featured.jpg
+keywords: IPTV Anbieter Deutschland 2026, IPTV Deutschland, IPTV sterreich, IPTV Schweiz,
+  DACH
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1200&q=80&auto=format&fit=crop"
+slug: iptv-anbieter-deutschland-2026
+title: IPTV Anbieter Deutschland 2026 - Guide 2026 fr DE, AT & CH
 ---
 
 > **Kurz andamp; klar:** Alles Wichtige zu **IPTV Anbieter Deutschland 2026** fur den DACH-Raum. Den aktuellen Anbieter-Vergleich fur Deutschland, Österreich und die Schweiz findest du direkt auf [smarttv.one](https://smarttv.one).

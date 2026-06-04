@@ -1,14 +1,16 @@
 ---
-title: "IPTV Zrich Schweiz: Wir haben den besten Anbieter getestet"
-slug: "iptv-zuerich-schweiz"
-description: "IPTV in Zürich: Wir haben den besten Anbieter für die Schweiz gefunden — schnell, stabil, günstig. Alle Details hier."
-focusKeyword: "IPTV Zürich Schweiz 2026"
-date: "2026-06-01"
-keywords: "IPTV Zrich Schweiz bester Anbieter, IPTV, Zrich, Schweiz, smarttv.one, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV in Zürich: Wir haben den besten Anbieter für die Schweiz gefunden
+  — schnell, stabil, günstig. Alle Details hier.'
+focusKeyword: IPTV Zürich Schweiz 2026
+image: /images/blog/iptv-zuerich-schweiz-featured.jpg
+keywords: IPTV Zrich Schweiz bester Anbieter, IPTV, Zrich, Schweiz, smarttv.one, WM
+  2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-zuerich-schweiz
+title: 'IPTV Zrich Schweiz: Wir haben den besten Anbieter getestet'
 wordCount: 1256
-image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80&auto=format&fit=crop"
 ---
 
 Der beste IPTV-Anbieter fur Zurich und die Schweiz ist SmartTV.ONE mit gunstigen Preisen und einer hohen Qualitat.

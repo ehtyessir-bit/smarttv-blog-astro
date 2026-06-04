@@ -1,13 +1,15 @@
 ---
-title: "WM 2026 - Alle 48 qualifizierten Teams im berblick"
-slug: "wm-2026-alle-teams-qualifiziert"
-description: "Alle 48 qualifizierten Teams der WM 2026 auf einen Blick — und welche Überraschungen uns das Turnier bescheren wird."
-focusKeyword: "WM 2026 alle Teams qualifiziert"
-date: "2026-06-01"
-keywords: "WM 2026 alle qualifizierten Teams, WM 2026, FIFA, Brasilien, Frankreich, Argentinien, IPTV DACH"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Alle 48 qualifizierten Teams der WM 2026 auf einen Blick — und welche
+  Überraschungen uns das Turnier bescheren wird.
+focusKeyword: WM 2026 alle Teams qualifiziert
+image: /images/blog/wm-2026-alle-teams-qualifiziert-featured.jpg
+keywords: WM 2026 alle qualifizierten Teams, WM 2026, FIFA, Brasilien, Frankreich,
+  Argentinien, IPTV DACH
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80&auto=format&fit=crop"
+slug: wm-2026-alle-teams-qualifiziert
+title: WM 2026 - Alle 48 qualifizierten Teams im berblick
 ---
 
 > **Kurz andamp; klar:** Einleitung WM 2026 alle qualifizierten Teams – das sind die Fragen, die sich viele Fussballfans in Deutschland, Österreic - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

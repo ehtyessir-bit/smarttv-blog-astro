@@ -1,13 +1,15 @@
 ---
-title: "Deutschland WM 2026 - Kader, Spielplan und alle Infos"
-slug: "deutschland-wm-2026-kader-spielplan"
-description: "Der komplette DFB-Kader 2026 mit allen Spielern, Spielplan und Anstoßzeiten. So verpasst du kein einziges Deutschlandspiel bei der WM."
-focusKeyword: "Deutschland WM 2026 Kader Spielplan"
-date: "2026-06-01"
-keywords: "Deutschland WM 2026, Jamal Musiala, Florian Wirtz, Manuel Neuer, Toni Kroos, Leroy San, IPTV DACH"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Der komplette DFB-Kader 2026 mit allen Spielern, Spielplan und Anstoßzeiten.
+  So verpasst du kein einziges Deutschlandspiel bei der WM.
+focusKeyword: Deutschland WM 2026 Kader Spielplan
+image: /images/blog/deutschland-wm-2026-kader-spielplan-featured.jpg
+keywords: Deutschland WM 2026, Jamal Musiala, Florian Wirtz, Manuel Neuer, Toni Kroos,
+  Leroy San, IPTV DACH
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=1200&q=80&auto=format&fit=crop"
+slug: deutschland-wm-2026-kader-spielplan
+title: Deutschland WM 2026 - Kader, Spielplan und alle Infos
 ---
 
 > **Kurz andamp; klar:** Einleitung – beantworte direkt die Nutzerfrage in 2-3 Satzen Die Weltmeisterschaft 2026 (WM 2026) ist nicht nur ein gross - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).

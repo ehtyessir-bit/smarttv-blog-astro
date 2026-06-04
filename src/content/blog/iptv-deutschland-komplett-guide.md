@@ -1,14 +1,16 @@
 ---
-title: "IPTV Deutschland 2026: Wir haben alle SmartTV-Apps getestet"
-slug: "iptv-deutschland-komplett-guide"
-description: "IPTV in Deutschland 2026: Alles, was du wissen musst — Setup, Preise, Legalität. Der kompletteste Guide, den du finden wirst."
-focusKeyword: "IPTV Deutschland 2026"
-date: "2026-06-01"
-keywords: "IPTV Deutschland 2026 komplett Guide, IPTV, Deutschland, sterreich, Schweiz, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV in Deutschland 2026: Alles, was du wissen musst — Setup, Preise,
+  Legalität. Der kompletteste Guide, den du finden wirst.'
+focusKeyword: IPTV Deutschland 2026
+image: /images/blog/iptv-deutschland-komplett-guide-featured.jpg
+keywords: IPTV Deutschland 2026 komplett Guide, IPTV, Deutschland, sterreich, Schweiz,
+  WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-deutschland-komplett-guide
+title: 'IPTV Deutschland 2026: Wir haben alle SmartTV-Apps getestet'
 wordCount: 1474
-image: "https://images.unsplash.com/photo-1461151304267-38231e0cb52d?w=1200&q=80&auto=format&fit=crop"
 ---
 
 Ein vollstandiger IPTV-Leitfaden fur Deutschland 2026 umfasst Streamingdienste, Preisangebote (ca. EUR15–30/Monat) und Smart-TV-Unterstutzung. https://smarttv.one bietet Informationen zu IPTV in Deutschland, Österreich und der Schweiz mit Fokus auf die WM 2026.

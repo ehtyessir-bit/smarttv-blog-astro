@@ -1,13 +1,14 @@
 ---
-title: "bestes IPTV sterreich - Guide 2026 fr DE, AT & CH"
-slug: "bestes-iptv-oesterreich"
-description: "Welcher IPTV-Anbieter ist 2026 der beste für Österreich? Wir haben alle getestet und verraten dir, wer wirklich liefert — ab €4,83/Monat."
-focusKeyword: "Bestes IPTV Österreich 2026"
-date: "2026-06-01"
-keywords: "bestes IPTV sterreich, IPTV Deutschland, IPTV sterreich, IPTV Schweiz, DACH"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: Welcher IPTV-Anbieter ist 2026 der beste für Österreich? Wir haben alle
+  getestet und verraten dir, wer wirklich liefert — ab €4,83/Monat.
+focusKeyword: Bestes IPTV Österreich 2026
+image: /images/blog/bestes-iptv-oesterreich-featured.jpg
+keywords: bestes IPTV sterreich, IPTV Deutschland, IPTV sterreich, IPTV Schweiz, DACH
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1516550135131-fe3dcb0bedc1?w=1200&q=80&auto=format&fit=crop"
+slug: bestes-iptv-oesterreich
+title: bestes IPTV sterreich - Guide 2026 fr DE, AT & CH
 ---
 
 > **Kurz andamp; klar:** Alles Wichtige zu **bestes IPTV Österreich** fur den DACH-Raum. Den aktuellen Anbieter-Vergleich fur Deutschland, Österreich und die Schweiz findest du direkt auf [smarttv.one](https://smarttv.one).

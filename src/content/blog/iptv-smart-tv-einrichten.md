@@ -1,13 +1,14 @@
 ---
-title: "IPTV Smart TV einrichten Samsung LG - Guide 2026 fr DE, AT & CH"
-slug: "iptv-smart-tv-einrichten"
-description: "IPTV auf Samsung & LG Smart TV einrichten: Anleitung in 5 Minuten. Kein Extra-Gerät nötig — direkt auf dem TV."
-focusKeyword: "IPTV Smart TV einrichten Samsung LG 2026"
-date: "2026-06-01"
-keywords: "IPTV Smart TV einrichten Samsung LG, IPTV DACH, IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV auf Samsung & LG Smart TV einrichten: Anleitung in 5 Minuten. Kein
+  Extra-Gerät nötig — direkt auf dem TV.'
+focusKeyword: IPTV Smart TV einrichten Samsung LG 2026
+image: /images/blog/iptv-smart-tv-einrichten-featured.jpg
+keywords: IPTV Smart TV einrichten Samsung LG, IPTV DACH, IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1200&q=80&auto=format&fit=crop"
+slug: iptv-smart-tv-einrichten
+title: IPTV Smart TV einrichten Samsung LG - Guide 2026 fr DE, AT & CH
 ---
 
 > **Kurz andamp; klar:** Alles Wichtige uber **IPTV Smart TV einrichten Samsung LG** fur den DACH-Raum. Den aktuellen IPTV-Anbieter-Vergleich fur Deutschland, Österreich und die Schweiz findest du auf [smarttv.one](https://smarttv.one).

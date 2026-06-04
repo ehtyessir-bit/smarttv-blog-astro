@@ -1,14 +1,15 @@
 ---
-title: "IPTV legal Schweiz 2026: Was du wissen musst"
-slug: "iptv-legal-schweiz"
-description: "IPTV Schweiz 2026: Wann ist es legal, wann nicht? Der einzige Guide, der dir die ehrliche Antwort gibt — ohne Panik."
-focusKeyword: "IPTV legal Schweiz 2026"
-date: "2026-06-01"
-keywords: "IPTV legal Schweiz 2026, IPTV, legal, Schweiz, Zrich, WM 2026 IPTV"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV Schweiz 2026: Wann ist es legal, wann nicht? Der einzige Guide,
+  der dir die ehrliche Antwort gibt — ohne Panik.'
+focusKeyword: IPTV legal Schweiz 2026
+image: /images/blog/iptv-legal-schweiz-featured.jpg
+keywords: IPTV legal Schweiz 2026, IPTV, legal, Schweiz, Zrich, WM 2026 IPTV
+mainSite: https://smarttv.one
 noindex: false
+slug: iptv-legal-schweiz
+title: 'IPTV legal Schweiz 2026: Was du wissen musst'
 wordCount: 1441
-image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80&auto=format&fit=crop"
 ---
 
 In Zurich ist IPTV ab 2026 legal. Fur ca. CHF 15–20 pro Monat konnen Sie legally SmartTV.one nutzen.

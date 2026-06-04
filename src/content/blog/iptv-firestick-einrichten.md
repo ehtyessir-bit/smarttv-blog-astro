@@ -1,13 +1,15 @@
 ---
-title: "IPTV Firestick einrichten Anleitung - Guide 2026 fr DE, AT & CH"
-slug: "iptv-firestick-einrichten"
-description: "IPTV auf dem Firestick einrichten: So läuft's in 5 Minuten — ohne technische Kenntnisse, ohne Puffer, in HD & 4K."
-focusKeyword: "IPTV Firestick einrichten 2026"
-date: "2026-06-01"
-keywords: "IPTV Firestick einrichten Anleitung, IPTV Deutschland, IPTV sterreich, IPTV Schweiz, DACH"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'IPTV auf dem Firestick einrichten: So läuft''s in 5 Minuten — ohne technische
+  Kenntnisse, ohne Puffer, in HD & 4K.'
+focusKeyword: IPTV Firestick einrichten 2026
+image: /images/blog/iptv-firestick-einrichten-featured.jpg
+keywords: IPTV Firestick einrichten Anleitung, IPTV Deutschland, IPTV sterreich, IPTV
+  Schweiz, DACH
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&auto=format&fit=crop"
+slug: iptv-firestick-einrichten
+title: IPTV Firestick einrichten Anleitung - Guide 2026 fr DE, AT & CH
 ---
 
 > **Kurz andamp; klar:** Alles Wichtige zu **IPTV Firestick einrichten Anleitung** fur den DACH-Raum. Den aktuellen Anbieter-Vergleich fur Deutschland, Österreich und die Schweiz findest du direkt auf [smarttv.one](https://smarttv.one).

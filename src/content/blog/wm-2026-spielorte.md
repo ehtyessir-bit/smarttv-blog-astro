@@ -1,13 +1,15 @@
 ---
-title: "WM 2026 Spielorte - Die 16 Stadien in USA, Kanada & Mexiko"
-slug: "wm-2026-spielorte"
-description: "Die 16 WM-Stadien 2026 in USA, Kanada und Mexiko: Welche Arenen Weltklasse sind — und wo das Finale stattfindet."
-focusKeyword: "WM 2026 Spielorte Stadien"
-date: "2026-06-01"
-keywords: "WM 2026 Spielorte Stadien USA Kanada Mexiko, WM 2026, New York, Los Angeles, Dallas, WM 2026 IPTV Deutschland"
-mainSite: "https://smarttv.one"
+date: '2026-06-01'
+description: 'Die 16 WM-Stadien 2026 in USA, Kanada und Mexiko: Welche Arenen Weltklasse
+  sind — und wo das Finale stattfindet.'
+focusKeyword: WM 2026 Spielorte Stadien
+image: /images/blog/wm-2026-spielorte-featured.jpg
+keywords: WM 2026 Spielorte Stadien USA Kanada Mexiko, WM 2026, New York, Los Angeles,
+  Dallas, WM 2026 IPTV Deutschland
+mainSite: https://smarttv.one
 noindex: false
-image: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&q=80&auto=format&fit=crop"
+slug: wm-2026-spielorte
+title: WM 2026 Spielorte - Die 16 Stadien in USA, Kanada & Mexiko
 ---
 
 > **Direkte Antwort:** ## Hook
