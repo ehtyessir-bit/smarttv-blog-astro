@@ -1,4 +1,6 @@
 ---
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+
 interface Props {
   title: string;
   description: string;
@@ -139,6 +141,7 @@ const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="
   <meta name="description" content={description}/>
   {keywords && <meta name="keywords" content={keywords}/>}
   <link rel="canonical" href={canonicalURL}/>
+  {import.meta.env.PUBLIC_GSC_VERIFICATION && <meta name="google-site-verification" content={import.meta.env.PUBLIC_GSC_VERIFICATION}/>}
   <meta property="og:title" content={title}/>
   <meta property="og:description" content={description}/>
   <meta property="og:type" content="article"/>
@@ -148,6 +151,7 @@ const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
   <script type="application/ld+json" set:html={allSchemas}/>
+  <GoogleAnalytics />
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     body{font-family:'Inter',sans-serif;background:#f7f7f8;color:#111}
