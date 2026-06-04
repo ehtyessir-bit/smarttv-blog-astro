@@ -2,7 +2,6 @@
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist",
   "framework": "astro",
-  "nodeVersion": "18.x",
   "env": {
     "PUBLIC_GA4_ID": {
       "description": "Google Analytics 4 Measurement ID",
