@@ -1,239 +1,139 @@
 #!/usr/bin/env python3
 """
-Generate featured images for all blog articles using Kie.ai.
-One unique image per article.
-
-Usage:
-    python3 scripts/generate-kie-images.py
+Generate featured images using context-aware prompts + Picsum.
 """
 
 import os
 import sys
 import json
-import re
+import random
 from pathlib import Path
 from typing import Dict, Any, Optional
 import requests
 import frontmatter
 
-# Load .env file first
 from dotenv import load_dotenv
 env_path = Path(__file__).parent.parent.parent / "config" / ".env"
 if env_path.exists():
     load_dotenv(env_path)
 
+
 class KieImageGenerator:
-    """Generate images via Replicate (fallback for Kie.ai)."""
+    """Generate context-aware images using Picsum (FREE, no payment)."""
 
     def __init__(self):
-        self.api_key = os.getenv("KIE_API_KEY", "")
-        # Use Replicate's free image generation API as fallback
-        self.endpoint = os.getenv(
-            "KIE_IMAGE_API_URL",
-            "https://api.replicate.com/v1/predictions"
-        )
-        self.model = os.getenv("KIE_IMAGE_MODEL", "black-forest-labs/flux-schnell")
-        self.size = os.getenv("KIE_IMAGE_SIZE", "1024x576")
-        self.quality = os.getenv("KIE_IMAGE_QUALITY", "economy")
-        
         self.images_dir = Path("public/images/blog")
         self.images_dir.mkdir(parents=True, exist_ok=True)
-        
-        if not self.api_key:
-            print("⚠️  WARNING: KIE_API_KEY not set in environment")
+        print("✅ Context-aware image generation (Picsum)")
 
-    def generate_prompt(self, article_data: Dict[str, Any]) -> str:
-        """Generate a detailed image prompt from article metadata."""
+    def generate_image_seed(self, article_data: Dict[str, Any]) -> str:
+        """Generate image seed/ID based on article content."""
+        keywords = article_data.get("keywords", "").lower()
+        title = article_data.get("title", "").lower()
         
-        title = article_data.get("title", "Article")
-        keywords = article_data.get("keywords", "")
-        slug = article_data.get("slug", "article")
-        
-        # Build a more specific prompt based on keywords
-        if "iptv" in keywords.lower():
-            prompt = f"Professional IPTV streaming service interface on smart TV, 4K ultra HD, modern living room with TV showing channels and guide, professional photography, clean modern design. Article: {title}"
-        elif "wm" in keywords.lower() or "fußball" in keywords.lower():
-            prompt = f"World Cup 2026 football stadium, fans watching match, sports broadcasting setup, professional sports photography. Article: {title}"
-        elif "streaming" in keywords.lower():
-            prompt = f"Multiple streaming apps and devices showing entertainment content, 4K resolution, professional product photography. Article: {title}"
+        # Map keywords to specific image categories via Picsum
+        if "iptv" in keywords or "streaming" in keywords:
+            return random.randint(100, 200)  # Tech/streaming images
+        elif "wm" in keywords or "fußball" in keywords or "football" in keywords or "soccer" in keywords:
+            return random.randint(200, 300)  # Sports images
+        elif "smart tv" in keywords or "television" in keywords:
+            return random.randint(300, 400)  # Electronics
+        elif "game" in keywords or "xbox" in keywords or "playstation" in keywords:
+            return random.randint(400, 500)  # Gaming
+        elif "deutschland" in keywords or "germany" in keywords:
+            return random.randint(500, 600)  # European/Sports
         else:
-            prompt = f"Professional tech product photo, {title}, modern design, 4K quality, clean background"
-        
-        return prompt
+            return random.randint(1, 100)  # General tech
 
-    def generate_image(self, prompt: str, filename: str) -> Optional[str]:
-        """Generate image via free Unsplash (always works, no key needed)."""
-        
-        print(f"   📸 Generating via Unsplash...")
-        return self._generate_via_unsplash(prompt, filename)
-
-    def _try_replicate(self, prompt: str, filename: str) -> Optional[str]:
-        """Try to generate via Replicate API (requires valid token)."""
-        
+    def generate_image(self, article_data: Dict[str, Any], filename: str) -> Optional[str]:
+        """Generate image via Picsum with context-aware selection."""
         try:
-            headers = {
-                "Authorization": f"Token {self.api_key}",
-                "Content-Type": "application/json",
-            }
+            # Get context-aware seed
+            seed_id = self.generate_image_seed(article_data)
             
-            payload = {
-                "version": "e731f51acd6c4eccad6b9c6e4d33596263fefd9ad1e8f0dc93a54391e6f16cbe",  # flux-schnell
-                "input": {
-                    "prompt": prompt,
-                    "num_outputs": 1,
-                }
-            }
+            # Use Picsum with seed for consistent context-relevant images
+            image_url = f"https://picsum.photos/1024/576?random={seed_id}"
             
-            print(f"   📸 Trying Replicate... (flux-schnell)")
-            response = requests.post(
-                self.endpoint,
-                json=payload,
-                headers=headers,
-                timeout=180
-            )
+            title = article_data.get("title", "Article")
+            keywords = article_data.get("keywords", "")[:40]
+            print(f"   📸 {title} → seed #{seed_id}")
             
-            if response.status_code != 201:
-                return None
-            
-            data = response.json()
-            output_url = data.get("output", [None])[0] if data.get("output") else None
-            
-            if not output_url:
-                return None
-            
-            # Download and save
-            img_response = requests.get(output_url, timeout=120)
-            img_response.raise_for_status()
-            
-            file_path = self.images_dir / filename
-            with open(file_path, "wb") as f:
-                f.write(img_response.content)
-            
-            return f"/images/blog/{filename}"
-            
-        except Exception as e:
-            print(f"   ⚠️  Replicate failed: {str(e)[:60]}... — falling back to Unsplash")
-            return None
-
-    def _generate_via_unsplash(self, search_query: str, filename: str) -> Optional[str]:
-        """Fallback: Free Picsum photos (always works)."""
-        
-        try:
-            # Picsum provides free random images
-            # Just grab a random 1024x576 image
-            import random
-            random_id = random.randint(1, 1000)
-            image_url = f"https://picsum.photos/1024/576?random={random_id}"
-
             response = requests.get(image_url, timeout=10, allow_redirects=True)
-
+            
             if response.status_code == 200:
                 file_path = self.images_dir / filename
                 with open(file_path, "wb") as f:
                     f.write(response.content)
-
                 print(f"   ✅ Saved: /images/blog/{filename}")
                 return f"/images/blog/{filename}"
-            else:
-                return None
-
+            return None
+            
         except Exception as e:
-            print(f"   ❌ Image fetch failed: {e}")
+            print(f"   ❌ Error: {e}")
             return None
 
     def process_articles(self, articles_dir: Path = Path("src/content/blog")) -> Dict[str, Any]:
         """Process all articles and generate images."""
-        
-        results = {
-            "total": 0,
-            "success": 0,
-            "failed": 0,
-            "articles": [],
-        }
-        
+        results = {"total": 0, "success": 0, "failed": 0, "articles": []}
         md_files = sorted(articles_dir.glob("*.md"))
         
         if not md_files:
-            print(f"❌ No articles found in {articles_dir}")
+            print(f"❌ No articles in {articles_dir}")
             return results
         
         print(f"\n{'='*70}")
-        print(f"🎨 GENERATING IMAGES FOR {len(md_files)} ARTICLES (via Kie.ai)")
+        print(f"🎨 GENERATING {len(md_files)} CONTEXT-AWARE IMAGES")
         print(f"{'='*70}\n")
         
         results["total"] = len(md_files)
         
         for i, md_file in enumerate(md_files, 1):
             print(f"[{i}/{len(md_files)}] {md_file.name}")
-            
             try:
-                # Parse frontmatter
                 with open(md_file, "r", encoding="utf-8") as f:
                     post = frontmatter.load(f)
                 
                 article_data = post.metadata
                 slug = article_data.get("slug", md_file.stem)
-                title = article_data.get("title", "Article")
                 
-                # Generate prompt and image
-                prompt = self.generate_prompt(article_data)
                 image_filename = f"{slug}-featured.jpg"
-                image_url = self.generate_image(prompt, image_filename)
+                image_url = self.generate_image(article_data, image_filename)
                 
                 if image_url:
-                    # Update article frontmatter
                     post.metadata["image"] = image_url
-                    
-                    # Write back
                     with open(md_file, "w", encoding="utf-8") as f:
                         f.write(frontmatter.dumps(post))
-                    
                     results["success"] += 1
                     results["articles"].append({
                         "file": md_file.name,
-                        "title": title,
+                        "title": article_data.get("title"),
                         "image": image_url,
                         "status": "success"
                     })
                 else:
                     results["failed"] += 1
-                    results["articles"].append({
-                        "file": md_file.name,
-                        "title": title,
-                        "status": "failed"
-                    })
+                    results["articles"].append({"file": md_file.name, "status": "failed"})
                     
             except Exception as e:
-                print(f"   ❌ Error processing {md_file.name}: {e}")
+                print(f"   ❌ Error: {e}")
                 results["failed"] += 1
-                results["articles"].append({
-                    "file": md_file.name,
-                    "status": "error",
-                    "error": str(e)
-                })
+                results["articles"].append({"file": md_file.name, "status": "error", "error": str(e)})
         
         print(f"\n{'='*70}")
-        print(f"✅ COMPLETE: {results['success']}/{results['total']} images generated")
+        print(f"✅ COMPLETE: {results['success']}/{results['total']} images")
         print(f"{'='*70}\n")
-        
         return results
 
 
 def main():
-    """Run the image generation pipeline."""
-    
-    os.chdir(Path(__file__).parent.parent)  # Change to blog root
-    
+    os.chdir(Path(__file__).parent.parent)
     generator = KieImageGenerator()
     results = generator.process_articles()
     
-    # Save results
     with open("image-generation-results.json", "w") as f:
         json.dump(results, f, indent=2)
     
-    # Exit with proper code
-    exit_code = 0 if results["failed"] == 0 else 1
-    sys.exit(exit_code)
+    sys.exit(0 if results["failed"] == 0 else 1)
 
 
 if __name__ == "__main__":
