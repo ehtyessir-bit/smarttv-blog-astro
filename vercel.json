@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pip install -q -r requirements.txt && npm install && npm run build",
+  "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist",
   "framework": "astro",
   "nodeVersion": "18.x",
