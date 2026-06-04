@@ -1,5 +1,6 @@
 ---
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import GA4Tracking from '../components/GA4Tracking.astro';
 
 interface Props {
   title: string;
@@ -152,6 +153,19 @@ const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
   <script type="application/ld+json" set:html={allSchemas}/>
   <GoogleAnalytics />
+  <GA4Tracking />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CF95Q3V2SZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CF95Q3V2SZ', {
+      'page_path': window.location.pathname,
+      'anonymize_ip': true,
+      'cookie_flags': 'SameSite=None;Secure'
+    });
+  </script>
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     body{font-family:'Inter',sans-serif;background:#f7f7f8;color:#111}

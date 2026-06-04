@@ -4,6 +4,20 @@
   "framework": "astro",
   "nodeVersion": "18.x",
   "env": {
+    "PUBLIC_GA4_ID": {
+      "description": "Google Analytics 4 Measurement ID",
+      "required": false,
+      "default": "G-CF95Q3V2SZ"
+    },
+    "PUBLIC_GA4_DEBUG": {
+      "description": "GA4 debug mode (true/false)",
+      "required": false,
+      "default": "false"
+    },
+    "PUBLIC_GSC_VERIFICATION": {
+      "description": "Google Search Console verification code",
+      "required": false
+    },
     "KIE_API_KEY": {
       "description": "Kie.ai API key for article image generation",
       "required": false
