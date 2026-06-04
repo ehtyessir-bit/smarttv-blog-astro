@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "generate:images": "python3 scripts/generate-kie-images.py",
+    "build": "npm run generate:images && astro build",
     "preview": "astro preview"
   },
   "dependencies": {

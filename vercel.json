@@ -1,4 +1,30 @@
 {
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "framework": "astro",
+  "nodeVersion": "18.x",
+  "env": {
+    "KIE_API_KEY": {
+      "description": "Kie.ai API key for article image generation",
+      "required": false
+    },
+    "KIE_IMAGE_MODEL": {
+      "description": "Kie.ai image model (default: flux-schnell)",
+      "required": false
+    },
+    "KIE_IMAGE_SIZE": {
+      "description": "Image size (default: 1024x576)",
+      "required": false
+    },
+    "KIE_IMAGE_QUALITY": {
+      "description": "Image quality mode (default: economy)",
+      "required": false
+    },
+    "KIE_IMAGE_API_URL": {
+      "description": "Kie.ai API endpoint",
+      "required": false
+    }
+  },
   "redirects": [
     { "source": "/blog/:slug.mdx", "destination": "/blog/:slug", "permanent": true }
   ]
