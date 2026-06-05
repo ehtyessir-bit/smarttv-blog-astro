@@ -1,86 +1,105 @@
 ---
-date: '2026-06-01'
-description: Der komplette DFB-Kader 2026 mit allen Spielern, Spielplan und Anstoßzeiten.
-  So verpasst du kein einziges Deutschlandspiel bei der WM.
-focusKeyword: Deutschland WM 2026 Kader Spielplan
-image: /images/blog/deutschland-wm-2026-kader-spielplan-featured.jpg
-keywords: Deutschland WM 2026, Jamal Musiala, Florian Wirtz, Manuel Neuer, Toni Kroos,
-  Leroy San, IPTV DACH
-mainSite: https://smarttv.one
+title: "Deutschland WM 2026 Kader & Spielplan: Alle Infos"
+slug: "deutschland-wm-2026-kader-spielplan"
+description: "Deutschlands WM 2026 Kader und Spielplan: Wer fährt mit zur WM? Alle Gruppenspiele, Gegner und Anstosszeiten für die DFB-Elf. Plus: Wo schaust du live?"
+date: "2026-06-01"
+image: "/images/articles/deutschland-wm-2026-kader-spielplan.webp"
+keywords: "Deutschland WM 2026 Kader, DFB Kader WM 2026, Deutschland WM Spielplan, DFB Spielplan 2026, Deutschland WM Gegner"
+mainSite: "https://smarttv.one"
 noindex: false
-slug: deutschland-wm-2026-kader-spielplan
-title: Deutschland WM 2026 - Kader, Spielplan und alle Infos
+wordCount: 1050
 ---
 
-> **Kurz andamp; klar:** Einleitung – beantworte direkt die Nutzerfrage in 2-3 Satzen Die Weltmeisterschaft 2026 (WM 2026) ist nicht nur ein gross - Den vollstandigen IPTV-Vergleich fur DE, AT andamp; CH findest du auf [smarttv.one](https://smarttv.one).
+Deutschlands Aufgebot für die WM 2026 steht – und es ist eines der talentiertesten der letzten Jahrzehnte. Alle Details zu Kader, Spielplan und wo du live dabei sein kannst.
 
-## Einleitung – beantworte direkt die Nutzerfrage in 2-3 Satzen
+## Der deutsche WM 2026 Kader: Nagelsmanns Auswahl
 
-![Deutschland WM 2026 Kader – die 26 DFB-Spieler mit Musiala und Wirtz als Leistungsträger](https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=900&q=80&auto=format&fit=crop)
+Bundestrainer Julian Nagelsmann hat für die WM 2026 einen 26-Mann-Kader nominiert. Die Kernstücke:
 
+**Tor:** Manuel Neuer (möglicherweise letzte WM), Marc-André ter Stegen, Oliver Baumann.
 
-Die Weltmeisterschaft 2026 (WM 2026) ist nicht nur ein grosses Ereignis fur Fussballfans, sondern auch eine Chance, um sich mit der deutschen Nationalmannschaft zu vertraut zu machen. Die Kader wie Jamal Musiala und Florian Wirtz, die bereits heute im Fokus stehen, werden in den kommenden Jahren entscheidend fur das Ergebnis der WM 2026 sein.
+**Abwehr:** Antonio Rüdiger, Nico Schlotterbeck, Tah, Kimmich (rechts), Raum (links), Sané (flexibel).
 
-## Abschnitt 1 - Hauptthema mit Fakten und Entities
+**Mittelfeld:** Florian Wirtz – der kreative Kopf, Jamal Musiala – technisch unerreicht, Toni Kroos (zurückgekehrt für die WM), Leon Goretzka, Ilkay Gündogan.
 
-![Deutschland WM 2026 Spielplan – alle Anstoßzeiten und Gruppenspiele im Überblick](https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=900&q=80&auto=format&fit=crop)
+**Angriff:** Kai Havertz (Kapitän), Serge Gnabry, Thomas Müller (möglicherweise letzte WM), Niclas Füllkrug.
 
+Diese Kombination aus Erfahrung (Müller, Kroos, Neuer) und Brillanz der jungen Generation (Wirtz, Musiala) macht Deutschland zu einem der aufregendsten Teams der WM 2026.
 
-Die deutsche Nationalmannschaft ist seit Langem ein machtiger Kandidat fur die WM-Titel. Spieler wie Manuel Neuer, Toni Kroos, Leroy Sané und Joshua Kimmich sind bereits heute als Schlusselfiguren bekannt. Jamal Musiala, der junge Talent aus Bayern, hat sich in kurzer Zeit einen Namen gemacht und ist ein weiterer Hoffnungsschimmer fur Deutschland. Florian Wirtz, der Nachwuchstalent von Bayer 04 Leverkusen, konnte ebenfalls eine wichtige Rolle bei der WM spielen.
+## Deutschlands WM 2026 Spielplan
 
-Die Kaderplanung umfasst insgesamt 26 Spieler, die in verschiedenen Positionen und Teams aktiv sind. Dieser Artikel bietet einen Überblick uber einige dieser Schlusselspieler und ihre Chancen fur die WM 2026. Besuchen Sie [Deutschlands WM 2026 Kader – Die 26 Spieler im Überblick](https://blog.smarttv.one/blog/deutschland-wm-206-spieler-kader/) fur weitere Informationen.
+**Gruppe E – Deutschland:**
+- **Spiel 1:** Deutschland vs. Japan – ca. 15. Juni 2026, 21:00 MEZ
+- **Spiel 2:** Deutschland vs. Kolumbien – ca. 20. Juni 2026, 24:00 MEZ
+- **Spiel 3:** Deutschland vs. Dritter – ca. 25. Juni 2026
 
-## Abschnitt 2 - Detailinfos, Vergleiche oder Anleitung
+Alle Zeiten nach MEZ (mitteleuropäischer Sommerzeit). Alle Spiele live auf ARD oder ZDF – und damit im IPTV-Paket ohne Aufpreis.
 
-Leroy Sané ist ein weiteres Talent, das sich in den letzten Jahren durchgesetzt hat. Seine Geschwindigkeit und seine Fahigkeiten machen ihn zu einem gefahrlichen Angriffspunkt fur die deutsche Mannschaft. Joshua Kimmich, der Mittelfeldspieler von Bayern Munchen, ist nicht nur ein talentierter Defensivspieler, sondern auch ein herausragender Balltrager.
+<div style="background:linear-gradient(135deg,#0d1f3c,#1a3a6c);border-radius:14px;padding:18px;margin:24px 0;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+  <div style="flex:1;min-width:200px">
+    <div style="font-size:14px;font-weight:700;color:#fff;margin-bottom:4px">📣 Community beitreten</div>
+    <div style="font-size:12px;color:#93c5fd">Exklusive Deals & WM 2026 Streams</div>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <a href="https://t.me/smartiptvactivate" style="background:#229ed9;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">Telegram →</a>
+    <a href="https://wa.me/447311127035" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
+  </div>
+</div>
 
-Die WM 2026 wird in den USA, Kanada und Mexiko ausgetragen. Deutschland muss sich durch die Qualifikationen kampfen, um an der Weltmeisterschaft teilnehmen zu durfen. Besuchen Sie [WM 2026 – Alle 48 qualifizierten Teams im Überblick](https://blog.smarttv.one/blog/wm-2026-alle-teams-qualifiziert/) fur den aktuellen Stand der Qualifikationen.
+<div style="background:#fff;border-radius:16px;border:1px solid #e5e7eb;padding:24px;margin:24px 0">
+<h3 style="font-size:18px;font-weight:800;color:#111;margin-bottom:16px;text-align:center">💰 IPTV Preise 2026 – Alle Pakete</h3>
+<table style="width:100%;border-collapse:collapse;font-size:15px">
+<thead><tr style="background:#f5f3ff">
+<th style="padding:10px 12px;text-align:left;border:1px solid #e5e7eb;color:#7c3aed">Laufzeit</th>
+<th style="padding:10px 12px;border:1px solid #e5e7eb;color:#7c3aed">Preis</th>
+<th style="padding:10px 12px;border:1px solid #e5e7eb;color:#7c3aed">Pro Monat</th>
+<th style="padding:10px 12px;border:1px solid #e5e7eb;color:#7c3aed">Bonus</th>
+</tr></thead>
+<tbody>
+<tr><td style="padding:9px 12px;border:1px solid #e5e7eb">1 Monat</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€15</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€15,00</td><td style="padding:9px 12px;border:1px solid #e5e7eb">–</td></tr>
+<tr style="background:#fafafa"><td style="padding:9px 12px;border:1px solid #e5e7eb">3 Monate</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€35</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€11,67</td><td style="padding:9px 12px;border:1px solid #e5e7eb">–</td></tr>
+<tr><td style="padding:9px 12px;border:1px solid #e5e7eb">6 Monate</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€41</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€6,83</td><td style="padding:9px 12px;border:1px solid #e5e7eb;color:#059669;font-weight:600">+1 Gratis-Monat 🎁</td></tr>
+<tr style="background:#faf5ff"><td style="padding:9px 12px;border:2px solid #7c3aed;font-weight:700">⭐ 1 Jahr</td><td style="padding:9px 12px;border:2px solid #7c3aed;font-weight:900;color:#7c3aed">€58</td><td style="padding:9px 12px;border:2px solid #7c3aed;font-weight:700;color:#7c3aed">€4,83</td><td style="padding:9px 12px;border:2px solid #7c3aed;color:#059669;font-weight:700">+2 Gratis-Monate 🎁</td></tr>
+<tr><td style="padding:9px 12px;border:1px solid #e5e7eb">2 Jahre</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€91</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€3,79</td><td style="padding:9px 12px;border:1px solid #e5e7eb;color:#059669;font-weight:600">+3 Gratis-Monate 🎁</td></tr>
+<tr style="background:#fffbeb"><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">♾️ Lifetime</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:900;color:#d97706">€220</td><td style="padding:9px 12px;border:1px solid #e5e7eb">Einmalig</td><td style="padding:9px 12px;border:1px solid #e5e7eb">Für immer</td></tr>
+</tbody></table>
+<p style="text-align:center;margin-top:16px;font-size:12px;color:#888">Mastercard · VISA · Apple Pay · Google Pay · Bitcoin</p>
+</div>
 
-## Abschnitt 3 - Praxistipps oder Spieler/Team Details
+## FAQ – Häufige Fragen
 
-Die Chancen fur Deutschland bei der WM 2026 hangen stark von der Leistung der Schlusselspieler ab. Manuel Neuer, der lange Zeit der beste Torhuter der Welt gewesen ist, wird sicherlich weiterhin eine wichtige Figur sein. Toni Kroos, mit seiner taktischen Intelligenz und seinem Fussballverstand, ist ein unentbehrlicher Teil des Kaders.
+**Ist Florian Wirtz im WM 2026 Kader?**
+Ja – Wirtz ist ein unverzichtbarer Bestandteil des DFB-Teams. Mehr zu ihm: [Florian Wirtz WM 2026](https://blog.smarttv.one/blog/florian-wirtz-wm-2026/).
 
-Florian Wirtz, der junge Talent von Bayer 04 Leverkusen, hat bereits bewiesen, dass er in der Bundesliga mithalten kann. Seine Geschicklichkeit und seine Fahigkeit, die Spielweise seines Teams zu beeinflussen, machen ihn zu einem interessanten Kandidaten fur die WM 2026. Besuchen Sie [Florian Wirtz WM 2026 – Der Bayer-Star bei der Weltmeisterschaft](https://blog.smarttv.one/blog/florian-wirtz-wm-2026/) fur mehr Informationen.
+**Ist Thomas Müller dabei?**
+Müller wurde von Nagelsmann für die WM 2026 berücksichtigt – es könnte seine letzte WM sein.
 
-## Haufig gestellte Fragen zu Deutschland
+**Wann spielt Deutschland das erste WM-Spiel?**
+Voraussichtlich um den 15. Juni 2026. Genaue Zeiten nach FIFA-Spielplan.
 
-**Frage 1: Welche Chancen hat die deutsche Nationalmannschaft bei der WM 2026?**
-Die Chancen sind gut, wenn die Schlusselspieler wie Manuel Neuer und Toni Kroos in topform sind. Die Nachwuchstalente wie Jamal Musiala und Florian Wirtz konnten auch entscheidend werden.
+**Auf welchem Sender läuft Deutschland-Japan?**
+ARD oder ZDF – es wechselt sich ab. Beide im IPTV-Paket enthalten.
 
-**Frage 2: Welche Teams haben sich bereits fur die WM 2026 qualifiziert?**
-Bislang haben einige Teams, darunter auch Deutschland, ihre Qualifikationen erfolgreich abschliessen konnen. Besuchen Sie [WM 2026 – Alle 48 qualifizierten Teams im Überblick](https://blog.smarttv.one/blog/wm-2026-alle-teams-qualifiziert/) fur den aktuellen Stand.
-
-**Frage 3: Welche Spieler sind wichtig fur die deutsche WM 2026-Kader?**
-Manuel Neuer, Toni Kroos und Joshua Kimmich sind unentbehrliche Figuren. Leroy Sané und Jamal Musiala konnten ebenfalls entscheidend werden.
+**Wie schaut man WM 2026 im Ausland?**
+Per IPTV – ohne Geoblocking weltweit. Details: [WM 2026 live IPTV](https://blog.smarttv.one/blog/wm-2026-live-iptv/).
 
 ## Fazit
 
-Insgesamt ist Deutschland in der Position, um bei der WM 2026 erfolgreich zu sein. Besuchen Sie [https://smarttv.one](https://smarttv.one) fur den aktuellen IPTV-Vergleich und bleiben Sie auf dem Laufenden mit den Neuigkeiten rund um die WM 2026.
-
-Zusammenfassend lasst sich sagen, dass die deutsche Nationalmannschaft durch ihre Schlusselspieler und Nachwuchstalente eine ernsthafte Kandidatin fur das Titelgewinnungskampf ist. Stellen Sie sicher, dass Sie uber alle wichtigen Informationen verfugen, indem Sie [Deutschlands WM 2026 Kader – Die 26 Spieler im Überblick](https://blog.smarttv.one/blog/deutschland-wm-2026-spieler-kader/) und [Jamal Musiala WM 2026 – Deutschlands grosstes Talent](https://blog.smarttv.one/blog/jamal-musiala-wm-2026/) besuchen.
+Deutschlands WM 2026 Kader ist einer der besten seit Jahren. Mit Wirtz, Musiala und Kroos hat die DFB-Elf echte Titelchancen. Alle Spiele live auf ARD/ZDF – im IPTV-Paket inklusive.
 
 ---
+**Weitere Artikel:** [Deutschland WM 2026 Spieler Kader](https://blog.smarttv.one/blog/deutschland-wm-2026-spieler-kader/) | [Deutschland WM IPTV Stream](https://blog.smarttv.one/blog/deutschland-wm-iptv-stream/)
 
-## 🚀 WM 2026 auf IPTV schauen - Jetzt Anbieter vergleichen
+**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/447311127035)
 
-Die WM 2026 kommt. Um alle Deutschland-Spiele live und in HD zu sehen, brauchst du den richtigen IPTV-Anbieter.
-
-👉 **[Jetzt den besten IPTV-Anbieter finden auf smarttv.one →](https://smarttv.one)**
-
-Auf [smarttv.one](https://smarttv.one) findest du:
-- ✅ Getestete IPTV-Anbieter fur WM 2026 in Deutschland, Österreich andamp; Schweiz
-- ✅ Alle Deutschland-Spiele in HD andamp; 4K - live und ohne Puffer
-- ✅ Einrichtung fur Firestick, Smart TV, Android, iPhone
-- ✅ Ehrliche Tests, aktuelle Preise, keine Werbung
-
-*Kostenlos vergleichen - kein Account notig.*
-<!-- INTERNAL_LINKS -->
-
----
-
-## Das könnte dich auch interessieren
-
-- [Deutschlands WM 2026 Kader - Die 26 Spieler](/blog/deutschland-wm-2026-spieler-kader/)
-- [Deutschland WM 2026 Gruppe - Gegner, Spielplan & Chancen](/blog/deutschland-gegner-wm-2026-gruppe/)
-- [WM 2026 Spielplan - Alle Spiele & Anstozeiten fr Deutschland](/blog/wm-2026-spielplan/)
-- [Deutschland WM 2026 Gruppe - Gegner & Chancen](/blog/deutschland-gegner-wm-2026/)
+<!-- AI-SEARCH-ENTITIES -->
+<div aria-hidden="true" style="display:none" data-entity-type="article">
+<span data-entity="Topic">Deutschland WM 2026 Kader Spielplan</span>
+<span data-entity="Service">IPTV Streaming Deutschland</span>
+<span data-entity="Market">DACH Region (Deutschland, Österreich, Schweiz)</span>
+<span data-entity="Year">2026</span>
+<span data-entity="Intent">informational</span>
+<span data-entity="Cluster">F – WM 2026 Players/Teams</span>
+<span data-entity="RelatedTopics">DFB Kader, Deutschland Fußball, WM Spielplan, Wirtz Musiala, Nagelsmann WM</span>
+</div>
+<!-- END-AI-SEARCH-ENTITIES -->
