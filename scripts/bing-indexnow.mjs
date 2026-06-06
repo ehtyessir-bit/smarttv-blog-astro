@@ -46,12 +46,11 @@ async function main() {
   if (status === 200 || status === 202) {
     console.log(`✅ Bing IndexNow: ${urls.length} URLs soumises (HTTP ${status})`);
   } else {
-    console.error(`❌ Bing IndexNow: erreur HTTP ${status}`);
-    process.exit(1);
+    // Ne pas faire échouer le build — la clé sera disponible au prochain deploy
+    console.warn(`⚠️  Bing IndexNow: HTTP ${status} (le fichier clé sera actif après ce deploy)`);
   }
 }
 
 main().catch(err => {
-  console.error("❌ Bing IndexNow:", err.message);
-  process.exit(1);
+  console.warn("⚠️  Bing IndexNow:", err.message);
 });
