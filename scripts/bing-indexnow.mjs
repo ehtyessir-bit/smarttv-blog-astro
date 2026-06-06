@@ -9,7 +9,7 @@ import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const INDEXNOW_KEY = "68bee3fa42c14a7093756dde76789635";
+const INDEXNOW_KEY = "bf1b23cb7a984e8e9fb3bb240748db92";
 const HOST         = "blog.smarttv.one";
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`;
 const API_URL      = "https://api.indexnow.org/indexnow";
