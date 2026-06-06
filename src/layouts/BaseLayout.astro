@@ -1,0 +1,39 @@
+---
+// src/layouts/BaseLayout.astro
+// Global layout that includes GA4 tracking for all pages
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = "SmartTV.one Blog", description = "IPTV Blog" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    
+    <!-- Google Analytics 4 - HARDCODED -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CF95Q3V2SZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-CF95Q3V2SZ', {
+        'page_path': window.location.pathname,
+        'anonymize_ip': true,
+        'cookie_flags': 'SameSite=None;Secure'
+      });
+    </script>
+    
+    <slot name="head" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
