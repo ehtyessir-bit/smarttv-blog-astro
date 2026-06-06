@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "generate:images": "python3 scripts/generate-kie-images.py",
     "build": "astro build",
-    "postbuild": "node scripts/bing-indexnow.mjs",
+    "postbuild": "node scripts/generate-sitemap.mjs && node scripts/bing-indexnow.mjs",
     "preview": "astro preview"
   },
   "dependencies": {
