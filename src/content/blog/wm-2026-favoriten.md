@@ -4,7 +4,7 @@ slug: "wm-2026-favoriten"
 description: "Wer sind die Favoriten auf den WM-Titel 2026? Brasilien, Frankreich oder Deutschland? Wir analysieren die stärksten Teams und geben unsere Prognose."
 date: '2026-05-23'
 image: "/images/articles/wm-2026-favoriten.webp"
-keywords: "WM 2026 Favoriten, WM 2026 Prognose, wer gewinnt WM 2026, WM 2026 Tipp, Weltmeisterschaft 2026 Favorit, Deutschland WM 2026 Chancen"
+keywords: "WM 2026 Favoriten, WM 2026 Titelkandidaten, wer gewinnt WM 2026, WM 2026 Favoriten stream, WM 2026 Wettquoten Favoriten, WM 2026 Favoriten Deutschland, WM 2026 Top Teams"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1050

@@ -4,7 +4,7 @@ slug: "iptv-firestick-einrichten"
 description: "IPTV auf Amazon Firestick einrichten 2026: Vollständige Schritt-für-Schritt Anleitung. Welche App, welche Einstellungen, was tun bei Problemen – alles erklärt."
 date: '2026-02-21'
 image: "/images/articles/iptv-firestick-einrichten.webp"
-keywords: "IPTV Firestick einrichten, Amazon Fire TV IPTV, Firestick IPTV App, IPTV Fire Stick, TiviMate Firestick"
+keywords: "IPTV Firestick einrichten 2026, IPTV auf Amazon Firestick, Firestick IPTV App, IPTV Fire TV Stick installieren, Amazon Fire Stick IPTV kaufen, IPTV Smarters Firestick, Firestick IPTV Anleitung 2026, IPTV auf Firestick 4K Max"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1050

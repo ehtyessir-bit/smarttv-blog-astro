@@ -4,7 +4,7 @@ slug: "iptv-zuerich-schweiz"
 description: "IPTV in Zürich und der Schweiz 2026: Welcher Anbieter liefert SRF, 3+ und alle Schweizer Sender? Kompletter Vergleich mit Preisen für Zürich und die Deutschschweiz."
 date: '2026-04-20'
 image: "/images/articles/iptv-zuerich-schweiz.webp"
-keywords: "IPTV Zürich, IPTV Schweiz, IPTV Zürich Anbieter, SRF IPTV Zürich, bestes IPTV Zürich, TV Streaming Zürich"
+keywords: "IPTV Zürich Schweiz 2026, IPTV Zürich kaufen, IPTV Anbieter Zürich, bestes IPTV Zürich, IPTV SRF kaufen Zürich, IPTV CH Zürich, IPTV Schweizer Sender Zürich, IPTV kaufen Zürich"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1000

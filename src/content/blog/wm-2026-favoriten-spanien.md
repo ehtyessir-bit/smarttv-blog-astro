@@ -4,7 +4,7 @@ description: "Spanien gilt als Topfavorit der WM 2026. Wir analysieren den Kader
 date: '2026-06-05'
 slug: wm-2026-favoriten-spanien
 focusKeyword: Spanien WM 2026
-keywords: Spanien WM 2026, Spanien Weltmeister 2026, WM 2026 Favoriten Spanien, La Furia Roja WM 2026
+keywords: "Spanien WM 2026 Favorit, La Roja WM 2026 Kader, Pedri Yamal WM 2026, Spanien IPTV stream WM 2026, Spanien Titelverteidiger WM 2026"
 image: /images/blog/wm-2026-favoriten-spanien-featured.jpg
 mainSite: https://smarttv.one
 noindex: false

@@ -4,7 +4,7 @@ description: "England gilt als Top-3-Favorit der WM 2026. Bellingham, Kane und S
 date: '2026-06-04'
 slug: wm-2026-favoriten-england
 focusKeyword: England WM 2026
-keywords: England WM 2026, Three Lions WM 2026, Bellingham WM 2026, Kane WM 2026, England Favoriten 2026
+keywords: "England WM 2026 Favorit, Three Lions WM 2026 Kader, England IPTV stream WM 2026, England Bellingham WM 2026, Premier League WM 2026 Spieler"
 image: /images/blog/wm-2026-favoriten-england-featured.jpg
 mainSite: https://smarttv.one
 noindex: false

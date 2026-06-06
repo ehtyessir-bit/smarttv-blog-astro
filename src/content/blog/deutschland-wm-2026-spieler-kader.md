@@ -4,7 +4,7 @@ slug: "deutschland-wm-2026-spieler-kader"
 description: "Alle Spieler im Deutschland WM 2026 Kader: Wer ist dabei, wer fehlt? Vollständige Kaderliste mit Positionen, Vereinen und Analyse der DFB-Stärken & Schwächen."
 date: '2026-05-28'
 image: "/images/articles/deutschland-wm-2026-spieler-kader.webp"
-keywords: "Deutschland WM 2026 Spieler, DFB Spieler WM 2026, Deutschland Kader WM, welche Spieler Deutschland WM, DFB Aufgebot 2026"
+keywords: "Deutschland WM 2026 Spieler Kader, DFB Nationalmannschaft WM 2026, Deutschland WM 2026 Kader Nagelsmann, DFB WM 2026 Aufstellung, Deutschland Spieler WM 2026 Liste"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1050

@@ -4,7 +4,7 @@ description: "Brasilien ist Rekordweltmeister mit 5 Titeln – der letzte war 20
 date: '2026-06-05'
 slug: wm-2026-favoriten-brasilien
 focusKeyword: Brasilien WM 2026
-keywords: Brasilien WM 2026, Seleção WM 2026, Brasilien Favoriten 2026, Vinicius Junior WM 2026, Brasilien Weltmeister 2026
+keywords: "Brasilien WM 2026 Favorit, Seleção WM 2026 Kader, Brasilien stream WM 2026, Brasilien IPTV WM 2026 schauen, Neymar Nachfolger WM 2026"
 image: /images/blog/wm-2026-favoriten-brasilien-featured.jpg
 mainSite: https://smarttv.one
 noindex: false

@@ -4,7 +4,7 @@ slug: "deutschland-gegner-wm-2026"
 description: "Wer sind Deutschlands Gegner bei der WM 2026? Japan, Kolumbien und wer noch? Komplette Analyse aller Gruppengegner mit Stärken, Schwächen und Prognose."
 date: '2026-06-03'
 image: "/images/articles/deutschland-gegner-wm-2026.webp"
-keywords: "Deutschland Gegner WM 2026, DFB Gegner WM, Deutschland Gruppe WM 2026, Japan Deutschland WM, Kolumbien Deutschland WM"
+keywords: "Deutschland Gegner WM 2026, DFB WM 2026 Gruppe, Deutschland WM 2026 Gegner, Deutschland Gruppe WM 2026, DFB Gegner stream WM 2026, Deutschland WM 2026 Spielplan Gegner"
 mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 1050
