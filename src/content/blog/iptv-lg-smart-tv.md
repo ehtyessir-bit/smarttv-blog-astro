@@ -1,7 +1,7 @@
 ---
 title: "IPTV LG Smart TV einrichten 2026 – webOS Anleitung"
 description: "IPTV auf LG Smart TV mit webOS einrichten – so geht's 2026. Beste Apps, Schritt-für-Schritt Anleitung und welcher IPTV-Anbieter auf LG am besten funktioniert."
-date: '2026-06-01'
+date: '2026-04-05'
 slug: iptv-lg-smart-tv
 focusKeyword: IPTV LG Smart TV
 keywords: IPTV LG Smart TV, LG webOS IPTV, LG TV IPTV einrichten, IPTV App LG 2026, LG OLED IPTV

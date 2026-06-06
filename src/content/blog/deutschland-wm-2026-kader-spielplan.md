@@ -2,7 +2,7 @@
 title: "Deutschland WM 2026 Kader & Spielplan: Alle Infos"
 slug: "deutschland-wm-2026-kader-spielplan"
 description: "Deutschlands WM 2026 Kader und Spielplan: Wer fährt mit zur WM? Alle Gruppenspiele, Gegner und Anstosszeiten für die DFB-Elf. Plus: Wo schaust du live?"
-date: "2026-06-01"
+date: '2026-05-26'
 image: "/images/articles/deutschland-wm-2026-kader-spielplan.webp"
 keywords: "Deutschland WM 2026 Kader, DFB Kader WM 2026, Deutschland WM Spielplan, DFB Spielplan 2026, Deutschland WM Gegner"
 mainSite: "https://smarttv.one"

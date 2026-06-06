@@ -2,7 +2,7 @@
 title: "IPTV Wien & Österreich 2026: Beste Anbieter im Test"
 slug: "iptv-wien-oesterreich"
 description: "IPTV in Wien und ganz Österreich 2026: Welcher Anbieter liefert alle ORF-Sender, ATV und ServusTV in HD? Kompletter Test mit Preisvergleich für Österreich."
-date: "2026-06-01"
+date: '2026-04-17'
 image: "/images/articles/iptv-wien-oesterreich.webp"
 keywords: "IPTV Wien, IPTV Österreich, IPTV Wien Anbieter, ORF IPTV, bestes IPTV Wien, TV Streaming Wien"
 mainSite: "https://smarttv.one"

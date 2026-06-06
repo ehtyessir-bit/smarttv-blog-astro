@@ -2,7 +2,7 @@
 title: "WM 2026 kostenlos schauen: ARD, ZDF und IPTV erklärt"
 slug: "wm-2026-kostenlos-schauen"
 description: "WM 2026 kostenlos und legal schauen in Deutschland, Österreich und der Schweiz. ARD, ZDF, ORF, SRF – alle Optionen erklärt. Plus: IPTV ab €4,83/Monat."
-date: "2026-06-01"
+date: '2026-06-05'
 image: "/images/articles/wm-2026-kostenlos-schauen.webp"
 keywords: "WM 2026 kostenlos schauen, WM 2026 live kostenlos, WM 2026 ARD ZDF, WM 2026 gratis, Weltmeisterschaft 2026 free stream"
 mainSite: "https://smarttv.one"

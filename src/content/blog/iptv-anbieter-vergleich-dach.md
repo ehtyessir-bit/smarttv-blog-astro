@@ -2,7 +2,7 @@
 title: "IPTV Anbieter DACH Vergleich 2026: DE, AT & CH im Test"
 slug: "iptv-anbieter-vergleich-dach"
 description: "IPTV für Deutschland, Österreich und die Schweiz im großen Vergleich 2026. Welcher Anbieter hat alle DACH-Sender und das beste Preis-Leistungs-Verhältnis?"
-date: "2026-06-01"
+date: '2026-03-26'
 image: "/images/articles/iptv-anbieter-vergleich-dach.webp"
 keywords: "IPTV Anbieter DACH, IPTV Österreich Schweiz Deutschland, IPTV DACH Vergleich, bestes IPTV DACH, IPTV Schweiz Deutschland"
 mainSite: "https://smarttv.one"

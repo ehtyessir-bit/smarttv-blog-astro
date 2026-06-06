@@ -2,7 +2,7 @@
 title: "Bestes IPTV Österreich 2026: Top Anbieter mit ORF-Sender"
 slug: "bestes-iptv-oesterreich"
 description: "Das beste IPTV für Österreich 2026: Wer hat alle ORF-Sender, ServusTV und ATV in HD? Großer Test mit Preisvergleich – unser Testsieger für den österreichischen Markt."
-date: "2026-06-01"
+date: '2026-04-23'
 image: "/images/articles/bestes-iptv-oesterreich.webp"
 keywords: "bestes IPTV Österreich, IPTV Austria Test, IPTV ORF, bester IPTV Anbieter Österreich, IPTV Vergleich Österreich"
 mainSite: "https://smarttv.one"

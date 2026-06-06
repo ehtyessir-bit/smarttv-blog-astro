@@ -1,7 +1,7 @@
 ---
 title: "IPTV Samsung Smart TV einrichten 2026 – Schritt-für-Schritt Anleitung"
 description: "IPTV auf dem Samsung Smart TV einrichten – so geht's 2026. Wir zeigen dir die beste IPTV App für Tizen OS, die Installation und welcher Anbieter am besten funktioniert."
-date: '2026-06-01'
+date: '2026-04-02'
 slug: iptv-samsung-smart-tv
 focusKeyword: IPTV Samsung Smart TV
 keywords: IPTV Samsung Smart TV, Samsung TV IPTV einrichten, IPTV App Samsung Tizen, Samsung Smart TV IPTV 2026

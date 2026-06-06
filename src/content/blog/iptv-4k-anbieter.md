@@ -1,7 +1,7 @@
 ---
 title: "IPTV 4K Anbieter 2026 – Die besten 4K IPTV Dienste im Test"
 description: "Welche IPTV-Anbieter bieten echte 4K-Qualität? Wir testen die besten 4K IPTV Dienste 2026 für Deutschland, Österreich und die Schweiz – mit ehrlichen Bewertungen."
-date: '2026-06-01'
+date: '2026-04-11'
 slug: iptv-4k-anbieter
 focusKeyword: IPTV 4K Anbieter
 keywords: IPTV 4K, 4K IPTV Anbieter 2026, bestes 4K IPTV Deutschland, IPTV Ultra HD, 4K IPTV Test

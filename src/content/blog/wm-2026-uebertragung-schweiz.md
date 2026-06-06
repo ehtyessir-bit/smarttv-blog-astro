@@ -1,7 +1,7 @@
 ---
 title: "WM 2026 Übertragung Schweiz – SRF zeigt alle Spiele live"
 description: "WM 2026 in der Schweiz: SRF hat die Rechte für alle 104 Spiele. Erfahre welche Spiele wann laufen und wie du mit IPTV alle Partien in HD und 4K siehst."
-date: '2026-06-01'
+date: '2026-06-06'
 slug: wm-2026-uebertragung-schweiz
 focusKeyword: WM 2026 Übertragung Schweiz
 keywords: WM 2026 Schweiz, SRF WM 2026, WM 2026 kostenlos Schweiz, IPTV Schweiz WM 2026

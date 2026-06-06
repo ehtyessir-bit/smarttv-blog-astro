@@ -2,7 +2,7 @@
 title: "Bestes IPTV für WM 2026: Welches Paket lohnt sich?"
 slug: "bestes-iptv-wm-2026"
 description: "Welches ist das beste IPTV für die WM 2026? Wir vergleichen Pakete, Kanalauswahl und Qualität – und nennen das optimale IPTV-Angebot für alle WM-Fans."
-date: "2026-06-01"
+date: '2026-06-06'
 image: "/images/articles/bestes-iptv-wm-2026.webp"
 keywords: "bestes IPTV WM 2026, IPTV WM 2026 Paket, IPTV Weltmeisterschaft 2026, WM 2026 Streaming Paket, IPTV für WM"
 mainSite: "https://smarttv.one"

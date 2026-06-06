@@ -1,7 +1,7 @@
 ---
 title: "Brasilien WM 2026 – Kann die Seleção nach 24 Jahren wieder Weltmeister werden?"
 description: "Brasilien ist Rekordweltmeister mit 5 Titeln – der letzte war 2002. Bei der WM 2026 will die Seleção endlich zurück auf den Thron. Kader, Prognose und Live-IPTV-Tipps."
-date: '2026-06-01'
+date: '2026-06-05'
 slug: wm-2026-favoriten-brasilien
 focusKeyword: Brasilien WM 2026
 keywords: Brasilien WM 2026, Seleção WM 2026, Brasilien Favoriten 2026, Vinicius Junior WM 2026, Brasilien Weltmeister 2026

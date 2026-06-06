@@ -1,7 +1,7 @@
 ---
 title: "WM 2026 Übertragung Deutschland – ARD, ZDF & MagentaTV im Überblick"
 description: "Wo läuft die WM 2026 in Deutschland live? ARD, ZDF und MagentaTV zeigen alle 104 Spiele. Wir erklären welcher Sender welche Spiele überträgt – und wie du alles via IPTV siehst."
-date: '2026-06-01'
+date: '2026-06-06'
 slug: wm-2026-uebertragung-deutschland
 focusKeyword: WM 2026 Übertragung Deutschland
 keywords: WM 2026 Übertragung Deutschland, ARD ZDF WM 2026, MagentaTV WM 2026, WM 2026 Free TV, WM 2026 live Deutschland

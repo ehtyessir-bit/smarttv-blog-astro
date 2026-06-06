@@ -2,7 +2,7 @@
 title: "Florian Wirtz bei der WM 2026: Deutschlands Schlüsselspieler"
 slug: "florian-wirtz-wm-2026"
 description: "Florian Wirtz bei der WM 2026: Warum er Deutschlands wichtigster Spieler ist. Karriere, Statistiken, WM-Prognose und wo du seine Spiele live sehen kannst."
-date: "2026-06-01"
+date: '2026-06-01'
 image: "/images/articles/florian-wirtz-wm-2026.webp"
 keywords: "Florian Wirtz WM 2026, Wirtz Weltmeisterschaft, Florian Wirtz Deutschland, Wirtz Kader WM, DFB Wirtz 2026"
 mainSite: "https://smarttv.one"

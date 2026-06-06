@@ -1,7 +1,7 @@
 ---
 title: "WM 2026 Übertragung Österreich – ORF, ServusTV & IPTV"
 description: "WM 2026 live in Österreich: ORF und ServusTV zeigen alle 104 Spiele kostenlos. Wir erklären welcher Sender was überträgt – und wie du mit IPTV noch mehr siehst."
-date: '2026-06-01'
+date: '2026-06-06'
 slug: wm-2026-uebertragung-oesterreich
 focusKeyword: WM 2026 Übertragung Österreich
 keywords: WM 2026 Österreich, ORF WM 2026, ServusTV WM 2026, WM 2026 kostenlos Österreich, IPTV Österreich WM

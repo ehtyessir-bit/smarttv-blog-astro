@@ -1,7 +1,7 @@
 ---
 title: "Spanien WM 2026 – Topfavorit auf den Weltmeistertitel"
 description: "Spanien gilt als Topfavorit der WM 2026. Wir analysieren den Kader, die Chancen und warum La Furia Roja den Titel holen kann – plus wie du alle Spiele live per IPTV siehst."
-date: '2026-06-01'
+date: '2026-06-05'
 slug: wm-2026-favoriten-spanien
 focusKeyword: Spanien WM 2026
 keywords: Spanien WM 2026, Spanien Weltmeister 2026, WM 2026 Favoriten Spanien, La Furia Roja WM 2026

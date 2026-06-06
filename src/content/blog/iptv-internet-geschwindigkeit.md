@@ -2,7 +2,7 @@
 title: "IPTV Internet Geschwindigkeit 2026: Wie viel Mbit/s brauchst du?"
 slug: "iptv-internet-geschwindigkeit"
 description: "Wie schnell muss dein Internet für IPTV sein? HD braucht 25 Mbit/s, 4K 50 Mbit/s. Alle Anforderungen für 2026 erklärt – plus Tipps bei zu langsamem Internet."
-date: "2026-06-01"
+date: '2026-03-05'
 image: "/images/articles/iptv-internet-geschwindigkeit.webp"
 keywords: "IPTV Internet Geschwindigkeit, IPTV Mbit, IPTV Bandbreite, IPTV Speed, wie schnell Internet IPTV, IPTV 4K Geschwindigkeit"
 mainSite: "https://smarttv.one"

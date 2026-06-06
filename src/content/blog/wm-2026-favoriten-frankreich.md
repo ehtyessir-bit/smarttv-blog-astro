@@ -1,7 +1,7 @@
 ---
 title: "Frankreich WM 2026 – Les Bleus wollen den Titel zurück"
 description: "Frankreich zählt zu den Top-3-Favoriten der WM 2026. Mbappé, Camavinga und Co. wollen den Titel aus 2018 zurückgewinnen. Alle Infos, Quoten und IPTV-Tipps."
-date: '2026-06-01'
+date: '2026-06-04'
 slug: wm-2026-favoriten-frankreich
 focusKeyword: Frankreich WM 2026
 keywords: Frankreich WM 2026, Mbappé WM 2026, Les Bleus WM 2026, Frankreich Favoriten WM, WM 2026 Frankreich Prognose

@@ -2,7 +2,7 @@
 title: "IPTV legal in Österreich 2026? Alles was du wissen musst"
 slug: "iptv-legal-oesterreich"
 description: "Ist IPTV in Österreich 2026 legal? Ja – aber mit klaren Bedingungen. Wir erklären die Rechtslage, nennen legale Anbieter und zeigen, wie du sicher streamst."
-date: "2026-06-01"
+date: '2026-02-07'
 image: "/images/articles/iptv-legal-oesterreich.webp"
 keywords: "IPTV legal Österreich, IPTV Österreich Gesetz, IPTV Austria legal, legales IPTV Österreich, IPTV Recht Österreich"
 mainSite: "https://smarttv.one"
