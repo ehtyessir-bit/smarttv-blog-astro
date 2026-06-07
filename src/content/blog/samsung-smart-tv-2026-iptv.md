@@ -139,3 +139,12 @@ Samsung's „Motion Rate" / „Auto Motion Plus" kann IPTV-Streams unnatürlich 
 
 **4. HDR aktivieren**
 Für HDR-fähige Streams: Einstellungen → Bild → HDR+ Modus → Ein.
+
+## Das könnte dich auch interessieren
+
+- [IPTV einrichten](https://blog.smarttv.one/blog/iptv-einrichten-anleitung/)
+- [IPTV auf Smart TV einrichten](https://blog.smarttv.one/blog/iptv-smart-tv-einrichten/)
+- [IPTV auf Firestick einrichten](https://blog.smarttv.one/blog/iptv-firestick-einrichten/)
+- [IPTV App für Android & iPhone](https://blog.smarttv.one/blog/iptv-app-android-iphone/)
+- [TiviMate einrichten](https://blog.smarttv.one/blog/tivimate-einrichten-anleitung/)
+

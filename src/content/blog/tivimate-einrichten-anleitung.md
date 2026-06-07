@@ -153,3 +153,12 @@ Auf einen Sender tippen → nach links im EPG scrollen → vergangene Sendungen 
 
 **Tipp 5: Aufnahmen auf USB**
 Mit TiviMate Premium: USB-Stick an Firestick anschließen → Einstellungen → Aufnahmen → USB-Laufwerk wählen.
+
+## Das könnte dich auch interessieren
+
+- [IPTV einrichten](https://blog.smarttv.one/blog/iptv-einrichten-anleitung/)
+- [IPTV auf Smart TV einrichten](https://blog.smarttv.one/blog/iptv-smart-tv-einrichten/)
+- [IPTV auf Firestick einrichten](https://blog.smarttv.one/blog/iptv-firestick-einrichten/)
+- [IPTV App für Android & iPhone](https://blog.smarttv.one/blog/iptv-app-android-iphone/)
+- [IPTV Smarters Pro einrichten](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/)
+
