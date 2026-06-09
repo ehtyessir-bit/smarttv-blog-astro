@@ -5,7 +5,7 @@ date: '2026-06-05'
 slug: wm-2026-favoriten-brasilien
 focusKeyword: Brasilien WM 2026
 keywords: "Brasilien WM 2026 Favorit, Seleção WM 2026 Kader, Brasilien stream WM 2026, Brasilien IPTV WM 2026 schauen, Neymar Nachfolger WM 2026"
-image: /images/blog/wm-2026-favoriten-brasilien-featured.jpg
+image: "/images/blog/wm-2026-favoriten-brasilien-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
