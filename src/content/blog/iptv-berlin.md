@@ -3,7 +3,7 @@ title: "IPTV Berlin 2026: Beste Anbieter für die Hauptstadt"
 slug: "iptv-berlin"
 description: "IPTV in Berlin 2026: Welcher Anbieter liefert in der Hauptstadt die besten Streams? RBB, lokale Sender und 4K – alles was Berliner wissen müssen."
 date: '2026-04-14'
-image: "/images/articles/iptv-berlin.webp"
+image: "/images/blog/iptv-berlin-featured.jpg"
 keywords: "IPTV Berlin kaufen 2026, IPTV Anbieter Berlin, bestes IPTV Berlin, IPTV kaufen in Berlin, German IPTV Berlin, IPTV Berlin günstig, IPTV Berlin legal, IPTV Anbieter für Berlin"
 mainSite: "https://smarttv.one"
 noindex: false
