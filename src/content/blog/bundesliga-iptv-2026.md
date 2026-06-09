@@ -3,7 +3,7 @@ title: "Bundesliga live mit IPTV 2026: Alle Spiele in HD & 4K schauen"
 slug: "bundesliga-iptv-2026"
 description: "Bundesliga 2026 live mit IPTV schauen: Welche Sender zeigen die Bundesliga, welcher IPTV-Anbieter ist der beste für Fußball und wie du kein Spiel verpasst."
 date: '2026-06-06'
-image: "/images/articles/bundesliga-iptv-2026.webp"
+image: "/images/blog/bundesliga-iptv-2026-featured.jpg"
 keywords: "Bundesliga IPTV 2026, Bundesliga live stream IPTV, Bundesliga IPTV kaufen, IPTV Bundesliga Deutschland, Bundesliga live schauen 2026, IPTV Sport Bundesliga, Bundesliga Sender IPTV, Bundesliga 4K IPTV, Fußball IPTV 2026"
 mainSite: "https://smarttv.one"
 noindex: false
