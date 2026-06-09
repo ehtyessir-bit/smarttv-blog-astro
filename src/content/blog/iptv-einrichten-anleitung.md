@@ -3,7 +3,7 @@ title: "IPTV einrichten 2026: Schritt-für-Schritt in 5 Minuten"
 slug: "iptv-einrichten-anleitung"
 description: "IPTV einrichten in 5 Minuten: Schritt-für-Schritt Anleitung für Smart TV, Firestick, Android und iPhone. Keine Technik-Kenntnisse nötig – sofort loslegen."
 date: '2026-02-14'
-image: "/images/articles/iptv-einrichten-anleitung.webp"
+image: "/images/blog/iptv-einrichten-anleitung-featured.jpg"
 keywords: "IPTV einrichten Anleitung 2026, IPTV installieren Schritt für Schritt, IPTV Setup Anleitung, IPTV konfigurieren, IPTV starten Anleitung, IPTV einrichten einfach, IPTV Installation Deutschland, IPTV Einrichtung Ratgeber, IPTV für Anfänger einrichten"
 mainSite: "https://smarttv.one"
 faq:
