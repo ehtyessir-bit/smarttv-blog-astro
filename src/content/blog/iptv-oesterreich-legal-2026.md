@@ -3,7 +3,7 @@ title: "IPTV Österreich legal 2026: Alles was du wissen musst"
 slug: "iptv-oesterreich-legal-2026"
 description: "IPTV in Österreich 2026: Ist es legal? Welche Anbieter sind sicher? Alle österreichischen Sender in HD kaufen – der komplette Guide für IPTV in Österreich."
 date: '2026-06-04'
-image: "/images/articles/iptv-oesterreich-legal-2026.webp"
+image: "/images/blog/iptv-oesterreich-legal-2026-featured.jpg"
 keywords: "IPTV Österreich legal 2026, IPTV legal Österreich, IPTV kaufen Österreich 2026, bester IPTV Anbieter Österreich, IPTV ORF kaufen, österreichische Sender IPTV, IPTV AT legal, IPTV Österreich günstig, legaler IPTV Anbieter Österreich, IPTV ATV Puls 4, IPTV Österreich Test"
 mainSite: "https://smarttv.one"
 noindex: false
