@@ -3,7 +3,7 @@ title: "IPTV Schweiz legal kaufen 2026: Der komplette Guide"
 slug: "iptv-schweiz-legal-kaufen-2026"
 description: "IPTV in der Schweiz 2026: Alle Schweizer Sender in HD kaufen, Rechtslage erklärt, beste Anbieter und Einrichtungsanleitung. Legal, günstig und auf jedem Gerät."
 date: '2026-06-04'
-image: "/images/articles/iptv-schweiz-legal-kaufen-2026.webp"
+image: "/images/blog/iptv-schweiz-legal-kaufen-2026-featured.jpg"
 keywords: "IPTV Schweiz legal 2026, IPTV kaufen Schweiz, bester IPTV Anbieter Schweiz, IPTV SRF kaufen, Schweizer Sender IPTV, IPTV CH legal, IPTV Schweiz günstig, legaler IPTV Anbieter Schweiz, IPTV Schweiz Test 2026, IPTV Schweizer Franken, IPTV Zürich Bern Basel"
 mainSite: "https://smarttv.one"
 noindex: false
