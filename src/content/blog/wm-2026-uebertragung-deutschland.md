@@ -5,7 +5,7 @@ date: '2026-06-06'
 slug: wm-2026-uebertragung-deutschland
 focusKeyword: WM 2026 Übertragung Deutschland
 keywords: "WM 2026 Übertragung Deutschland, WM 2026 Free TV Deutschland, WM 2026 ARD ZDF live, WM 2026 stream Deutschland legal, WM 2026 live TV Sender Deutschland, Fußball WM Deutschland stream 2026"
-image: /images/blog/wm-2026-uebertragung-deutschland-featured.jpg
+image: "/images/blog/wm-2026-uebertragung-deutschland-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
