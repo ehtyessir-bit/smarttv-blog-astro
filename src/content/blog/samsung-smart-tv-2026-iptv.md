@@ -3,7 +3,7 @@ title: "Samsung Smart TV 2026: IPTV einrichten — komplette Anleitung"
 slug: "samsung-smart-tv-2026-iptv"
 description: "IPTV auf Samsung Smart TV 2026 einrichten: Schritt-für-Schritt Anleitung für alle Samsung Modelle (Neo QLED, OLED, Crystal UHD). App installieren und losshauen."
 date: '2026-06-05'
-image: "/images/articles/samsung-smart-tv-2026-iptv.webp"
+image: "/images/blog/samsung-smart-tv-2026-iptv-featured.jpg"
 keywords: "Samsung Smart TV IPTV 2026, Samsung Neo QLED IPTV, IPTV auf Samsung TV einrichten, Samsung Tizen IPTV App, Samsung TV IPTV kaufen, Smart IPTV Samsung, Samsung QLED IPTV, Samsung Crystal UHD IPTV, Samsung TV App IPTV 2026"
 mainSite: "https://smarttv.one"
 noindex: false
