@@ -3,7 +3,7 @@ title: "Beste IPTV App 2026: Android & iPhone im Vergleich"
 slug: "iptv-app-android-iphone"
 description: "Welche IPTV App ist die beste für Android und iPhone 2026? Wir vergleichen TiviMate, IPTV Smarters und GSE IPTV – mit Installationsanleitung für beide Plattformen."
 date: '2026-03-01'
-image: "/images/articles/iptv-app-android-iphone.webp"
+image: "/images/blog/iptv-app-android-iphone-featured.jpg"
 keywords: "IPTV App Android iPhone 2026, IPTV App installieren, beste IPTV App, IPTV Smarters Pro App, IPTV auf Handy einrichten, IPTV iOS App, IPTV Android App kaufen, mobile IPTV Deutschland, IPTV Smartphone"
 mainSite: "https://smarttv.one"
 noindex: false
