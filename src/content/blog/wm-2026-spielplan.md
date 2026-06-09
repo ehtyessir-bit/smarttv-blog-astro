@@ -3,7 +3,7 @@ title: "WM 2026 Spielplan: Alle Spiele, Termine & Deutschland-Daten"
 slug: "wm-2026-spielplan"
 description: "WM 2026 Spielplan komplett: Alle Gruppenspiele, K.o.-Runden und Deutschland-Termine auf einen Blick. Wann und wo spielt Deutschland bei der WM 2026?"
 date: '2026-05-20'
-image: "/images/articles/wm-2026-spielplan.webp"
+image: "/images/blog/wm-2026-spielplan-featured.jpg"
 keywords: "WM 2026 Spielplan, WM 2026 Termine, WM 2026 Spielplan Deutschland, Fußball WM 2026 Spielplan, WM 2026 Gruppenphase Termine, WM 2026 Kick-off Zeiten, WM 2026 stream Spielplan"
 mainSite: "https://smarttv.one"
 noindex: false
