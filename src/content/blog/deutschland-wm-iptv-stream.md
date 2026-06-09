@@ -3,7 +3,7 @@ title: "Deutschland WM 2026 IPTV: Alle Spiele live im Stream"
 slug: "deutschland-wm-iptv-stream"
 description: "Alle Deutschland-Spiele bei der WM 2026 live per IPTV: Welche Sender, welche Zeiten, welches Paket? Der komplette Guide für DFB-Fans mit IPTV."
 date: '2026-06-06'
-image: "/images/articles/deutschland-wm-iptv-stream.webp"
+image: "/images/blog/deutschland-wm-iptv-stream-featured.jpg"
 keywords: "Deutschland WM 2026 IPTV stream, DFB WM 2026 live IPTV, Deutschland Spiele WM 2026 stream, WM 2026 Deutschland live schauen, Deutschland WM 2026 live IPTV kaufen, DFB Elf WM IPTV"
 mainSite: "https://smarttv.one"
 noindex: false
