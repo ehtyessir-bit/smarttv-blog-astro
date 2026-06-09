@@ -3,7 +3,7 @@ title: "IPTV legal in der Schweiz 2026? Klare Antwort + Anbieter"
 slug: "iptv-legal-schweiz"
 description: "IPTV in der Schweiz 2026: Was ist legal, was nicht? Wir erklären die Schweizer Rechtslage, nennen legale Anbieter mit SRF-Sendern und geben klare Empfehlungen."
 date: '2026-02-11'
-image: "/images/articles/iptv-legal-schweiz.webp"
+image: "/images/blog/iptv-legal-schweiz-featured.jpg"
 keywords: "IPTV legal Schweiz 2026, ist IPTV legal Schweiz, IPTV Rechtslage Schweiz, legales IPTV Schweiz kaufen, IPTV erlaubt Schweiz, IPTV legal CH, legale IPTV Anbieter Schweiz, IPTV Schweizer Sender legal"
 mainSite: "https://smarttv.one"
 noindex: false
