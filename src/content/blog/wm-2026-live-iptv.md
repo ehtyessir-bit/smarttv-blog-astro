@@ -3,7 +3,7 @@ title: "WM 2026 live per IPTV: Alle 104 Spiele in HD & 4K"
 slug: "wm-2026-live-iptv"
 description: "WM 2026 live per IPTV schauen: Alle 104 Spiele in HD und 4K – auf Smart TV, Firestick und Smartphone. Welches IPTV-Paket ist das beste für die WM 2026?"
 date: '2026-06-06'
-image: "/images/articles/wm-2026-live-iptv.webp"
+image: "/images/blog/wm-2026-live-iptv-featured.jpg"
 keywords: "WM 2026 live IPTV schauen, WM 2026 live stream IPTV, Fußball WM 2026 IPTV kaufen, WM 2026 stream legal IPTV, WM 2026 Deutschland IPTV, WM 2026 4K stream, bester IPTV WM 2026, WM Spiele live IPTV 2026"
 mainSite: "https://smarttv.one"
 faq:
