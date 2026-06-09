@@ -3,7 +3,7 @@ title: "LG OLED TV 2026: IPTV einrichten auf WebOS — Schritt für Schritt"
 slug: "lg-oled-2026-iptv"
 description: "IPTV auf LG TV 2026 einrichten: Komplette Anleitung für LG OLED, QNED und NanoCell. WebOS IPTV App installieren und alle deutschen Sender in 4K genießen."
 date: '2026-06-05'
-image: "/images/articles/lg-oled-2026-iptv.webp"
+image: "/images/blog/lg-oled-2026-iptv-featured.jpg"
 keywords: "LG OLED IPTV 2026, LG TV IPTV einrichten, LG WebOS IPTV App, LG OLED C5 IPTV, IPTV auf LG Smart TV, LG QNED IPTV, LG NanoCell IPTV, LG TV IPTV kaufen, IPTV App LG 2026, LG OLED 4K IPTV"
 mainSite: "https://smarttv.one"
 noindex: false
