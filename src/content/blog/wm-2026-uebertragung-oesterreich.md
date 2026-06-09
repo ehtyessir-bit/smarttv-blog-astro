@@ -5,7 +5,7 @@ date: '2026-06-06'
 slug: wm-2026-uebertragung-oesterreich
 focusKeyword: WM 2026 Übertragung Österreich
 keywords: "WM 2026 Übertragung Österreich, WM 2026 ORF live, WM 2026 stream Österreich, WM 2026 Free TV Österreich, WM 2026 live Österreich schauen, Fußball WM 2026 Österreich stream"
-image: /images/blog/wm-2026-uebertragung-oesterreich-featured.jpg
+image: "/images/blog/wm-2026-uebertragung-oesterreich-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
