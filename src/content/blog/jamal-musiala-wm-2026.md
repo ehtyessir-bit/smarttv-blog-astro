@@ -3,7 +3,7 @@ title: "Jamal Musiala WM 2026: Deutschlands Dribbling-König"
 slug: "jamal-musiala-wm-2026"
 description: "Jamal Musiala bei der WM 2026: Warum er das Herz der deutschen Nationalmannschaft ist. Karriere, Spielstil, WM-Chancen und wo du ihn live sehen kannst."
 date: '2026-06-02'
-image: "/images/articles/jamal-musiala-wm-2026.webp"
+image: "/images/blog/jamal-musiala-wm-2026-featured.jpg"
 keywords: "Jamal Musiala WM 2026, Musiala Deutschland WM, Jamal Musiala stream WM 2026, Musiala Kader WM 2026, Jamal Musiala DFB WM, Bayern München WM 2026"
 mainSite: "https://smarttv.one"
 noindex: false
