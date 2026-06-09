@@ -5,7 +5,7 @@ date: '2026-06-05'
 slug: wm-2026-favoriten-spanien
 focusKeyword: Spanien WM 2026
 keywords: "Spanien WM 2026 Favorit, La Roja WM 2026 Kader, Pedri Yamal WM 2026, Spanien IPTV stream WM 2026, Spanien Titelverteidiger WM 2026"
-image: /images/blog/wm-2026-favoriten-spanien-featured.jpg
+image: "/images/blog/wm-2026-favoriten-spanien-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
