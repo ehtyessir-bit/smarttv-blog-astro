@@ -3,7 +3,7 @@ title: "Anime 2026: Die 12 besten neuen Anime-Serien auf Deutsch"
 slug: "anime-2026-neu-deutsch"
 description: "Die besten Anime 2026 auf Deutsch: Neue Staffeln von One Piece, Dragon Ball und Demon Slayer plus brandneue Serien. Wo du Anime legal in Deutschland streamen kannst."
 date: '2026-06-05'
-image: "/images/articles/anime-2026-neu-deutsch.webp"
+image: "/images/blog/anime-2026-neu-deutsch-featured.jpg"
 keywords: "Anime 2026 Deutsch, neue Anime 2026, beste Anime 2026 streaming, Anime 2026 Deutschland, One Piece 2026, Dragon Ball 2026, Demon Slayer 2026, Anime legal Deutschland, Anime streaming Deutsch, neue Anime Serien 2026, Anime Netflix 2026, Crunchyroll 2026, IPTV Anime"
 mainSite: "https://smarttv.one"
 noindex: false
