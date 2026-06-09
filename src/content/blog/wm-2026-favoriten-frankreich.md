@@ -5,7 +5,7 @@ date: '2026-06-04'
 slug: wm-2026-favoriten-frankreich
 focusKeyword: Frankreich WM 2026
 keywords: "Frankreich WM 2026 Favorit, Les Bleus WM 2026 Kader, Mbappé WM 2026, Frankreich IPTV stream WM 2026, Équipe de France WM 2026"
-image: /images/blog/wm-2026-favoriten-frankreich-featured.jpg
+image: "/images/blog/wm-2026-favoriten-frankreich-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
