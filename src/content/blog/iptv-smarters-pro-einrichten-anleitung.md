@@ -2,6 +2,7 @@
 title: "2026: Smarters Pro Einrichten"
 description: "Schritt-für-Schritt-Anleitung für Smarters Pro. Einfach, schnell & ohne Probleme! [Jetzt Anleitung lesen]"
 date: '2026-06-09'
+image: "/images/blog/iptv-smarters-pro-einrichten-anleitung-featured.jpg"
 keywords: "iptv smarters pro einrichten anleitung"
 mainSite: "https://smarttv.one"
 noindex: false
