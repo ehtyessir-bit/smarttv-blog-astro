@@ -3,7 +3,7 @@ title: "TiviMate IPTV Player 2026: Einrichten, Setup & Tipps"
 slug: "tivimate-einrichten-anleitung"
 description: "TiviMate einrichten 2026: Die komplette Anleitung für Android und Firestick. TiviMate Premium vs. kostenlos, EPG, Aufnahmen und das beste IPTV-Abo dazu."
 date: '2026-06-05'
-image: "/images/articles/tivimate-einrichten-anleitung.webp"
+image: "/images/blog/tivimate-einrichten-anleitung-featured.jpg"
 keywords: "TiviMate einrichten 2026, TiviMate Anleitung, TiviMate Firestick, TiviMate Android, TiviMate Premium, TiviMate EPG, TiviMate IPTV Player, bester IPTV Player Android, TiviMate kaufen, TiviMate Setup"
 mainSite: "https://smarttv.one"
 noindex: false
