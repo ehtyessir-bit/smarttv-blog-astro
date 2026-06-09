@@ -5,7 +5,7 @@ date: '2026-04-02'
 slug: iptv-samsung-smart-tv
 focusKeyword: IPTV Samsung Smart TV
 keywords: "IPTV Samsung Smart TV 2026, IPTV Samsung einrichten, Samsung TV IPTV App, IPTV Samsung Tizen, IPTV auf Samsung installieren, Samsung IPTV kaufen, IPTV Samsung 4K UHD, Smart TV Samsung IPTV Anleitung"
-image: /images/blog/iptv-samsung-smart-tv-featured.jpg
+image: "/images/blog/iptv-samsung-smart-tv-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
