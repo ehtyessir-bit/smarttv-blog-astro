@@ -2,6 +2,7 @@
 title: "IPTV auf LG TV installieren 2026"
 description: "Schritt-für-Schritt-Anleitung zum Installieren von IPTV auf LG TV. Kostenlose Ratschläge jetzt erhalten!"
 date: '2026-06-09'
+image: "/images/blog/iptv-auf-lg-tv-installieren-featured.jpg"
 keywords: "iptv auf lg tv installieren"
 mainSite: "https://smarttv.one"
 noindex: false
