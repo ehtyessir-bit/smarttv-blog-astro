@@ -5,7 +5,7 @@ date: '2026-06-06'
 slug: wm-2026-uebertragung-schweiz
 focusKeyword: WM 2026 Übertragung Schweiz
 keywords: "WM 2026 Übertragung Schweiz, WM 2026 SRF live, WM 2026 stream Schweiz, WM 2026 Free TV Schweiz, WM 2026 Schweiz schauen, Fußball WM 2026 CH stream"
-image: /images/blog/wm-2026-uebertragung-schweiz-featured.jpg
+image: "/images/blog/wm-2026-uebertragung-schweiz-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
