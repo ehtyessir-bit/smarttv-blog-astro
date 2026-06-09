@@ -3,7 +3,7 @@ title: "IPTV auf Smart TV einrichten 2026: Samsung, LG & Co."
 slug: "iptv-smart-tv-einrichten"
 description: "IPTV auf Smart TV einrichten: Samsung, LG, Sony und Philips – Schritt-für-Schritt Anleitung 2026. Welche App, wie vorgehen, was tun bei Problemen?"
 date: '2026-02-18'
-image: "/images/articles/iptv-smart-tv-einrichten.webp"
+image: "/images/blog/iptv-smart-tv-einrichten-featured.jpg"
 keywords: "IPTV Smart TV einrichten 2026, IPTV Samsung einrichten, IPTV LG einrichten, IPTV auf Smart TV installieren, Smart TV IPTV App, IPTV Smart TV Anleitung, IPTV Fernseher einrichten, Smart TV IPTV kaufen, IPTV auf TV einrichten"
 mainSite: "https://smarttv.one"
 faq:
