@@ -5,7 +5,7 @@ date: '2026-04-05'
 slug: iptv-lg-smart-tv
 focusKeyword: IPTV LG Smart TV
 keywords: "IPTV LG Smart TV 2026, IPTV LG einrichten, LG WebOS IPTV, IPTV auf LG TV installieren, LG TV IPTV kaufen, IPTV LG 4K OLED, Smart TV LG IPTV Anleitung, LG IPTV App 2026"
-image: /images/blog/iptv-lg-smart-tv-featured.jpg
+image: "/images/blog/iptv-lg-smart-tv-featured.jpg"
 mainSite: https://smarttv.one
 noindex: false
 ---
