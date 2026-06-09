@@ -3,7 +3,7 @@ title: "Argentinien WM 2026: Titelverteidigung mit Messi?"
 slug: "argentinien-wm-2026"
 description: "Argentinien bei der WM 2026: Kann der Titelverteidiger erneut triumphieren? Kader, Spielplan, Messis Rolle – und warum Argentinien ein Geheimfavorit bleibt."
 date: '2026-06-03'
-image: "/images/articles/argentinien-wm-2026.webp"
+image: "/images/blog/argentinien-wm-2026-featured.jpg"
 keywords: "Argentinien WM 2026, Messi WM 2026, Argentinien Kader WM 2026, Argentinien stream IPTV WM 2026, Albiceleste WM 2026, Titelverteidiger WM 2026"
 mainSite: "https://smarttv.one"
 noindex: false
