@@ -3,7 +3,7 @@ title: "WM 2026 Spielorte: Alle 16 Stadien in USA, Kanada & Mexiko"
 slug: "wm-2026-spielorte"
 description: "WM 2026 Spielorte: Alle 16 Stadien in USA, Kanada und Mexiko. Welche Städte sind dabei, welche Kapazitäten haben die Arenen und wo findet das Finale statt?"
 date: '2026-05-14'
-image: "/images/articles/wm-2026-spielorte.webp"
+image: "/images/blog/wm-2026-spielorte-featured.jpg"
 keywords: "WM 2026 Spielorte, WM 2026 Stadien USA Kanada Mexiko, Fußball WM 2026 Austragungsorte, WM 2026 Stadion Liste, WM 2026 venue stream, WM 2026 Orte stream IPTV"
 mainSite: "https://smarttv.one"
 noindex: false
