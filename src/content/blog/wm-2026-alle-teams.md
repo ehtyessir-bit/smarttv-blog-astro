@@ -3,7 +3,7 @@ title: "WM 2026 alle Teams: 48 Nationen & ihre Chancen"
 slug: "wm-2026-alle-teams"
 description: "Alle 48 Teams der WM 2026 im Überblick: Welche Mannschaften sind dabei, wie wurden sie eingeteilt und wer sind die Favoriten auf den Titel? Komplette Übersicht."
 date: '2026-05-17'
-image: "/images/articles/wm-2026-alle-teams.webp"
+image: "/images/blog/wm-2026-alle-teams-featured.jpg"
 keywords: "WM 2026 alle Teams, Fußball WM 2026 Teilnehmer, WM 2026 qualifizierte Länder, WM 2026 Mannschaften stream, alle WM 2026 Nationen, WM 2026 Gruppenauslosung"
 mainSite: "https://smarttv.one"
 noindex: false
