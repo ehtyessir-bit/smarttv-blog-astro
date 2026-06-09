@@ -2,6 +2,7 @@
 title: "2026 - IPTV auf Samsung Smart TV einrichten"
 description: "Lerne, wie du das beste IPTV-Streaming auf deinem Samsung Smart TV konfigurierst. Kostenlose Anleitung jetzt ansehen!"
 date: '2026-06-09'
+image: "/images/blog/iptv-auf-samsung-smart-tv-einrichten-featured.jpg"
 keywords: "iptv auf samsung smart tv einrichten"
 mainSite: "https://smarttv.one"
 noindex: false
