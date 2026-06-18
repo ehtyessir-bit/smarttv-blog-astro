@@ -64,27 +64,6 @@ Bundestrainer Julian Nagelsmann hat seinen 26-Mann-Kader für die WM 2026 bekann
 ## Die Schlüsselspieler im Fokus
 
 **Florian Wirtz** ist der kreativste Spieler im deutschen Kader – 22 Jahre alt, technisch brillant, mit einem Auge für den letzten Pass wie kaum ein anderer. **Jamal Musiala** ergänzt ihn perfekt: dribblingsstark, schnell und torgefährlich. Das Duo Wirtz/Musiala gilt als das aufregendste Mittelfeld-Pärchen der WM 2026. **Toni Kroos** kehrt aus dem Ruhestand zurück und bringt WM-Sieger-Erfahrung (2014) in die Mannschaft. Seine Spielübersicht und Ruhe am Ball sind unersetzlich.
-
-<div style="background:#fff;border-radius:16px;border:1px solid #e5e7eb;padding:24px;margin:24px 0">
-<h3 style="font-size:18px;font-weight:800;color:#111;margin-bottom:16px;text-align:center">💰 IPTV Preise 2026 – Alle Pakete</h3>
-<table style="width:100%;border-collapse:collapse;font-size:15px">
-<thead><tr style="background:#f5f3ff">
-<th style="padding:10px 12px;text-align:left;border:1px solid #e5e7eb;color:#7c3aed">Laufzeit</th>
-<th style="padding:10px 12px;border:1px solid #e5e7eb;color:#7c3aed">Preis</th>
-<th style="padding:10px 12px;border:1px solid #e5e7eb;color:#7c3aed">Pro Monat</th>
-<th style="padding:10px 12px;border:1px solid #e5e7eb;color:#7c3aed">Bonus</th>
-</tr></thead>
-<tbody>
-<tr><td style="padding:9px 12px;border:1px solid #e5e7eb">1 Monat</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€15</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€15,00</td><td style="padding:9px 12px;border:1px solid #e5e7eb">–</td></tr>
-<tr style="background:#fafafa"><td style="padding:9px 12px;border:1px solid #e5e7eb">3 Monate</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€35</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€11,67</td><td style="padding:9px 12px;border:1px solid #e5e7eb">–</td></tr>
-<tr><td style="padding:9px 12px;border:1px solid #e5e7eb">6 Monate</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€41</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€6,83</td><td style="padding:9px 12px;border:1px solid #e5e7eb;color:#059669;font-weight:600">+1 Gratis-Monat 🎁</td></tr>
-<tr style="background:#faf5ff"><td style="padding:9px 12px;border:2px solid #7c3aed;font-weight:700">⭐ 1 Jahr</td><td style="padding:9px 12px;border:2px solid #7c3aed;font-weight:900;color:#7c3aed">€58</td><td style="padding:9px 12px;border:2px solid #7c3aed;font-weight:700;color:#7c3aed">€4,83</td><td style="padding:9px 12px;border:2px solid #7c3aed;color:#059669;font-weight:700">+2 Gratis-Monate 🎁</td></tr>
-<tr><td style="padding:9px 12px;border:1px solid #e5e7eb">2 Jahre</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">€91</td><td style="padding:9px 12px;border:1px solid #e5e7eb">€3,79</td><td style="padding:9px 12px;border:1px solid #e5e7eb;color:#059669;font-weight:600">+3 Gratis-Monate 🎁</td></tr>
-<tr style="background:#fffbeb"><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:700">♾️ Lifetime</td><td style="padding:9px 12px;border:1px solid #e5e7eb;font-weight:900;color:#d97706">€220</td><td style="padding:9px 12px;border:1px solid #e5e7eb">Einmalig</td><td style="padding:9px 12px;border:1px solid #e5e7eb">Für immer</td></tr>
-</tbody></table>
-<p style="text-align:center;margin-top:16px;font-size:12px;color:#888">Mastercard · VISA · Apple Pay · Google Pay · Bitcoin</p>
-</div>
-
 ## FAQ – Häufige Fragen
 
 **Ist Leroy Sané bei der WM 2026 dabei?**
