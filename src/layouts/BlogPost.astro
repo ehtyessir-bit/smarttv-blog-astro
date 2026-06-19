@@ -276,52 +276,6 @@ const WA_SVG = `<svg viewBox="0 0 24 24" fill="currentColor" width="18" height="
       <slot/>
     </article>
 
-    <!-- PRICING TABLE — interactive selection -->
-    <div class="pricing" id="pricing-section">
-      <h3>💰 IPTV Preise 2026 — Alle Pakete</h3>
-      <div class="plans" id="plans-grid">
-        <div class="plan" data-plan="1monat" data-url={SITE} onclick="selectPlan(this)">
-          <div class="dur">1 Monat</div>
-          <div class="pr">&euro;15</div>
-          <div class="pm">&euro;15,00/Mo.</div>
-        </div>
-        <div class="plan" data-plan="3monate" data-url={SITE} onclick="selectPlan(this)">
-          <div class="dur">3 Monate</div>
-          <div class="pr">&euro;35</div>
-          <div class="pm">&euro;11,67/Mo.</div>
-        </div>
-        <div class="plan" data-plan="6monate" data-url={SITE} onclick="selectPlan(this)">
-          <div class="dur">6 Monate</div>
-          <div class="pr">&euro;41</div>
-          <div class="pm">&euro;6,83/Mo.</div>
-          <div class="bon">+1 Gratis-Monat 🎁</div>
-        </div>
-        <div class="plan best selected" data-plan="1jahr" data-url={SITE} onclick="selectPlan(this)">
-          <div class="dur">1 Jahr</div>
-          <div class="pr">&euro;58</div>
-          <div class="pm">&euro;4,83/Mo.</div>
-          <div class="bon">+2 Gratis-Monate 🎁</div>
-        </div>
-        <div class="plan" data-plan="2jahre" data-url={SITE} onclick="selectPlan(this)">
-          <div class="dur">2 Jahre</div>
-          <div class="pr">&euro;91</div>
-          <div class="pm">&euro;3,79/Mo.</div>
-          <div class="bon">+3 Gratis-Monate 🎁</div>
-        </div>
-        <div class="plan lifetime" data-plan="lifetime" data-url={SITE} onclick="selectPlan(this)">
-          <div class="dur">Lifetime</div>
-          <div class="pr">&euro;220</div>
-          <div class="pm">Einmalig</div>
-          <div class="bon">Für immer ♾️</div>
-        </div>
-      </div>
-      <div style="text-align:center">
-        <button id="plan-btn" onclick="goToPlan()" class="btn-pur" style="cursor:pointer;border:none;font-size:16px;padding:15px 36px">
-          Abonnement wählen &rarr;
-        </button>
-        <p style="font-size:11px;color:#aaa;margin-top:10px">Mastercard &bull; VISA &bull; Apple Pay &bull; Google Pay &bull; Bitcoin</p>
-      </div>
-    </div>
 
     <script>
       var _selectedUrl = '{SITE}';
