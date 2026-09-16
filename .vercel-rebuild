@@ -1,0 +1,7 @@
+# Vercel Rebuild Trigger
+# This file triggers a Vercel rebuild to force GA4 deployment
+
+GA4_ID=G-CF95Q3V2SZ
+TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+Last triggered: $TIMESTAMP

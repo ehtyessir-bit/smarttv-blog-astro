@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "framework": "astro",
+  "env": {
+    "PUBLIC_GA4_ID": "G-CF95Q3V2SZ",
+    "PUBLIC_GA4_DEBUG": "false"
+  },
+  "redirects": [
+    { "source": "/blog/:slug.mdx", "destination": "/blog/:slug", "permanent": true }
+  ]
+}
