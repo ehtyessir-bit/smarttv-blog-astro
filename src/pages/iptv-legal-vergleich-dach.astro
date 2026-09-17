@@ -1,0 +1,200 @@
+---
+const SITE = 'https://smarttv.one';
+const WHATSAPP = 'https://wa.me/13322527767';
+
+const countries = [
+  {
+    code: 'DE',
+    flag: '🇩🇪',
+    name: 'Deutschland',
+    law: '§106 UrhG (Strafbarkeit), §108a UrhG (gewerbsmäßig)',
+    consumerRisk: 'Umstritten',
+    riskLevel: 'yellow',
+    riskNote: 'Anwälte berufen sich auf den EuGH-Fall „Filmspeler" (C‑527/15, 26.04.2017): Streaming aus einer erkennbar illegalen Quelle fällt womöglich nicht unter die Ausnahme für vorübergehende Vervielfältigung (§44a UrhG). Ein gutgläubiger Irrtum wird als möglicher Verteidigungsgrund diskutiert. Es gibt bislang kein bekanntes höchstrichterliches Urteil speziell zu IPTV-Endnutzern.',
+    penalties: 'Abmahnungen um ca. 1.000–1.500 € werden von mehreren unabhängigen Anwaltsseiten genannt (typische Forderungshöhe, kein gerichtlich bestätigter Durchschnitt).',
+    recent: 'Europol-Operation (Sept. 2025–Apr. 2026): 29 Festnahmen, 148 durchsuchte Standorte, über 27.000 IPs/Domains abgeschaltet. Deutsche Ermittler geben an, E-Mail-, Chat- und Zahlungsdaten von über 1.000 identifizierten Endnutzern zu besitzen — Ermittlungen richten sich nun auch gegen Nutzer, nicht nur Betreiber.',
+    sources: [
+      { label: 'Ferner Alsdorf — Illegales IPTV, Post von der Polizei (2026)', url: 'https://www.ferner-alsdorf.de/illegales-iptv-post-von-der-polizei-2026/' },
+      { label: 'JHB.LEGAL — Ermittlungsverfahren gegen Nutzer von Schwarzstreaming-Diensten', url: 'https://jhb.legal/blog/illegales-iptv-ermittlungsverfahren-gegen-nutzer-von-schwarzstreaming-diensten' },
+      { label: 'digitalfernsehen.de — IPTV-Falle nach Europol-Razzia', url: 'https://www.digitalfernsehen.de/news/inhalte/streaming/iptv-falle-nach-europol-razzia-warum-nutzer-illegaler-streaming-dienste-jetzt-nervoes-werden-1183590/' },
+    ],
+  },
+  {
+    code: 'AT',
+    flag: '🇦🇹',
+    name: 'Österreich',
+    law: 'Österreichisches UrhG, §106-Systematik analog zu Deutschland',
+    consumerRisk: 'Umstritten',
+    riskLevel: 'yellow',
+    riskNote: 'Dieselbe grenzüberschreitende Europol-Aktion identifizierte über 1.000 österreichische Endnutzer. Medien berichten von einer Verlagerung der Ermittlungen von Betreibern hin zu Nutzern, mit angedrohten Geld- oder Freiheitsstrafen bis zu 3 Jahren. Ein Urteil des Obersten Gerichtshofs (OGH), das eine Endnutzer-Haftung speziell bestätigt, wurde in dieser Recherche nicht gefunden.',
+    penalties: 'Keine bestätigten Durchschnittswerte gefunden — Berichterstattung bezieht sich auf laufende Ermittlungen, nicht auf abgeschlossene Verfahren gegen Einzelpersonen.',
+    recent: 'Gleiche Europol-Operation wie Deutschland (Sept. 2025–Apr. 2026). Österreichische Medien berichten von angedrohten Strafen bis zu 3 Jahren Haft für Nutzer.',
+    sources: [
+      { label: 'anwalt.de — Illegales IPTV genutzt: Strafbarkeit nach §106 UrhG', url: 'https://www.anwalt.de/rechtstipps/illegales-iptv-genutzt-strafbarkeit-nach-106-urhg-strafbefehl-und-richtige-reaktion-273604.html' },
+      { label: 'kosmo.at — Nutzern drohen bis zu drei Jahre Haft', url: 'https://www.kosmo.at/illegales-streaming-im-visier-der-behoerden-nutzer-drohen-bis-zu-drei-jahre-haft/' },
+      { label: 'heute.at — Ermittlungen gegen Nutzer illegaler Streaming-Dienste', url: 'https://www.heute.at/s/illegales-streaming-ermittlungen-gegen-nutzer-120211862' },
+    ],
+  },
+  {
+    code: 'CH',
+    flag: '🇨🇭',
+    name: 'Schweiz',
+    law: 'Urheberrechtsgesetz (URG), Art. 67',
+    consumerRisk: 'Eher gering (privat)',
+    riskLevel: 'green',
+    riskNote: 'Laut Konsumentenschutz.ch — einer offiziellen Konsumentenschutzorganisation, nicht einer Anwalts- oder IPTV-Werbeseite — wird reines Streaming (nicht Herunterladen oder Weiterverbreiten) für den privaten Gebrauch in der Schweiz milde behandelt. Strafrechtliche Verfolgung richtet sich primär gegen gewerbliche Anbieter, nicht gegen private Streamer. Zivilrechtliche Klagen und Gerätebeschlagnahmung bleiben bei schwerwiegender, wissentlicher Verletzung möglich.',
+    penalties: 'Keine spezifischen Bußgeldbeträge für private Streamer gefunden — ziviles statt strafrechtliches Risiko im Vordergrund.',
+    recent: 'Diese Einschätzung stammt von vor der Europol-Aktion 2025–2026. Es liegen keine Hinweise vor, dass sich die Schweizer Durchsetzungspraxis seither wie in Deutschland/Österreich in Richtung Endnutzer verschoben hat.',
+    sources: [
+      { label: 'Konsumentenschutz.ch — Ist Downloaden und Streaming in der Schweiz legal?', url: 'https://www.konsumentenschutz.ch/online-ratgeber/ist-downloaden-und-streaming-in-der-schweiz-legal/' },
+    ],
+  },
+];
+---
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>IPTV legal? Vergleich Deutschland, Österreich, Schweiz (2026)</title>
+  <meta name="description" content="Quellenbasierter Vergleich der Rechtslage von IPTV-Streaming in DE, AT und CH: Gesetze, bekannte Strafen, aktuelle Ermittlungen — mit Originalquellen, Stand September 2026."/>
+  <link rel="canonical" href="https://blog.smarttv.one/iptv-legal-vergleich-dach/"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CF95Q3V2SZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CF95Q3V2SZ');
+  </script>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',sans-serif;background:#f7f7f8;color:#111;line-height:1.6}
+    a{color:inherit}
+    .hd{background:#fff;border-bottom:1px solid #e5e7eb;position:sticky;top:0;z-index:100}
+    .hd-in{max-width:1100px;margin:0 auto;padding:0 20px;height:64px;display:flex;align-items:center;justify-content:space-between}
+    .logo{font-size:20px;font-weight:900;color:#111;letter-spacing:-.5px;text-decoration:none}
+    .logo span{color:#7c3aed}
+    .btn-h{background:#7c3aed;color:#fff;font-weight:700;font-size:14px;padding:10px 22px;border-radius:10px;text-decoration:none}
+
+    .wrap{max-width:920px;margin:0 auto;padding:48px 20px 80px}
+    .eyebrow{font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#7c3aed;margin-bottom:12px}
+    h1{font-size:clamp(28px,4.5vw,42px);font-weight:900;line-height:1.15;margin-bottom:16px;text-wrap:balance}
+    .lead{font-size:17px;color:#4b5563;max-width:70ch;margin-bottom:8px}
+    .updated{font-size:13px;color:#9ca3af;margin-bottom:32px}
+
+    .disclaimer{background:#fff7ed;border:1px solid #fed7aa;border-radius:12px;padding:18px 20px;font-size:14px;color:#7c2d12;margin-bottom:40px}
+    .disclaimer strong{display:block;margin-bottom:4px;font-size:14px}
+
+    /* SUMMARY TABLE */
+    .tbl-wrap{overflow-x:auto;margin-bottom:48px;border:1px solid #e5e7eb;border-radius:14px;background:#fff}
+    table{width:100%;border-collapse:collapse;font-size:14px;min-width:560px}
+    th,td{text-align:left;padding:14px 16px;border-bottom:1px solid #f0f0f2;vertical-align:top}
+    th{background:#fafafa;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:#6b7280}
+    tr:last-child td{border-bottom:none}
+    .country-cell{font-weight:700;white-space:nowrap}
+    .flag{font-size:20px;margin-right:6px}
+    .pill{display:inline-block;padding:4px 12px;border-radius:99px;font-size:12px;font-weight:700}
+    .pill-yellow{background:#fef3c7;color:#92400e}
+    .pill-green{background:#dcfce7;color:#166534}
+
+    /* COUNTRY CARDS */
+    .card{background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:28px;margin-bottom:24px}
+    .card h2{font-size:22px;font-weight:800;margin-bottom:14px;display:flex;align-items:center;gap:10px}
+    .card h3{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:#7c3aed;margin:18px 0 6px}
+    .card h3:first-of-type{margin-top:4px}
+    .card p{font-size:14.5px;color:#374151;margin-bottom:4px}
+    .src-list{list-style:none;margin-top:6px}
+    .src-list li{font-size:13px;margin-bottom:4px}
+    .src-list a{color:#7c3aed;text-decoration:underline}
+
+    .bot{background:#fff;border-top:1px solid #e5e7eb;padding:56px 20px;text-align:center;margin-top:16px}
+    .bot h2{font-size:26px;font-weight:900;margin-bottom:10px}
+    .bot p{color:#6b7280;margin-bottom:24px}
+    .btn-pur{display:inline-block;background:#7c3aed;color:#fff;font-weight:700;font-size:15px;padding:13px 28px;border-radius:11px;text-decoration:none}
+
+    .ft{text-align:center;padding:28px 20px;font-size:13px;color:#9ca3af}
+  </style>
+</head>
+<body>
+
+<header class="hd">
+  <div class="hd-in">
+    <a href="/" class="logo">Smart<span>TV</span>.one</a>
+    <a href={SITE} target="_blank" rel="noopener" class="btn-h">IPTV Abonnement</a>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="eyebrow">Rechtsvergleich</div>
+  <h1>Ist IPTV legal? Deutschland, Österreich und Schweiz im Vergleich</h1>
+  <p class="lead">Ein quellenbasierter Überblick über die Rechtslage von IPTV-Streaming in den drei DACH-Ländern — mit Gesetzestexten, bekannten Strafen und aktuellen Ermittlungen. Jede Aussage ist mit ihrer Originalquelle verlinkt.</p>
+  <p class="updated">Stand: September 2026 · Zuletzt geprüft anhand der unten verlinkten Quellen</p>
+
+  <div class="disclaimer">
+    <strong>Keine Rechtsberatung.</strong>
+    Diese Seite fasst öffentlich zugängliche Rechtsanwalts- und Medienquellen zusammen und ersetzt keine individuelle Rechtsberatung. Die Rechtslage zur Nutzer-Haftung ist in Deutschland und Österreich rechtlich umstritten und bislang nicht höchstrichterlich für IPTV-Endnutzer entschieden — wir kennzeichnen das explizit, statt es zu vereinfachen. Bei Unsicherheit empfehlen wir eine individuelle anwaltliche Beratung.
+  </div>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Land</th>
+          <th>Gesetz</th>
+          <th>Risiko für Nutzer</th>
+          <th>Bekannte Strafen</th>
+        </tr>
+      </thead>
+      <tbody>
+        {countries.map(c => (
+          <tr>
+            <td class="country-cell"><span class="flag">{c.flag}</span>{c.name}</td>
+            <td>{c.law}</td>
+            <td><span class={`pill pill-${c.riskLevel}`}>{c.consumerRisk}</span></td>
+            <td>{c.penalties.split('—')[0].split('.')[0]}.</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  {countries.map(c => (
+    <div class="card">
+      <h2><span class="flag">{c.flag}</span>{c.name}</h2>
+
+      <h3>Gesetzliche Grundlage</h3>
+      <p>{c.law}</p>
+
+      <h3>Haftungsrisiko für Endnutzer</h3>
+      <p>{c.riskNote}</p>
+
+      <h3>Bekannte Strafen</h3>
+      <p>{c.penalties}</p>
+
+      <h3>Aktuelle Entwicklungen (2025–2026)</h3>
+      <p>{c.recent}</p>
+
+      <h3>Quellen</h3>
+      <ul class="src-list">
+        {c.sources.map(s => (
+          <li><a href={s.url} target="_blank" rel="noopener nofollow">{s.label}</a></li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</div>
+
+<section class="bot">
+  <h2>Auf der sicheren Seite streamen</h2>
+  <p>SmartTV.one bietet lizenzierte Premium-IPTV-Pakete für Deutschland, Österreich und die Schweiz.</p>
+  <a href={SITE} target="_blank" rel="noopener" class="btn-pur">IPTV Abonnement ansehen &rarr;</a>
+</section>
+
+<footer class="ft">
+  <p>&copy; 2026 <a href={SITE} target="_blank" rel="noopener">SmartTV.one</a> — Alle Rechte vorbehalten</p>
+</footer>
+
+</body>
+</html>
