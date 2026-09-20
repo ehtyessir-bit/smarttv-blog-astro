@@ -7,26 +7,130 @@
     "PUBLIC_GA4_DEBUG": "false"
   },
   "redirects": [
-    { "source": "/blog/:slug.mdx", "destination": "/blog/:slug", "permanent": true },
-    { "source": "/blog/wm-2026-alle-teams-qualifiziert/", "destination": "/blog/wm-2026-alle-teams/", "permanent": true },
-    { "source": "/blog/deutschland-gegner-wm-2026-gruppe/", "destination": "/blog/deutschland-gegner-wm-2026/", "permanent": true },
-    { "source": "/blog/wm-2026-favoriten-wer-gewinnt/", "destination": "/blog/wm-2026-favoriten/", "permanent": true },
-    { "source": "/blog/iptv-schweiz-legal/", "destination": "/blog/iptv-schweiz-legal-kaufen-2026/", "permanent": true },
-    { "source": "/blog/wm-2026-mexico-vs-south-africa-20260611/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-canada-vs-bosnia-herzegovina-20260612/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-south-korea-vs-czechia-20260612/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-qatar-vs-switzerland-20260613/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-brazil-vs-morocco-20260613/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-united-states-vs-paraguay-20260613/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-australia-vs-tuerkiye-20260614/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-germany-vs-cura%C3%A7ao-20260614/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-haiti-vs-scotland-20260614/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-ivory-coast-vs-ecuador-20260614/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-netherlands-vs-japan-20260614/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-belgium-vs-egypt-20260615/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-saudi-arabia-vs-uruguay-20260615/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-spain-vs-cape-verde-20260615/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-sweden-vs-tunisia-20260615/", "destination": "/blog/wm-2026-spielplan/", "permanent": true },
-    { "source": "/blog/wm-2026-iran-vs-new-zealand-20260616/", "destination": "/blog/wm-2026-spielplan/", "permanent": true }
+    {
+      "source": "/blog/:slug.mdx",
+      "destination": "/blog/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-alle-teams-qualifiziert/",
+      "destination": "/blog/wm-2026-alle-teams/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deutschland-gegner-wm-2026-gruppe/",
+      "destination": "/blog/deutschland-gegner-wm-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-favoriten-wer-gewinnt/",
+      "destination": "/blog/wm-2026-favoriten/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iptv-schweiz-legal/",
+      "destination": "/blog/iptv-schweiz-legal-kaufen-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-mexico-vs-south-africa-20260611/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-canada-vs-bosnia-herzegovina-20260612/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-south-korea-vs-czechia-20260612/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-qatar-vs-switzerland-20260613/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-brazil-vs-morocco-20260613/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-united-states-vs-paraguay-20260613/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-australia-vs-tuerkiye-20260614/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-germany-vs-cura%C3%A7ao-20260614/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-haiti-vs-scotland-20260614/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-ivory-coast-vs-ecuador-20260614/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-netherlands-vs-japan-20260614/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-belgium-vs-egypt-20260615/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-saudi-arabia-vs-uruguay-20260615/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-spain-vs-cape-verde-20260615/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-sweden-vs-tunisia-20260615/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wm-2026-iran-vs-new-zealand-20260616/",
+      "destination": "/blog/wm-2026-spielplan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bester-iptv-anbieter-test",
+      "destination": "https://smarttv.one/bester-iptv-anbieter/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iptv-testbericht-top-anbieter",
+      "destination": "https://smarttv.one/bester-iptv-anbieter/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bester-iptv-anbieter-test/",
+      "destination": "https://smarttv.one/bester-iptv-anbieter/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iptv-testbericht-top-anbieter/",
+      "destination": "https://smarttv.one/bester-iptv-anbieter/",
+      "permanent": true
+    }
   ]
 }

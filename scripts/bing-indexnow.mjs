@@ -3,7 +3,7 @@
  * Soumet automatiquement tous les articles à Bing IndexNow après chaque build.
  * Déclenché via le script postbuild dans package.json.
  */
-import { readdir } from "fs/promises";
+import { readdir, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -17,8 +17,14 @@ const API_URL      = "https://api.indexnow.org/indexnow";
 async function getArticleUrls() {
   const blogDir = join(__dirname, "../src/content/blog");
   const files   = await readdir(blogDir);
-  return files
-    .filter(f => f.endsWith(".md") || f.endsWith(".mdx"))
+  const articles = files.filter(f => f.endsWith(".md") || f.endsWith(".mdx"));
+  const indexable = [];
+  for (const f of articles) {
+    const src = await readFile(join(blogDir, f), "utf-8");
+    const front = src.split(/^---\s*$/m)[1] || "";
+    if (!/^noindex:\s*true\s*$/m.test(front)) indexable.push(f);
+  }
+  return indexable
     .map(f => `https://${HOST}/blog/${f.replace(/\.(md|mdx)$/, "/")}`);
 }
 

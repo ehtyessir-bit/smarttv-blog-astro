@@ -90,7 +90,7 @@ IPTV ohne entsprechende Lizenzen auf Anbieterseite ist rechtswidrig. Als Nutzer 
 Ja – die WM wird auf ARD, ZDF und anderen öffentlich-rechtlichen Sendern übertragen, die alle im legalen IPTV-Paket enthalten sind.
 
 **Wie erkenne ich einen legalen IPTV-Anbieter?**
-Transparente Preise, funktionierende Website, deutscher Support und ein Preis, der wirtschaftlich plausibel ist. Mehr Details: [IPTV Anbieter Test](https://blog.smarttv.one/blog/bester-iptv-anbieter-test/).
+Transparente Preise, funktionierende Website, deutscher Support und ein Preis, der wirtschaftlich plausibel ist. Mehr Details: [IPTV Anbieter Test](https://smarttv.one/bester-iptv-anbieter/).
 
 **Was ist mit IPTV in Österreich?**
 Ähnliche Rechtslage wie in Deutschland. Details: [IPTV legal in Österreich](https://blog.smarttv.one/blog/iptv-legal-oesterreich/).

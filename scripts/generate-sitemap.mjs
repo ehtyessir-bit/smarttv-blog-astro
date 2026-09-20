@@ -4,7 +4,7 @@
  * Reads all HTML files from dist/ and builds a proper sitemap.
  * Triggered via postbuild script in package.json.
  */
-import { readdir, writeFile, stat } from "fs/promises";
+import { readdir, writeFile, stat, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -37,6 +37,8 @@ async function collectUrls(dir, base = "") {
       const sub = await collectUrls(fullPath, `${base}/${entry.name}`);
       urls.push(...sub);
     } else if (entry.name === "index.html") {
+      const html = await readFile(fullPath, "utf-8");
+      if (/<meta[^>]+name="robots"[^>]+content="[^"]*noindex/i.test(html)) continue;
       const urlPath = base === "" ? "/" : `${base}/`;
       urls.push(`${SITE}${urlPath}`);
     }
