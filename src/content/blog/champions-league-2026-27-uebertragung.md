@@ -60,6 +60,10 @@ Sowohl DAZN als auch Prime Video laufen über Apps. Wie Sie Apps auf Ihrem Gerä
 
 Preise nennen wir nicht, denn Aktionen und Laufzeiten ändern sich häufig. Aktuelle Angebote finden Sie direkt bei <a href="https://www.dazn.com/de-DE" target="_blank" rel="noopener">DAZN</a> und <a href="https://www.primevideo.com" target="_blank" rel="noopener">Amazon Prime Video</a>.
 
+## Ergebnisse und Spielplan
+
+Alle Ergebnisse des 1. Spieltags und die Termine der Spieltage 2 und 3 finden Sie unter [Champions League 2026/27: Ergebnisse und Spielplan](/blog/champions-league-2026-27-ergebnisse-spielplan/).
+
 ## Und ab 2027/28?
 
 Die Rechte ändern sich. Laut Sportschau zeigen ab 2027/28 Paramount+ und Amazon Prime Video die Champions League, DAZN verliert sie. Alles dazu: [Champions League ab 2027/28: Paramount+ und Prime Video](/blog/champions-league-ab-2027-28-paramount-amazon/). Die Europa League 2026/27 finden Sie unter [Europa League 2026/27: Wer zeigt die Spiele?](/blog/europa-league-conference-league-2026-27-uebertragung/).
