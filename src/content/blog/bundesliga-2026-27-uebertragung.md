@@ -65,7 +65,7 @@ Preise nennen wir nicht, denn Aktionen und Laufzeiten ändern sich häufig. Aktu
 
 ## Mehr Fußball im TV
 
-Die europäischen Wettbewerbe finden Sie hier: [Champions League 2026/27](/blog/champions-league-2026-27-uebertragung/), [Europa League und Conference League 2026/27](/blog/europa-league-conference-league-2026-27-uebertragung/) und [DFB-Pokal, 2. Runde](/blog/dfb-pokal-2026-27-zweite-runde-uebertragung/).
+Die europäischen Wettbewerbe finden Sie hier: [Champions League 2026/27](/blog/champions-league-2026-27-uebertragung/), [Europa League und Conference League 2026/27](/blog/europa-league-conference-league-2026-27-uebertragung/), [DFB-Pokal, 2. Runde](/blog/dfb-pokal-2026-27-zweite-runde-uebertragung/) und die [Nations League mit der DFB-Elf](/blog/nations-league-2026-27-deutschland-uebertragung/).
 
 ## Vorsicht bei Angeboten, die alle Spiele für wenig Geld versprechen
 
