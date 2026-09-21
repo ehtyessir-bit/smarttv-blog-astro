@@ -7,6 +7,7 @@ image: "/images/blog/champions-league-2026-27-uebertragung-featured.jpg"
 keywords: "Champions League 2026/27 Übertragung, Champions League live Deutschland, Champions League DAZN, Champions League Amazon Prime, Champions League Free-TV, Champions League Ligaphase Termine"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 faq:
   - q: "Wo läuft die Champions League 2026/27 in Deutschland?"
     a: "Bei DAZN, bei Amazon Prime Video an ausgewählten Dienstagen und im Free-TV nur das Finale im ZDF. Sky hat 2026/27 keine regulären Live-Rechte."

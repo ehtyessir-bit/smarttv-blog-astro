@@ -7,6 +7,7 @@ image: "/images/blog/dfb-pokal-2026-27-zweite-runde-uebertragung-featured.jpg"
 keywords: "DFB-Pokal 2026/27 Übertragung, DFB-Pokal zweite Runde, DFB-Pokal live Sky, DFB-Pokal ARD ZDF, DFB-Pokal Ansetzungen, DFB-Pokal Free-TV"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 faq:
   - q: "Wer zeigt den DFB-Pokal 2026/27?"
     a: "Sky zeigt alle 63 Spiele live im Pay-TV. ARD, ZDF und RTL zeigen zusammen mindestens 15 Spiele pro Saison live im Free-TV."

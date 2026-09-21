@@ -7,6 +7,7 @@ image: "/images/blog/champions-league-ab-2027-28-paramount-amazon-featured.jpg"
 keywords: "Champions League ab 2027, Champions League Paramount+, Champions League Prime Video 2027, Champions League Übertragung 2027/28, DAZN verliert Champions League, Champions League Rechte 2027"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 faq:
   - q: "Wer zeigt die Champions League ab 2027/28?"
     a: "Laut Sportschau Paramount+ und Amazon Prime Video. Die Rechte gelten bis 2030/31."

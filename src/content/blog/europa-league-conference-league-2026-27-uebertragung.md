@@ -7,6 +7,7 @@ image: "/images/blog/europa-league-conference-league-2026-27-uebertragung-featur
 keywords: "Europa League 2026/27 Übertragung, Europa League live Deutschland, Europa League RTL, Europa League Sky, Conference League Übertragung, Europa League Free-TV"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 faq:
   - q: "Wo läuft die Europa League 2026/27 in Deutschland?"
     a: "Laut UEFA bei RTL und Sky. RTL zeigt Spiele im Free-TV, Sky im Pay-TV."
