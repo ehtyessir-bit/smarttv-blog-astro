@@ -59,6 +59,10 @@ Sowohl DAZN als auch Prime Video laufen über Apps. Wie Sie Apps auf Ihrem Gerä
 
 Preise nennen wir nicht, denn Aktionen und Laufzeiten ändern sich häufig. Aktuelle Angebote finden Sie direkt bei <a href="https://www.dazn.com/de-DE" target="_blank" rel="noopener">DAZN</a> und <a href="https://www.primevideo.com" target="_blank" rel="noopener">Amazon Prime Video</a>.
 
+## Und ab 2027/28?
+
+Die Rechte ändern sich. Laut Sportschau zeigen ab 2027/28 Paramount+ und Amazon Prime Video die Champions League, DAZN verliert sie. Alles dazu: [Champions League ab 2027/28: Paramount+ und Prime Video](/blog/champions-league-ab-2027-28-paramount-amazon/). Die Europa League 2026/27 finden Sie unter [Europa League 2026/27: Wer zeigt die Spiele?](/blog/europa-league-conference-league-2026-27-uebertragung/).
+
 ## Vorsicht bei Angeboten, die alle Spiele für wenig Geld versprechen
 
 Die Rechte liegen bei DAZN, Amazon Prime Video und dem ZDF. Wer alle Spiele zu einem sehr niedrigen Preis verspricht, hat oft keine Lizenz. Streaming aus einer erkennbar illegalen Quelle kann rechtliche Folgen haben. Mehr dazu: [Ist IPTV legal in Deutschland?](https://smarttv.one/iptv-legal-deutschland/) und [Bundesliga 2026/27 legal streamen](https://smarttv.one/iptv-dazn-sky-bundesliga/).
