@@ -6,7 +6,7 @@ date: '2026-06-04'
 image: "/images/blog/iptv-oesterreich-legal-2026-featured.jpg"
 keywords: "IPTV Österreich legal 2026, IPTV legal Österreich, IPTV kaufen Österreich 2026, bester IPTV Anbieter Österreich, IPTV ORF kaufen, österreichische Sender IPTV, IPTV AT legal, IPTV Österreich günstig, legaler IPTV Anbieter Österreich, IPTV ATV Puls 4, IPTV Österreich Test"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 faq:
   - q: "Ist IPTV in Österreich legal?"
     a: "Ja, IPTV ist in Österreich legal wenn du einen lizenzierten Anbieter nutzt. Das österreichische Urheberrechtsgesetz (UrhG) erlaubt die Nutzung lizenzierter Streaming-Dienste. Nicht lizenzierte IPTV-Dienste ohne Senderrechte sind dagegen illegal."

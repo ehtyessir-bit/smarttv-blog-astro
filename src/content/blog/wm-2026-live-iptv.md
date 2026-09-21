@@ -16,7 +16,7 @@ faq:
   - q: "Kann ich die WM 2026 kostenlos streamen?"
     a: "Ja, die WM 2026 ist komplett kostenlos im deutschen Free TV (ARD/ZDF) zu sehen. Online per ARD-Mediathek und ZDF-Mediathek kostenlos als Stream – oder über IPTV-Abo in besserer Qualität."
 
-noindex: false
+noindex: true
 wordCount: 1050
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">

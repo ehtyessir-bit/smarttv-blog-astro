@@ -6,7 +6,7 @@ date: '2026-06-04'
 image: "/images/blog/iptv-schweiz-legal-kaufen-2026-featured.jpg"
 keywords: "IPTV Schweiz legal 2026, IPTV kaufen Schweiz, bester IPTV Anbieter Schweiz, IPTV SRF kaufen, Schweizer Sender IPTV, IPTV CH legal, IPTV Schweiz günstig, legaler IPTV Anbieter Schweiz, IPTV Schweiz Test 2026, IPTV Schweizer Franken, IPTV Zürich Bern Basel"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 faq:
   - q: "Ist IPTV in der Schweiz legal?"
     a: "Ja, IPTV ist in der Schweiz legal wenn du einen lizenzierten Anbieter nutzt. Das Schweizer Urheberrechtsgesetz (URG) erlaubt die Nutzung von Streaming-Diensten mit gültigen Lizenzen. Nicht-lizenzierte Anbieter sind dagegen illegal."

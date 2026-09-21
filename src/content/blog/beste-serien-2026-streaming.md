@@ -6,7 +6,7 @@ date: '2026-06-05'
 image: "/images/blog/beste-serien-2026-streaming-featured.jpg"
 keywords: "beste Serien 2026, neue Serien 2026 Streaming, Serien 2026 Netflix, Serien 2026 Amazon Prime, Top Serien 2026 Deutschland, Must-Watch Serien 2026, Serien Empfehlung 2026, IPTV Serien 2026, Serien Streaming Deutschland 2026, neue Serien Juni 2026, Crime Serien 2026, Sci-Fi Serien 2026"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 faq:
   - q: "Welche sind die besten Serien 2026?"
     a: "Die besten Serien 2026 kommen von Netflix, Amazon Prime, Disney+ und Apple TV+. Crime-Serien, Sci-Fi-Produktionen und deutsche Eigenproduktionen dominieren 2026 die Streaming-Landschaft. Über IPTV lassen sich alle internationalen Sender ohne Einzelabonnements empfangen."

@@ -6,7 +6,7 @@ date: '2026-05-17'
 image: "/images/blog/wm-2026-alle-teams-featured.jpg"
 keywords: "WM 2026 alle Teams, Fußball WM 2026 Teilnehmer, WM 2026 qualifizierte Länder, WM 2026 Mannschaften stream, alle WM 2026 Nationen, WM 2026 Gruppenauslosung"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 wordCount: 1050
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">

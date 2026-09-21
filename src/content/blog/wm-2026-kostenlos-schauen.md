@@ -6,7 +6,7 @@ date: '2026-06-05'
 image: "/images/blog/wm-2026-kostenlos-schauen-featured.jpg"
 keywords: "WM 2026 kostenlos schauen, WM 2026 gratis stream, WM 2026 free TV, WM 2026 ARD ZDF schauen, Fußball WM 2026 kostenlos, WM 2026 live kostenlos stream, WM 2026 ohne Abo schauen, WM 2026 Free TV Sender, WM 2026 legal kostenlos"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 wordCount: 1050
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">

@@ -6,7 +6,7 @@ date: '2026-06-06'
 image: "/images/blog/bundesliga-iptv-2026-featured.jpg"
 keywords: "Bundesliga IPTV 2026, Bundesliga live stream IPTV, Bundesliga IPTV kaufen, IPTV Bundesliga Deutschland, Bundesliga live schauen 2026, IPTV Sport Bundesliga, Bundesliga Sender IPTV, Bundesliga 4K IPTV, Fußball IPTV 2026"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 faq:
   - q: "Welcher Sender zeigt die Bundesliga 2026?"
     a: "Die Bundesliga 2026 wird von DAZN (Großteil der Spiele), Sky Deutschland und Sat.1 (Topspiel Freitagabend, kostenlos) übertragen. Das Samstagabend-Topspiel läuft im Free TV. Mit IPTV bekommst du alle Bundesliga-Sender in einem Abo."

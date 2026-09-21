@@ -6,7 +6,7 @@ date: '2026-05-20'
 image: "/images/blog/wm-2026-spielplan-featured.jpg"
 keywords: "WM 2026 Spielplan, WM 2026 Termine, WM 2026 Spielplan Deutschland, Fußball WM 2026 Spielplan, WM 2026 Gruppenphase Termine, WM 2026 Kick-off Zeiten, WM 2026 stream Spielplan"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 wordCount: 1100
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">

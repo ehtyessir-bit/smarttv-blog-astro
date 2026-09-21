@@ -6,7 +6,7 @@ date: '2026-06-06'
 image: "/images/blog/deutschland-wm-iptv-stream-featured.jpg"
 keywords: "Deutschland WM 2026 IPTV stream, DFB WM 2026 live IPTV, Deutschland Spiele WM 2026 stream, WM 2026 Deutschland live schauen, Deutschland WM 2026 live IPTV kaufen, DFB Elf WM IPTV"
 mainSite: "https://smarttv.one"
-noindex: false
+noindex: true
 wordCount: 1000
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">
