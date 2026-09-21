@@ -53,7 +53,7 @@ Preise nennen wir nicht, denn Aktionen und Laufzeiten ändern sich häufig. Aktu
 
 ## Mehr Sport im TV
 
-[Bundesliga 2026/27](/blog/bundesliga-2026-27-uebertragung/), [Formel 1 2026](/blog/formel-1-2026-restliche-rennen-uebertragung/) und [Premier League, LaLiga, Serie A und Ligue 1](/blog/premier-league-laliga-serie-a-ligue-1-2026-27-uebertragung/).
+[NBA 2026/27](/blog/nba-2026-27-uebertragung-sky-prime-video/), [Bundesliga 2026/27](/blog/bundesliga-2026-27-uebertragung/), [Formel 1 2026](/blog/formel-1-2026-restliche-rennen-uebertragung/) und [Premier League, LaLiga, Serie A und Ligue 1](/blog/premier-league-laliga-serie-a-ligue-1-2026-27-uebertragung/).
 
 ## Vorsicht bei Angeboten, die alle Spiele für wenig Geld versprechen
 
