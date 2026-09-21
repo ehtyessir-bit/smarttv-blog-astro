@@ -1,8 +1,9 @@
 ---
-title: "Nations League 2026/27: Deutschland live in ARD, ZDF und RTL"
+title: "Nations League 2026/27: Deutschland live in ARD, ZDF, RTL"
 slug: "nations-league-2026-27-deutschland-uebertragung"
-description: "Nations League 2026/27: Alle Spiele der DFB-Elf in Gruppe A2 mit Terminen und Sender. Welche Partien ARD, ZDF und RTL zeigen und wie Sie sie sehen."
+description: "Nations League 2026/27: Alle Spiele der DFB-Elf in Gruppe A2, Anstoß immer 20:45 Uhr, bei RTL, ARD oder ZDF. Nächstes Spiel: 24. September in Amsterdam."
 date: '2026-09-21'
+image: "/images/blog/nations-league-2026-27-deutschland-uebertragung-featured.jpg"
 keywords: "Nations League 2026/27 Übertragung, Deutschland Nations League TV, Nations League ARD ZDF RTL, Niederlande Deutschland Übertragung, Deutschland Serbien Übertragung, Länderspiele Free-TV"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -62,3 +63,6 @@ Diese Spiele laufen ohnehin im Free-TV. Wer Ihnen dafür ein teures Abo oder ill
 **Wer zeigt Deutschland gegen Serbien?** Das ZDF, am 1. Oktober 2026.
 
 **Braucht man ein Abo?** Laut Sportschau laufen die Spiele bei ARD, ZDF und RTL im Free-TV.
+
+---
+*Bild: Arena, Ajax stadion, Amsterdam, Alf van Beem, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arena,_Ajax_stadion,_Amsterdam.JPG), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

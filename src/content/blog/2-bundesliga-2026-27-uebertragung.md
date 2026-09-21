@@ -1,8 +1,9 @@
 ---
-title: "2. Bundesliga 2026/27: Wer zeigt die Spiele? Sky, RTL, Sat.1"
+title: "2. Bundesliga 2026/27 im TV: Sky, RTL und Sat.1"
 slug: "2-bundesliga-2026-27-uebertragung"
-description: "2. Bundesliga 2026/27 im TV: Anstoßzeiten am Freitag, Samstag und Sonntag, welche Spiele Sky, RTL und Sat.1 zeigen und wo es Zusammenfassungen in ARD und ZDF gibt."
+description: "2. Bundesliga 2026/27: Sky zeigt alle Spiele, RTL samstags um 20:30 Uhr im Free-TV. Anstoßzeiten von Freitag bis Sonntag, Zusammenfassungen in ARD und ZDF."
 date: '2026-09-21'
+image: "/images/blog/2-bundesliga-2026-27-uebertragung-featured.jpg"
 keywords: "2. Bundesliga 2026/27 Übertragung, 2. Bundesliga live Sky, 2. Bundesliga RTL, 2. Bundesliga Sat.1, 2. Bundesliga Anstoßzeiten, 2. Bundesliga Free-TV"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -59,3 +60,6 @@ Die Rechte liegen bei Sky/WOW, RTL, Sat.1 und den genannten Sendern. Wer alle Sp
 **Wann spielt die 2. Bundesliga?** Freitag 18:30 Uhr, Samstag 13:00 und 20:30 Uhr, Sonntag 13:30 Uhr.
 
 **Gibt es die 2. Bundesliga im Free-TV?** Teilweise: RTL am Samstagabend, Sat.1 bei Saisoneröffnung und Relegation.
+
+---
+*Bild: Millerntor-Stadion Nordkurve, Michael Schubert, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Millerntor-Stadion_Nordkurve.jpg), gemeinfrei. Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

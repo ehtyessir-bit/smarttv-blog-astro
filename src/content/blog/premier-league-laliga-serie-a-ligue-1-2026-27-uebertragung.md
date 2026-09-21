@@ -3,6 +3,7 @@ title: "Premier League, LaLiga, Serie A, Ligue 1: Wer zeigt was?"
 slug: "premier-league-laliga-serie-a-ligue-1-2026-27-uebertragung"
 description: "Premier League, LaLiga, Serie A und Ligue 1 in Deutschland 2026/27: Sky zeigt die Premier League, DAZN die drei anderen Ligen. Rechte und Laufzeiten."
 date: '2026-09-21'
+image: "/images/blog/premier-league-laliga-serie-a-ligue-1-2026-27-uebertragung-featured.jpg"
 keywords: "Premier League Übertragung Deutschland, LaLiga Übertragung DAZN, Serie A DAZN, Ligue 1 DAZN, internationale Fußball Ligen TV, Premier League Sky 2026/27"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -70,3 +71,6 @@ Die Rechte liegen bei Sky und DAZN. Wer alle Spiele zu einem sehr niedrigen Prei
 **Wo läuft LaLiga?** Exklusiv bei DAZN, bis mindestens 2031.
 
 **Wo laufen Serie A und Ligue 1?** Bei DAZN, laut Pressemitteilung bis 2027.
+
+---
+*Bild: Anfield stadium in May 2024, FYI2023, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anfield_stadium_in_May_2024.jpg), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

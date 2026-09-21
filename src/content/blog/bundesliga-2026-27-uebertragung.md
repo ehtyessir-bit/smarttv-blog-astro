@@ -1,8 +1,9 @@
 ---
-title: "Bundesliga 2026/27: Wer zeigt welche Spiele? Sky, DAZN und Free-TV"
+title: "Bundesliga 2026/27 im TV: Sky, DAZN und Free-TV"
 slug: "bundesliga-2026-27-uebertragung"
-description: "Bundesliga 2026/27 im TV: Welche Spiele Sky, DAZN, Sat.1 und ARD zeigen, Anstoßzeiten am Freitag, Samstag und Sonntag und die Topspiele der nächsten Spieltage."
+description: "Bundesliga 2026/27 im TV: Sky zeigt Freitag und Samstag, DAZN Konferenz und Sonntag, Sat.1 ausgewählte Spiele. Anstoßzeiten und Topspiele bis Spieltag 11."
 date: '2026-09-21'
+image: "/images/blog/bundesliga-2026-27-uebertragung-featured.jpg"
 keywords: "Bundesliga 2026/27 Übertragung, Bundesliga live Sky DAZN, Bundesliga Free-TV, Bundesliga Konferenz, Bundesliga Anstoßzeiten, Bayern Dortmund Übertragung"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -78,3 +79,6 @@ Die Rechte liegen bei Sky/WOW, DAZN und den genannten Free-TV-Sendern. Wer alle 
 **Gibt es Bundesliga im Free-TV?** Live nur ausgewählte Spiele bei Sat.1, sonst Zusammenfassungen in ARD und ZDF.
 
 **Wer zeigt Bayern gegen Dortmund am 31. Oktober?** Sky, Anstoß um 18:30 Uhr.
+
+---
+*Bild: Signal iduna park stadium dortmund 2, Arne Müseler / www.arne-mueseler.com, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_2.jpg), [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

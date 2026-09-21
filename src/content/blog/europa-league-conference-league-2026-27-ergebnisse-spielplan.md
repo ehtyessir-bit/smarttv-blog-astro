@@ -3,6 +3,7 @@ title: "Europa League und Conference League 2026/27: Ergebnisse"
 slug: "europa-league-conference-league-2026-27-ergebnisse-spielplan"
 description: "Europa League 2026/27: Alle Ergebnisse des 1. Spieltags, dazu Spielplan für Spieltag 2 und 3 und die Termine der Conference League ab dem 15. Oktober laut UEFA."
 date: '2026-09-21'
+image: "/images/blog/europa-league-conference-league-2026-27-ergebnisse-spielplan-featured.jpg"
 keywords: "Europa League Ergebnisse 2026/27, Europa League Spielplan Ligaphase, Conference League Spielplan 2026/27, Leverkusen Celje 2:0, Hoffenheim OFI Kreta, Freiburg Conference League"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -148,3 +149,6 @@ Wer alle Spiele zu einem sehr niedrigen Preis verspricht, hat oft keine Lizenz. 
 **Wie spielte Hoffenheim?** 0:2 bei OFI Kreta.
 
 **Wann startet die Conference League?** Am 15. Oktober 2026.
+
+---
+*Bild: 2011 UEFA Europa League Final - Porto players celebrate with trophy, Miguel Silva Rodrigues, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2011_UEFA_Europa_League_Final_-_Porto_players_celebrate_with_trophy.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

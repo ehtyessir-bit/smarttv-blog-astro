@@ -3,6 +3,7 @@ title: "Formel 1 2026: Wer zeigt die restlichen Rennen? Sky und RTL"
 slug: "formel-1-2026-restliche-rennen-uebertragung"
 description: "Formel 1 2026 im TV: Sky zeigt alle Sessions live, RTL einzelne Termine im Free-TV. Welche Herbst-Termine kostenlos laufen, darunter Las Vegas."
 date: '2026-09-21'
+image: "/images/blog/formel-1-2026-restliche-rennen-uebertragung-featured.jpg"
 keywords: "Formel 1 2026 Übertragung, Formel 1 Free-TV RTL, Formel 1 Sky, Formel 1 Las Vegas Übertragung, Formel 1 Singapur RTL, Formel 1 Austin Qualifying RTL"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -64,3 +65,6 @@ Die Rechte liegen bei Sky und RTL. Wer alle Sessions zu einem sehr niedrigen Pre
 **Was zeigt RTL im Herbst?** Den Sprint in Singapur, das Qualifying in Austin und das Wochenende in Las Vegas.
 
 **Brauche ich Sky?** Für alle Sessions live ja.
+
+---
+*Bild: 2022 Formula One car at the 2021 British Grand Prix, Jen Ross, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2022_Formula_One_car_at_the_2021_British_Grand_Prix_(51350002179).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

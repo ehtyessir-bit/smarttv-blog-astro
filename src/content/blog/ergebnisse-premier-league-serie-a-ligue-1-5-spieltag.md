@@ -3,6 +3,7 @@ title: "Ergebnisse Premier League, Serie A, Ligue 1: 5. Spieltag"
 slug: "ergebnisse-premier-league-serie-a-ligue-1-5-spieltag"
 description: "Premier League, Serie A und Ligue 1, 5. Spieltag 2026/27: Ergebnisse vom 18. bis 20. September, darunter Brighton 3:0 Arsenal und Roma 2:2 Inter."
 date: '2026-09-21'
+image: "/images/blog/ergebnisse-premier-league-serie-a-ligue-1-5-spieltag-featured.jpg"
 keywords: "Premier League Ergebnisse 5. Spieltag 2026/27, Serie A Ergebnisse, Ligue 1 Ergebnisse, Brighton Arsenal 3:0, Roma Inter 2:2, Lyon Rennes 4:0"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -82,3 +83,6 @@ Wer alle Spiele zu einem sehr niedrigen Preis verspricht, hat oft keine Lizenz. 
 **Wie endete Roma gegen Inter?** 2:2.
 
 **Wie endete Manchester City gegen Sunderland?** 5:3.
+
+---
+*Bild: Etihad Stadium, Cléria De Souza, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Etihad_Stadium.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

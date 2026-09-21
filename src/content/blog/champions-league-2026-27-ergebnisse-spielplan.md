@@ -3,6 +3,7 @@ title: "Champions League 2026/27: Ergebnisse und Spielplan"
 slug: "champions-league-2026-27-ergebnisse-spielplan"
 description: "Champions League 2026/27: Alle Ergebnisse des 1. Spieltags der Ligaphase und der Spielplan für Spieltag 2 und 3 mit Terminen und Anstoßzeiten laut UEFA."
 date: '2026-09-21'
+image: "/images/blog/champions-league-2026-27-ergebnisse-spielplan-featured.jpg"
 keywords: "Champions League Ergebnisse 2026/27, Champions League Spielplan Ligaphase, Champions League 2. Spieltag, Champions League 3. Spieltag, Bayern Viking, Dortmund Bodø/Glimt"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -142,3 +143,6 @@ Wer alle Spiele zu einem sehr niedrigen Preis verspricht, hat oft keine Lizenz. 
 **Wann spielt der BVB als Nächstes?** Am 14. Oktober bei Bodø/Glimt, laut UEFA.
 
 **Wann ist der 2. Spieltag?** Am 13. und 14. Oktober 2026.
+
+---
+*Bild: Bayern hattrick champions league trophies, Reubentg, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bayern_hattrick_champions_league_trophies.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*

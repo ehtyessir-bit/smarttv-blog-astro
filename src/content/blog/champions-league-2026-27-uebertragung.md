@@ -1,5 +1,5 @@
 ---
-title: "Champions League 2026/27: Wer zeigt die Spiele in Deutschland?"
+title: "Champions League 2026/27: Wer zeigt die Spiele?"
 slug: "champions-league-2026-27-uebertragung"
 description: "Champions League 2026/27 in Deutschland: DAZN, Amazon Prime Video und ZDF. Wer welche Spiele zeigt, Termine der Ligaphase und wie Sie auf dem Fernseher schauen."
 date: '2026-09-21'

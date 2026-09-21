@@ -3,6 +3,7 @@ title: "Bundesliga 2026/27: Ergebnisse des 4. Spieltags"
 slug: "bundesliga-2026-27-ergebnisse-4-spieltag"
 description: "Bundesliga 2026/27, 4. Spieltag: Alle neun Ergebnisse vom 18. bis 20. September, darunter Bayern 7:0 gegen Union und Stuttgart 0:1 gegen Dortmund."
 date: '2026-09-21'
+image: "/images/blog/bundesliga-2026-27-ergebnisse-4-spieltag-featured.jpg"
 keywords: "Bundesliga Ergebnisse 4. Spieltag 2026/27, Bayern Union Berlin 7:0, Stuttgart Dortmund 0:1, Bundesliga Spieltag Ergebnisse, Bundesliga 5. Spieltag"
 mainSite: "https://smarttv.one"
 noindex: false
@@ -57,3 +58,6 @@ Wer alle Spiele zu einem sehr niedrigen Preis verspricht, hat oft keine Lizenz. 
 **Wie endete Stuttgart gegen Dortmund?** 0:1.
 
 **Wann ist Spieltag 5?** Laut bundesliga.com steht unter anderem Köln gegen Gladbach am 11. Oktober, 15:30 Uhr fest.
+
+---
+*Bild: Allianz arena daylight Richard Bartz, Richard Bartz, Munich aka Makro Freak, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Allianz_arena_daylight_Richard_Bartz.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*
