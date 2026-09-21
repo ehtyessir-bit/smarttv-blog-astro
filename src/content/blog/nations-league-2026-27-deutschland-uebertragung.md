@@ -9,7 +9,7 @@ noindex: false
 lean: true
 faq:
   - q: "Wo läuft Niederlande gegen Deutschland am 24. September 2026?"
-    a: "Laut Sportschau zeigt RTL die Partie."
+    a: "Laut Sportschau zeigt RTL die Partie, Anstoß ist laut DFB um 20:45 Uhr."
   - q: "Wer zeigt Deutschland gegen Griechenland und Deutschland gegen Serbien?"
     a: "Deutschland gegen Griechenland am 27. September läuft laut Sportschau in der ARD, Deutschland gegen Serbien am 1. Oktober im ZDF."
   - q: "Welche Spiele zeigt RTL?"
@@ -22,22 +22,22 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. Die Übertragungsrechte für diese Spiele liegen bei den unten genannten Sendern.
 
-**Schnellantwort:** Die sechs Gruppenspiele der DFB-Elf in der Nations League 2026/27 laufen im Free-TV. **RTL** zeigt drei Spiele, **ARD** zwei und das **ZDF** eines. Das nächste Spiel ist **Niederlande gegen Deutschland am 24. September** bei RTL.
+**Schnellantwort:** Die sechs Gruppenspiele der DFB-Elf in der Nations League 2026/27 beginnen laut DFB alle um 20:45 Uhr und laufen im Free-TV. **RTL** zeigt drei Spiele, **ARD** zwei und das **ZDF** eines. Das nächste Spiel ist **Niederlande gegen Deutschland am 24. September um 20:45 Uhr** bei RTL.
 
-*Stand: 21.09.2026, nach der Übersicht von <a href="https://www.sportschau.de/fussball/nationsleague/alles-wichtige-zur-nations-league,uefa-nations-league-faq-100.html" target="_blank" rel="noopener">Sportschau</a> vom 16.09.2026. Anstoßzeiten nennt die Übersicht nicht, sie können sich ändern.*
+*Stand: 21.09.2026, nach den Übersichten von <a href="https://www.sportschau.de/fussball/nationsleague/alles-wichtige-zur-nations-league,uefa-nations-league-faq-100.html" target="_blank" rel="noopener">Sportschau</a> (Sender, vom 16.09.2026) und dem <a href="https://www.dfb.de/news/nations-league-das-sind-die-spieltermine-der-nationalmannschaft" target="_blank" rel="noopener">DFB</a> (Termine und Anstoßzeiten). Angaben können sich ändern.*
 
 ## Alle Spiele der Gruppe A2
 
-| Termin | Spiel | Sender |
-|---|---|---|
-| 24. September 2026 | Niederlande – Deutschland | <a href="https://www.rtl.de" target="_blank" rel="noopener">RTL</a> |
-| 27. September 2026 | Deutschland – Griechenland | <a href="https://www.ardmediathek.de" target="_blank" rel="noopener">ARD</a> |
-| 1. Oktober 2026 | Deutschland – Serbien | <a href="https://www.zdf.de" target="_blank" rel="noopener">ZDF</a> |
-| 4. Oktober 2026 | Griechenland – Deutschland | RTL |
-| 13. November 2026 | Serbien – Deutschland | RTL |
-| 16. November 2026 | Deutschland – Niederlande | ARD |
+| Termin | Anstoß | Spiel | Sender |
+|---|---|---|---|
+| 24. September 2026 | 20:45 Uhr | Niederlande – Deutschland (Amsterdam) | <a href="https://www.rtl.de" target="_blank" rel="noopener">RTL</a> |
+| 27. September 2026 | 20:45 Uhr | Deutschland – Griechenland (Augsburg) | <a href="https://www.ardmediathek.de" target="_blank" rel="noopener">ARD</a> |
+| 1. Oktober 2026 | 20:45 Uhr | Deutschland – Serbien (München) | <a href="https://www.zdf.de" target="_blank" rel="noopener">ZDF</a> |
+| 4. Oktober 2026 | 20:45 Uhr | Griechenland – Deutschland | RTL |
+| 13. November 2026 | 20:45 Uhr | Serbien – Deutschland | RTL |
+| 16. November 2026 | 20:45 Uhr | Deutschland – Niederlande | ARD |
 
-Deutschland spielt in Gruppe A2. Den letzten Spieltag nennt die Übersicht für den 16. November, an einer Stelle steht auch der 17. November. Prüfen Sie die Ansetzungen kurz vor dem Spiel bei der <a href="https://www.uefa.com/nationsleague/" target="_blank" rel="noopener">UEFA</a> oder beim <a href="https://www.dfb.de" target="_blank" rel="noopener">DFB</a>.
+Deutschland spielt in Gruppe A2. Die Heimspiele finden laut DFB in Augsburg (Griechenland) und München (Serbien) statt, für die übrigen Heimspiele nennt der DFB noch keinen Ort. Den letzten Spieltag nennt Sportschau für den 16. November, an einer Stelle steht auch der 17. November. Prüfen Sie die Ansetzungen kurz vor dem Spiel bei der <a href="https://www.uefa.com/nationsleague/" target="_blank" rel="noopener">UEFA</a> oder beim <a href="https://www.dfb.de" target="_blank" rel="noopener">DFB</a>.
 
 ## So schauen Sie auf dem Fernseher
 
