@@ -266,6 +266,26 @@
       "source": "/blog/tivimate-iptv-player/",
       "destination": "/blog/tivimate-einrichten-anleitung/",
       "permanent": true
+    },
+    {
+      "source": "/blog/iptv-auf-samsung-smart-tv-einrichten/",
+      "destination": "/blog/iptv-samsung-smart-tv/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/samsung-smart-tv-2026-iptv/",
+      "destination": "/blog/iptv-samsung-smart-tv/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iptv-auf-lg-tv-installieren/",
+      "destination": "/blog/iptv-lg-smart-tv/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lg-oled-2026-iptv/",
+      "destination": "/blog/iptv-lg-smart-tv/",
+      "permanent": true
     }
   ]
 }
