@@ -77,7 +77,7 @@ Für die WM: 3-Monats-Paket (€35). Für WM + Bundesliga: Jahresabo (€58).
 Alle Deutschland-Spiele der WM 2026 sind auf ARD/ZDF – und mit IPTV auch unterwegs und ohne Geoblocking. Jetzt Abo sichern, bevor die WM beginnt.
 
 ---
-**Weitere Artikel:** [WM 2026 live IPTV](https://blog.smarttv.one/blog/wm-2026-live-iptv/) | [Deutschland WM Kader](https://blog.smarttv.one/blog/deutschland-wm-2026-spieler-kader/)
+**Weitere Artikel:** WM 2026 live IPTV | Deutschland WM Kader
 
 **Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/447311127035)
 
