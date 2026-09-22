@@ -246,6 +246,26 @@
       "source": "/blog/wm-2026-wer-kommt-weiter-prognose/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/blog/iptv-smarters-pro-einrichten-anleitung/",
+      "destination": "/blog/iptv-smarters-pro-einrichten/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iptv-smarters-pro-konfiguration/",
+      "destination": "/blog/iptv-smarters-pro-einrichten/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tivimate-iptv-einrichten-anleitung/",
+      "destination": "/blog/tivimate-einrichten-anleitung/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tivimate-iptv-player/",
+      "destination": "/blog/tivimate-einrichten-anleitung/",
+      "permanent": true
     }
   ]
 }

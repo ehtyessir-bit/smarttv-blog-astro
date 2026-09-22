@@ -1,168 +1,81 @@
 ---
-title: "TiviMate IPTV Player 2026: Einrichten, Setup & Tipps"
+title: "TiviMate einrichten: Anleitung für Fire TV und Android TV"
 slug: "tivimate-einrichten-anleitung"
-description: "TiviMate einrichten 2026: Die komplette Anleitung für Android und Firestick. TiviMate Premium vs. kostenlos, EPG, Aufnahmen und das beste IPTV-Abo dazu."
+description: "TiviMate einrichten: Installation auf Android TV und Fire TV Stick per Sideloading, Playlist mit Xtream Codes hinzufügen und EPG einrichten."
 date: '2026-06-05'
 image: "/images/blog/tivimate-einrichten-anleitung-featured.jpg"
-keywords: "TiviMate einrichten 2026, TiviMate Anleitung, TiviMate Firestick, TiviMate Android, TiviMate Premium, TiviMate EPG, TiviMate IPTV Player, bester IPTV Player Android, TiviMate kaufen, TiviMate Setup"
+keywords: "TiviMate einrichten, TiviMate Anleitung, TiviMate Fire TV Stick, TiviMate Android TV, TiviMate Premium, TiviMate EPG, TiviMate Xtream Codes"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 faq:
-  - q: "Was ist TiviMate?"
-    a: "TiviMate ist der beliebteste IPTV-Player für Android und Firestick. Er bietet die sauberste Benutzeroberfläche aller IPTV-Apps, unterstützt EPG, Aufnahmen, Multi-Stream und Catch-up TV."
+  - q: "Wo finde ich TiviMate im Store?"
+    a: "Auf Android TV und Google TV im Google Play Store. Auf dem Fire TV Stick ist die App nicht im Amazon App Store, dort ist Sideloading über die App Downloader nötig."
+  - q: "Was brauche ich für die Einrichtung?"
+    a: "Zugangsdaten Ihres IPTV-Anbieters, entweder Xtream Codes (Server-URL, Benutzername, Passwort) oder eine M3U-Playlist-URL."
   - q: "Ist TiviMate kostenlos?"
-    a: "TiviMate ist in der Basisversion kostenlos. TiviMate Premium kostet ca. 4,99 € einmalig oder als Abo und schaltet Funktionen wie Aufnahmen, mehrere Profile und erweiterten EPG frei."
-  - q: "Funktioniert TiviMate auf dem Firestick?"
-    a: "Ja, TiviMate funktioniert hervorragend auf dem Amazon Firestick. Da TiviMate nicht im Amazon App Store verfügbar ist, muss die APK über die Downloader-App sideloaded werden."
-  - q: "Was brauche ich für TiviMate?"
-    a: "Du brauchst: 1) Ein Android-Gerät oder Firestick, 2) TiviMate App (APK), 3) Ein IPTV-Abonnement mit M3U-URL oder Xtream Codes. SmartTV.one liefert alle nötigen Zugangsdaten sofort nach Kauf."
----
-<div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">
-<strong style="color:#0369a1;font-size:13px;text-transform:uppercase;letter-spacing:.05em">⚡ Schnellantwort</strong>
-<p style="margin:8px 0 0;color:#1e293b;font-size:15px;line-height:1.6">TiviMate ist einfach zu einrichten: Laden Sie die App, erstellen Sie einen Account und konfigurieren Sie Ihre IPTV-Quellen. Fertig in ca. 10 Minuten!</p>
-</div>
-
-TiviMate gilt unter IPTV-Kennern als die App mit der besten Benutzeroberfläche. Kein Pixelbrei, kein überladenes Menü – nur sauberes, schnelles TV-Erlebnis. Wir zeigen dir, wie du TiviMate in 10 Minuten zum Laufen bringst.
-
-## Warum TiviMate? Die ehrliche Bewertung
-
-Wenn du drei IPTV-Enthusiasten fragst, welchen Player sie nutzen, sagen mindestens zwei: **TiviMate**. Der Grund ist simpel: Die App fühlt sich an wie richtiges Fernsehen – nicht wie eine zusammengeschusterte App.
-
-**Was TiviMate besonders macht:**
-- 🎨 **UI auf Kino-Niveau** – sauber, schnell, keine Werbung
-- 📅 **EPG in Echtzeit** – 7-Tage-Programmvorschau
-- 🔴 **Aufnahmen** – Sendungen aufnehmen (Premium)
-- 👤 **Multi-Profile** – verschiedene Playlisten für Familie
-- 🔄 **Catch-up** – verpasste Sendungen nachholen
-- 🔍 **Schnellsuche** – Sender in Sekunden finden
-
-**Offizieller Download:** [tivimate.com](https://tivimate.com)
-
+    a: "Es gibt eine kostenlose Basisversion. Für Funktionen wie Catch-up oder mehrere Playlists ist TiviMate Premium nötig, laut Anbietern als Abo oder Einmalkauf über die App TiviMate Companion."
+  - q: "Läuft TiviMate auf iPhone oder Smart TV?"
+    a: "Nein. TiviMate läuft nur auf Android-basierten Geräten wie Fire TV Stick, Android TV, Google TV und Nvidia Shield, nicht auf iOS oder klassischen Smart-TV-Systemen wie webOS oder Tizen."
 ---
 
-## TiviMate auf dem Firestick installieren
+> **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. TiviMate ist eine unabhängige App eines anderen Herstellers.
 
-Da TiviMate **nicht im Amazon App Store** verfügbar ist, brauchen wir die Downloader-App als Zwischenschritt.
+**Schnellantwort:** TiviMate ist ein IPTV-Player für Android-basierte Geräte. Auf Android TV und Google TV installieren Sie ihn direkt aus dem Play Store, auf dem Fire TV Stick per Sideloading über die App Downloader.
 
-### Schritt 1: Sideloading erlauben
-1. Firestick → **Einstellungen**
-2. → **Mein Fire TV**
-3. → **Entwickleroptionen**
-4. **„Apps aus unbekannten Quellen"** → EIN
+*Stand: 22.09.2026. Genaue Preise der Premium-Version finden Sie im Play Store oder in der App TiviMate Companion, wir nennen hier keine Beträge, da sie sich ändern können.*
 
-### Schritt 2: Downloader installieren
-1. Firestick-Suche → **„Downloader"** (oranges Icon)
-2. Installieren und öffnen
+## Was Sie vorher brauchen
 
-### Schritt 3: TiviMate APK laden
-1. Downloader → URL-Feld
-2. Eingeben: **`https://tivimate.com/apk`**
-3. Herunterladen und installieren
-4. „Erlauben" wenn nach Installation von unbekannten Quellen gefragt wird
+- Ein Android-basiertes Gerät: Fire TV Stick, Nvidia Shield, Chromecast mit Google TV oder ein Android-TV-Fernseher.
+- Eine stabile Internetverbindung, für HD reichen in der Regel etwa 10 Mbit/s, für 4K etwa 25 Mbit/s, siehe [Internetgeschwindigkeit für IPTV](https://smarttv.one/iptv-internetgeschwindigkeit/).
+- Zugangsdaten Ihres IPTV-Anbieters: entweder Xtream Codes oder eine M3U-URL.
 
-### Schritt 4: Erste Einrichtung
-1. TiviMate öffnen
-2. **„Playlist hinzufügen"** tippen
-3. Wähle: **M3U URL** oder **Xtream Codes**
-4. Zugangsdaten deines IPTV-Anbieters eingeben
+## Installation
 
----
+**Android TV und Google TV (Nvidia Shield, Chromecast mit Google TV):**
+1. Google Play Store öffnen, „TiviMate IPTV Player" suchen und installieren.
 
-## TiviMate auf Android einrichten
+**Amazon Fire TV Stick (Sideloading, da nicht im Amazon App Store):**
+1. Unter Einstellungen, Mein Fire TV, Info den Gerätenamen mehrfach hintereinander auswählen, bis „Sie sind jetzt Entwickler" erscheint.
+2. Unter Einstellungen, Mein Fire TV, Entwickleroptionen die Option „Apps unbekannter Herkunft installieren" aktivieren.
+3. Die App „Downloader" aus dem Amazon App Store installieren.
+4. In Downloader die aktuelle TiviMate-APK-Adresse eingeben. Die genaue URL oder ein Kurzcode ändert sich gelegentlich, die aktuelle Angabe finden Sie auf der offiziellen TiviMate-Seite oder im TiviMate-Forum, nicht über einen von uns fest vorgegebenen Code.
+5. Datei herunterladen und installieren lassen.
 
-**Direkter Weg über Google Play:**
-1. Play Store → **„TiviMate IPTV Player"** suchen
-2. Installieren *(kostenlose Version)*
-3. Öffnen → Playlist hinzufügen
+## Playlist hinzufügen
 
-**Playlist hinzufügen via Xtream Codes:**
-```
-Server-URL:  http://dein-anbieter.com:port
-Benutzername: dein_username
-Passwort:    dein_passwort
-```
+1. TiviMate öffnen und „Playlist hinzufügen" wählen.
+2. **Xtream Codes Login** ist meist zuverlässiger als eine reine M3U-URL, weil der Programmführer dabei oft automatisch mitgeladen wird. Tragen Sie Server-URL, Benutzername und Passwort ein.
+3. Haken bei „TV-Guide (EPG) einschließen" setzen, falls verfügbar.
+4. Nach dem Laden zeigt TiviMate die Anzahl der Sender, Filme und Serien an. Playlist benennen und speichern.
 
-**Playlist hinzufügen via M3U:**
-```
-M3U-URL: http://dein-anbieter.com/get.php?username=...
-```
+## EPG einrichten
 
-> 💡 **SmartTV.one** liefert dir beide Optionen nach dem Kauf per E-Mail.
+Mit Xtream Codes lädt der Programmführer meist automatisch. Steht dort „Keine Informationen": OK-Taste gedrückt halten, zu Einstellungen, EPG gehen, die Playlist als EPG-Quelle prüfen und „EPG aktualisieren" wählen. Das erste Laden kann einige Minuten dauern.
 
----
+## Nützliche Einstellungen
 
-## TiviMate EPG einrichten
+- **Puffergröße:** Bei Rucklern unter Einstellungen, Wiedergabe die Puffergröße erhöhen. Bei sehr schnellem, stabilem Internet kann eine kleinere Pufferung schnellere Umschaltzeiten bringen.
+- **Favoriten:** Kanal in der Liste markieren, OK-Taste gedrückt halten, „Zu Favoriten hinzufügen" wählen.
+- **Premium:** Für Catch-up und mehrere Playlists nötig, Freischaltung läuft über die App TiviMate Companion.
 
-Der EPG (Elektronischer Programmführer) ist TiviMates stärkstes Feature. So aktivierst du ihn:
+## Häufige Probleme
 
-1. **Einstellungen** → **Playlisten** → deine Playlist wählen
-2. → **EPG**
-3. EPG-URL eingeben (von deinem Anbieter)
-4. **„EPG jetzt aktualisieren"**
-
-Nach der ersten Aktualisierung (kann 5-15 Min. dauern) siehst du:
-- Aktuell laufende Sendung auf jedem Sender
-- Programmvorschau für 7 Tage
-- Sendungsinfos und Beschreibungen
-
----
-
-## TiviMate Premium — lohnt es sich?
-
-| Feature | Kostenlos | Premium (4,99€) |
-|---|---|---|
-| Live TV | ✅ | ✅ |
-| EPG | ✅ | ✅ |
-| Catch-up | ✅ | ✅ |
-| **Aufnahmen** | ❌ | ✅ |
-| **Multi-Profile** | ❌ | ✅ |
-| **Mehrere Playlisten** | 1 | Unbegrenzt |
-| **Werbefrei** | ✅ | ✅ |
-
-**Unser Urteil:** Für Einzelnutzer reicht die kostenlose Version völlig. Familien oder Nutzer mit mehreren IPTV-Abos sollten Premium kaufen – 4,99€ einmalig ist ein fairer Preis.
-
----
-
-## Das perfekte Setup: TiviMate + SmartTV.one
-
-TiviMate ist nur der Player – du brauchst noch Inhalte. **SmartTV.one** ist der IPTV-Anbieter, der perfekt zu TiviMate passt:
-
-| Was du bekommst | Details |
+| Problem | Lösung |
 |---|---|
-| 🇩🇪 Deutsche Sender | ARD, ZDF, RTL, Pro7, Sat.1 + 200 mehr |
-| 🇦🇹 Österreich | ORF 1+2, ATV, Puls 4, ServusTV |
-| 🇨🇭 Schweiz | SRF 1+2, RTS, RSI |
-| 🏆 Sport | Bundesliga, Champions League, WM 2026 |
-| 🎬 VOD | 150.000+ Filme und Serien |
-| 📺 Qualität | 4K, HD, SD – du wählst |
-| ⏱ Aktivierung | Sofort nach Zahlung |
+| Bild schwarz, Ton läuft | Audio-/Videodecoder unter Einstellungen, Wiedergabe wechseln (Hardware/Software). |
+| EPG lädt nicht | URL beim Anbieter prüfen, Playlist notfalls löschen und neu anlegen. |
+| Ruckler trotz schnellem Internet | Puffergröße erhöhen, siehe oben. |
 
-👉 **[SmartTV.one — Jetzt 24h kostenlos testen](https://smarttv.one)**
+## Alternative: IPTV Smarters Pro
 
----
+Läuft Ihr Gerät nicht mit Android, etwa ein iPhone oder ein Smart TV mit webOS oder Tizen, ist [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/) die breiter unterstützte Alternative.
 
-## TiviMate Tipps & Tricks
+## Häufige Fragen
 
-**Tipp 1: Favoritenliste anlegen**
-Halte einen Sender gedrückt → „Zu Favoriten hinzufügen". So erreichst du ARD, ORF und Co. sofort.
+**Wo bekomme ich TiviMate auf dem Fire TV Stick?** Über Sideloading mit der App Downloader, nicht über den Amazon App Store.
 
-**Tipp 2: Startkanal festlegen**
-Einstellungen → Allgemein → Startkanal → deinen Lieblingssender wählen. TiviMate öffnet dann immer direkt auf diesem Sender.
+**Brauche ich Premium?** Nur für Catch-up, mehrere Playlists und ähnliche Zusatzfunktionen.
 
-**Tipp 3: EPG-Zeitzone prüfen**
-Falls die Zeiten im EPG nicht stimmen: Einstellungen → EPG → Zeitzone → „Europa/Berlin" oder „Europa/Wien".
-
-**Tipp 4: Catchup nutzen**
-Auf einen Sender tippen → nach links im EPG scrollen → vergangene Sendungen auswählen → Abspielen.
-
-**Tipp 5: Aufnahmen auf USB**
-Mit TiviMate Premium: USB-Stick an Firestick anschließen → Einstellungen → Aufnahmen → USB-Laufwerk wählen.
-
-## Das könnte dich auch interessieren
-
-- [IPTV einrichten](https://blog.smarttv.one/blog/iptv-einrichten-anleitung/)
-- [IPTV auf Smart TV einrichten](https://blog.smarttv.one/blog/iptv-smart-tv-einrichten/)
-- [IPTV auf Firestick einrichten](https://blog.smarttv.one/blog/iptv-firestick-einrichten/)
-- [IPTV App für Android & iPhone](https://blog.smarttv.one/blog/iptv-app-android-iphone/)
-- [IPTV Smarters Pro einrichten](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/)
-
+**Läuft TiviMate auf dem iPhone?** Nein, nur auf Android-basierten Geräten.
