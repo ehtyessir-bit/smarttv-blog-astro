@@ -62,7 +62,7 @@ Preise nennen wir nicht, denn Aktionen und Laufzeiten ändern sich häufig. Aktu
 
 ## Mehr Sport im TV
 
-[DEL 2026/27](/blog/del-2026-27-uebertragung-magentasport-df1/), [NBA 2026/27](/blog/nba-2026-27-uebertragung-sky-prime-video/) und [Bundesliga 2026/27](/blog/bundesliga-2026-27-uebertragung/).
+[Handball-Bundesliga 2026/27](/blog/handball-bundesliga-2026-27-uebertragung-dyn-welt/), [DEL 2026/27](/blog/del-2026-27-uebertragung-magentasport-df1/), [NBA 2026/27](/blog/nba-2026-27-uebertragung-sky-prime-video/) und [Bundesliga 2026/27](/blog/bundesliga-2026-27-uebertragung/).
 
 ## Vorsicht bei Angeboten, die alle Spiele für wenig Geld versprechen
 
