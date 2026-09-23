@@ -51,23 +51,23 @@ IPTV Smarters Pro von Smarters Labs ist eine kostenlose App, die auf besonders v
 
 ## IBO Player
 
-Laut Angaben im App Store ist IBO Player ein reiner Video-Player ohne eigene Sender oder Playlists – Nutzer müssen eigene Inhalte hinzufügen. Die App läuft auf iPhone, iPad, Mac, Apple TV, Apple Vision Pro und Android und bietet laut Store-Eintrag einen 7-tägigen kostenlosen Test, danach ist ein Abo nötig.
+Laut Angaben im App Store ist IBO Player ein reiner Video-Player ohne eigene Sender oder Playlists – Nutzer müssen eigene Inhalte hinzufügen. Die App läuft auf iPhone, iPad, Mac, Apple TV, Apple Vision Pro und Android und bietet laut Store-Eintrag einen 7-tägigen kostenlosen Test, danach ist ein Abo nötig. Ausführliche Anleitung: [IBO Player einrichten](https://blog.smarttv.one/blog/ibo-player-einrichten/).
 
 ## GSE Smart IPTV
 
-GSE Smart IPTV wird in mehreren Varianten in den App-Stores angeboten (u. a. für iPhone/iPad und separat für Apple TV), mit unterschiedlichen Preisen zwischen kostenlos und rund 5 USD je nach Version. Laut Hersteller liefert die App selbst keine Inhalte: „GSE SMART IPTV PRO does not supply or include any media or content." Funktionen laut Store-Eintrag: EPG, Xtream-Codes-Unterstützung, Chromecast, Aufnahmefunktion und Unterstützung für 31 Sprachen.
+GSE Smart IPTV wird in mehreren Varianten in den App-Stores angeboten (u. a. für iPhone/iPad und separat für Apple TV), mit unterschiedlichen Preisen zwischen kostenlos und rund 5 USD je nach Version. Laut Hersteller liefert die App selbst keine Inhalte: „GSE SMART IPTV PRO does not supply or include any media or content." Funktionen laut Store-Eintrag: EPG, Xtream-Codes-Unterstützung, Chromecast, Aufnahmefunktion und Unterstützung für 31 Sprachen. Ausführliche Anleitung: [GSE Smart IPTV einrichten](https://blog.smarttv.one/blog/gse-smart-iptv-einrichten/).
 
 ## Perfect Player
 
-Perfect Player von Niklabs Software ist ein reiner Media-Player ohne eigene Inhalte, für Android, Android TV, Fire TV Stick und Windows. Wichtig zu wissen: Google entfernte die App im Dezember 2021 nach einer Urheberrechtsbeschwerde eines Pay-TV-Anbieters aus dem Play Store, obwohl die App selbst keine Inhalte oder Links mitliefert. Sie ist seitdem nur noch über APK-Drittquellen erhältlich, was ein zusätzliches Sicherheitsrisiko bedeutet – prüfen Sie die Quelle sorgfältig, bevor Sie eine APK-Datei installieren.
+Perfect Player von Niklabs Software ist ein reiner Media-Player ohne eigene Inhalte, für Android, Android TV, Fire TV Stick und Windows. Wichtig zu wissen: Google entfernte die App im Dezember 2021 nach einer Urheberrechtsbeschwerde eines Pay-TV-Anbieters aus dem Play Store, obwohl die App selbst keine Inhalte oder Links mitliefert. Sie ist seitdem nur noch über APK-Drittquellen erhältlich, was ein zusätzliches Sicherheitsrisiko bedeutet – prüfen Sie die Quelle sorgfältig, bevor Sie eine APK-Datei installieren. Details: [Perfect Player IPTV einrichten](https://blog.smarttv.one/blog/perfect-player-iptv-einrichten/).
 
 ## OTT Navigator
 
-OTT Navigator ist ein Player für Android und Android TV mit kostenloser Basisversion. Laut Google Play kostet die Premium-Version rund 1 USD pro Monat oder ist als einmaliger Kauf erhältlich; auf iOS/Apple TV wird die App über einen separaten App-Store-Eintrag mit eigener Preisstruktur angeboten. Die Premium-Version entfernt Werbung und schaltet zusätzliche Skins sowie Mehrgeräte-Unterstützung frei.
+OTT Navigator ist ein Player für Android und Android TV mit kostenloser Basisversion. Laut Google Play kostet die Premium-Version rund 1 USD pro Monat oder ist als einmaliger Kauf erhältlich; auf iOS/Apple TV wird die App über einen separaten App-Store-Eintrag mit eigener Preisstruktur angeboten. Die Premium-Version entfernt Werbung und schaltet zusätzliche Skins sowie Mehrgeräte-Unterstützung frei. Ausführliche Anleitung: [OTT Navigator einrichten](https://blog.smarttv.one/blog/ott-navigator-einrichten/).
 
 ## XCIPTV
 
-XCIPTV läuft auf Android, Android TV und Fire OS und ist laut Google Play kostenlos, mit über 10 Millionen Downloads. Die App bringt zwei Wiedergabe-Engines mit (ExoPlayer und VLC-Player) und unterstützt Xtream Codes, M3U-Playlists sowie geräteübergreifende Synchronisierung.
+XCIPTV läuft auf Android, Android TV und Fire OS und ist laut Google Play kostenlos, mit über 10 Millionen Downloads. Die App bringt zwei Wiedergabe-Engines mit (ExoPlayer und VLC-Player) und unterstützt Xtream Codes, M3U-Playlists sowie geräteübergreifende Synchronisierung. Ausführliche Anleitung: [XCIPTV einrichten](https://blog.smarttv.one/blog/xciptv-einrichten/).
 
 ## Smart IPTV
 
@@ -75,7 +75,7 @@ Auf der offiziellen Seite steht: Smart IPTV ist nur ein Media-Player und enthäl
 
 ## Kodi mit PVR IPTV Simple Client
 
-Kodi spielt IPTV über das Add-on PVR IPTV Simple Client. Es liest laut Entwicklern M3U-Playlists als Datei oder Link und Programmführer im XMLTV-Format, auch komprimiert mit Gzip oder XZ. Ab Kodi 20 Nexus können mehrere Paare aus M3U und XML eingetragen werden. Aufnahme, Timeshift und Catchup gehen nur, wenn Ihr Dienst sie liefert. Das Add-on wird vom Kodi-PVR-Team gepflegt, Quelltext und Dokumentation liegen auf <a href="https://github.com/kodi-pvr/pvr.iptvsimple" target="_blank" rel="noopener">GitHub</a>.
+Kodi spielt IPTV über das Add-on PVR IPTV Simple Client. Es liest laut Entwicklern M3U-Playlists als Datei oder Link und Programmführer im XMLTV-Format, auch komprimiert mit Gzip oder XZ. Ab Kodi 20 Nexus können mehrere Paare aus M3U und XML eingetragen werden. Aufnahme, Timeshift und Catchup gehen nur, wenn Ihr Dienst sie liefert. Das Add-on wird vom Kodi-PVR-Team gepflegt, Quelltext und Dokumentation liegen auf <a href="https://github.com/kodi-pvr/pvr.iptvsimple" target="_blank" rel="noopener">GitHub</a>. Ausführliche Anleitung: [Kodi mit PVR IPTV Simple Client einrichten](https://blog.smarttv.one/blog/kodi-pvr-iptv-einrichten/).
 
 ## VLC
 
@@ -83,7 +83,7 @@ VLC ist laut <a href="https://www.videolan.org/vlc/" target="_blank" rel="noopen
 
 ## SS IPTV
 
-SS IPTV ist eine Smart-TV-App, die sich laut <a href="https://ss-iptv.com" target="_blank" rel="noopener">ss-iptv.com</a> an Nutzer in Russland, den GUS-Staaten, Südamerika und Europa richtet. Eigene Playlists lassen sich hochladen und mit einem Playlist-Editor auf der Website ordnen. Kosten und die Liste der unterstützten Fernseher nennt die Seite nicht, prüfen Sie beides im App-Store Ihres Geräts.
+SS IPTV ist eine Smart-TV-App, die sich laut <a href="https://ss-iptv.com" target="_blank" rel="noopener">ss-iptv.com</a> an Nutzer in Russland, den GUS-Staaten, Südamerika und Europa richtet. Eigene Playlists lassen sich hochladen und mit einem Playlist-Editor auf der Website ordnen. Kosten und die Liste der unterstützten Fernseher nennt die Seite nicht, prüfen Sie beides im App-Store Ihres Geräts. Ausführliche Anleitung: [SS IPTV einrichten](https://blog.smarttv.one/blog/ss-iptv-einrichten/).
 
 ## Welche App passt zu welchem Gerät?
 
