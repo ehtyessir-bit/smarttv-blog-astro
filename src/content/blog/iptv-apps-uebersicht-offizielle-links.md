@@ -87,7 +87,7 @@ SS IPTV ist eine Smart-TV-App, die sich laut <a href="https://ss-iptv.com" targe
 
 ## Welche App passt zu welchem Gerät?
 
-Das hängt vom Betriebssystem Ihres Fernsehers ab. Anleitungen: [Samsung Smart-TV](https://smarttv.one/iptv-samsung-smart-tv/), [LG Smart-TV](https://smarttv.one/iptv-lg-smart-tv/), [Fire TV Stick](https://smarttv.one/iptv-fire-tv-stick-einrichten/), [Sony, Philips und TCL](https://smarttv.one/iptv-sony-philips-tcl-android-tv/) und [IPTV ohne Fire TV Stick](https://smarttv.one/iptv-ohne-fire-tv-stick/). Was eine M3U-Playlist ist, erklärt [IPTV M3U Playlist](https://smarttv.one/iptv-m3u-playlist/).
+Das hängt vom Betriebssystem Ihres Fernsehers ab. Anleitungen: [Samsung Smart-TV](https://smarttv.one/iptv-samsung-smart-tv/), [LG Smart-TV](https://smarttv.one/iptv-lg-smart-tv/), [Fire TV Stick](https://smarttv.one/iptv-fire-tv-stick-einrichten/), [Sony, Philips, TCL und andere Android-TV-Boxen](https://blog.smarttv.one/blog/iptv-android-tv-box-installieren/) und [IPTV ohne Fire TV Stick](https://smarttv.one/iptv-ohne-fire-tv-stick/). Was eine M3U-Playlist ist, erklärt [IPTV M3U Playlist](https://smarttv.one/iptv-m3u-playlist/).
 
 ## Vorsicht bei Angeboten, die alle Sender für wenig Geld versprechen
 
