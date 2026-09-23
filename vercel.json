@@ -286,6 +286,16 @@
       "source": "/blog/lg-oled-2026-iptv/",
       "destination": "/blog/iptv-lg-smart-tv/",
       "permanent": true
+    },
+    {
+      "source": "/blog/anime-2026-neu-deutsch/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/beste-serien-2026-streaming/",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
