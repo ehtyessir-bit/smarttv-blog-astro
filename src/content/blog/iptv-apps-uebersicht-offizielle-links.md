@@ -30,7 +30,7 @@ faq:
 | App | Geräte laut Hersteller | Kosten | Offizielle Seite |
 |---|---|---|---|
 | TiviMate | Fire TV Stick (Sideloading), Android TV, Google TV, Nvidia Shield – nicht iOS oder klassische Smart-TV-Systeme | Kostenlose Basisversion, TiviMate Premium als Zusatzkauf | <a href="https://tivimate.com" target="_blank" rel="noopener">tivimate.com</a> |
-| IPTV Smarters Pro | Android, Fire TV (Amazon App Store), iOS, LG webOS, Samsung, Windows | Kostenlos, App-Käufe möglich | <a href="https://iptvsmarters.com" target="_blank" rel="noopener">iptvsmarters.com</a> |
+| IPTV Smarters Pro | Android, Fire TV (Amazon App Store), iOS, LG webOS, Samsung, Windows | Kostenlos, App-Käufe möglich | Direkt im App-Store Ihres Geräts suchen (keine zuverlässige offizielle Seite) |
 | IBO Player | iPhone, iPad, Mac, Apple TV, Apple Vision Pro, Android | Laut App Store 7 Tage kostenloser Test, danach Abo | <a href="https://apps.apple.com/us/app/ibo-player/id1547652240" target="_blank" rel="noopener">App Store</a> |
 | GSE Smart IPTV | iOS, Apple TV, Android – mehrere Varianten in den Stores | Preis je nach Store-Variante unterschiedlich (kostenlos bis ca. 5 USD) | <a href="https://gse-iptv.com" target="_blank" rel="noopener">gse-iptv.com</a> |
 | Perfect Player | Android, Android TV, Fire TV Stick, Windows – nicht iOS oder Apple TV | Kostenlos, aber seit 2021 nicht mehr im Google Play Store | Nur noch über APK-Drittquellen |
@@ -47,7 +47,7 @@ TiviMate läuft ausschließlich auf Android-basierten Geräten: Android TV, Goog
 
 ## IPTV Smarters Pro
 
-IPTV Smarters Pro von Smarters Labs ist eine kostenlose App, die auf besonders vielen Plattformen läuft: Android, iOS, Fire TV (direkt im Amazon App Store), LG webOS, Samsung und Windows. Sie ist damit die Wahl mit der breitesten Geräteunterstützung unter den hier genannten Playern. Ausführliche Anleitung: [IPTV Smarters Pro einrichten](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/).
+IPTV Smarters Pro ist eine kostenlose App, die auf besonders vielen Plattformen läuft: Android, iOS, Fire TV (direkt im Amazon App Store), LG webOS, Samsung und Windows. Sie ist damit die Wahl mit der breitesten Geräteunterstützung unter den hier genannten Playern. Achtung: Für diesen Namen kursieren zahlreiche Nachahmer-Apps und -Webseiten – installieren Sie direkt über den Store Ihres Geräts, nicht über eine verlinkte Drittseite. Ausführliche Anleitung: [IPTV Smarters Pro einrichten](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/).
 
 ## IBO Player
 
