@@ -1,10 +1,10 @@
 ---
 title: "IPTV-Apps im Überblick: Die wichtigsten Player 2026"
 slug: "iptv-apps-uebersicht-offizielle-links"
-description: "IPTV-Player im Überblick: TiviMate, IPTV Smarters Pro, IBO Player, GSE Smart IPTV, Smart IPTV, Kodi, VLC und SS IPTV – Geräte, Preise und offizielle Quellen."
+description: "11 IPTV-Player im Überblick: TiviMate, IPTV Smarters Pro, Perfect Player, OTT Navigator, XCIPTV und mehr – Geräte, Preise und offizielle Quellen."
 date: '2026-09-23'
 image: "/images/blog/iptv-apps-uebersicht-offizielle-links-featured.jpg"
-keywords: "IPTV App, IPTV Player, Smart IPTV, TiviMate, IPTV Smarters Pro, IBO Player, GSE Smart IPTV, Kodi IPTV, VLC IPTV, SS IPTV"
+keywords: "IPTV App, IPTV Player, Smart IPTV, TiviMate, IPTV Smarters Pro, IBO Player, GSE Smart IPTV, Perfect Player, OTT Navigator, XCIPTV, Kodi IPTV, VLC IPTV, SS IPTV"
 mainSite: "https://smarttv.one"
 noindex: false
 lean: true
@@ -21,7 +21,7 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. Die hier genannten Apps sind unabhängige Programme anderer Hersteller.
 
-**Schnellantwort:** IPTV-Apps sind Abspielprogramme. Sender bringen sie nicht mit. Hier finden Sie acht bekannte Player mit den Angaben der offiziellen Seiten und App-Stores: **TiviMate**, **IPTV Smarters Pro**, **IBO Player**, **GSE Smart IPTV**, **Smart IPTV**, **Kodi** mit dem Add-on PVR IPTV Simple Client, **VLC** und **SS IPTV**.
+**Schnellantwort:** IPTV-Apps sind Abspielprogramme. Sender bringen sie nicht mit. Hier finden Sie elf bekannte Player mit den Angaben der offiziellen Seiten und App-Stores: **TiviMate**, **IPTV Smarters Pro**, **IBO Player**, **GSE Smart IPTV**, **Perfect Player**, **OTT Navigator**, **XCIPTV**, **Smart IPTV**, **Kodi** mit dem Add-on PVR IPTV Simple Client, **VLC** und **SS IPTV**.
 
 *Stand: 23.09.2026, nach den offiziellen Seiten und App-Stores der Hersteller. Preise und Funktionen können sich ändern, prüfen Sie sie vor dem Kauf.*
 
@@ -33,6 +33,9 @@ faq:
 | IPTV Smarters Pro | Android, Fire TV (Amazon App Store), iOS, LG webOS, Samsung, Windows | Kostenlos, App-Käufe möglich | <a href="https://iptvsmarters.com" target="_blank" rel="noopener">iptvsmarters.com</a> |
 | IBO Player | iPhone, iPad, Mac, Apple TV, Apple Vision Pro, Android | Laut App Store 7 Tage kostenloser Test, danach Abo | <a href="https://apps.apple.com/us/app/ibo-player/id1547652240" target="_blank" rel="noopener">App Store</a> |
 | GSE Smart IPTV | iOS, Apple TV, Android – mehrere Varianten in den Stores | Preis je nach Store-Variante unterschiedlich (kostenlos bis ca. 5 USD) | <a href="https://gse-iptv.com" target="_blank" rel="noopener">gse-iptv.com</a> |
+| Perfect Player | Android, Android TV, Fire TV Stick, Windows – nicht iOS oder Apple TV | Kostenlos, aber seit 2021 nicht mehr im Google Play Store | Nur noch über APK-Drittquellen |
+| OTT Navigator | Android, Android TV – nicht iOS/Apple TV | Kostenlose Basisversion, Premium ab ca. 1 USD/Monat laut Google Play | <a href="https://play.google.com/store/apps/details?id=com.ottnavigator.iptvnavigator" target="_blank" rel="noopener">Google Play</a> |
+| XCIPTV | Android, Android TV, Fire OS | Kostenlos laut Google Play, über 10 Mio. Downloads | <a href="https://play.google.com/store/apps/details?id=com.nathnetwork.xciptv" target="_blank" rel="noopener">Google Play</a> |
 | Smart IPTV | Android/Google/Fire TV, Samsung Tizen ab 6.5 (Modelle ab 2022), LG webOS ab 3.0, LG Netcast und webOS 1.0 bis 2.0 | Einmalig 5,49 EUR pro Gerät | <a href="https://siptv.app" target="_blank" rel="noopener">siptv.app</a> |
 | Kodi mit PVR IPTV Simple Client | Alle Geräte, auf denen Kodi läuft | Add-on quelloffen (GPL-2.0) | <a href="https://github.com/kodi-pvr/pvr.iptvsimple" target="_blank" rel="noopener">GitHub</a> |
 | VLC | Windows, macOS, Linux, Android, iOS, Chrome OS und weitere | Kostenlos, ohne Werbung | <a href="https://www.videolan.org/vlc/" target="_blank" rel="noopener">videolan.org</a> |
@@ -53,6 +56,18 @@ Laut Angaben im App Store ist IBO Player ein reiner Video-Player ohne eigene Sen
 ## GSE Smart IPTV
 
 GSE Smart IPTV wird in mehreren Varianten in den App-Stores angeboten (u. a. für iPhone/iPad und separat für Apple TV), mit unterschiedlichen Preisen zwischen kostenlos und rund 5 USD je nach Version. Laut Hersteller liefert die App selbst keine Inhalte: „GSE SMART IPTV PRO does not supply or include any media or content." Funktionen laut Store-Eintrag: EPG, Xtream-Codes-Unterstützung, Chromecast, Aufnahmefunktion und Unterstützung für 31 Sprachen.
+
+## Perfect Player
+
+Perfect Player von Niklabs Software ist ein reiner Media-Player ohne eigene Inhalte, für Android, Android TV, Fire TV Stick und Windows. Wichtig zu wissen: Google entfernte die App im Dezember 2021 nach einer Urheberrechtsbeschwerde eines Pay-TV-Anbieters aus dem Play Store, obwohl die App selbst keine Inhalte oder Links mitliefert. Sie ist seitdem nur noch über APK-Drittquellen erhältlich, was ein zusätzliches Sicherheitsrisiko bedeutet – prüfen Sie die Quelle sorgfältig, bevor Sie eine APK-Datei installieren.
+
+## OTT Navigator
+
+OTT Navigator ist ein Player für Android und Android TV mit kostenloser Basisversion. Laut Google Play kostet die Premium-Version rund 1 USD pro Monat oder ist als einmaliger Kauf erhältlich; auf iOS/Apple TV wird die App über einen separaten App-Store-Eintrag mit eigener Preisstruktur angeboten. Die Premium-Version entfernt Werbung und schaltet zusätzliche Skins sowie Mehrgeräte-Unterstützung frei.
+
+## XCIPTV
+
+XCIPTV läuft auf Android, Android TV und Fire OS und ist laut Google Play kostenlos, mit über 10 Millionen Downloads. Die App bringt zwei Wiedergabe-Engines mit (ExoPlayer und VLC-Player) und unterstützt Xtream Codes, M3U-Playlists sowie geräteübergreifende Synchronisierung.
 
 ## Smart IPTV
 
