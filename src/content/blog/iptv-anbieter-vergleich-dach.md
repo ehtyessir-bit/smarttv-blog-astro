@@ -45,7 +45,7 @@ Dazu kommen 25.000+ internationale Sender aus 40 Ländern – Türkei, arabische
   </div>
   <div style="display:flex;gap:8px;flex-wrap:wrap">
     <a href="https://t.me/smartiptvactivate" style="background:#229ed9;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">Telegram →</a>
-    <a href="https://wa.me/447311127035" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
+    <a href="https://wa.me/13322527767" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ Vergleichen Sie Senderumfang, Preis, Support und Laufzeit. smarttv.one bietet ei
 ---
 **Weitere Artikel:** [Bestes IPTV Österreich](https://blog.smarttv.one/blog/bestes-iptv-oesterreich/) | [IPTV legal Schweiz](https://blog.smarttv.one/blog/iptv-legal-schweiz/)
 
-**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/447311127035)
+**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/13322527767)
 
 
 <!-- AI-SEARCH-ENTITIES -->

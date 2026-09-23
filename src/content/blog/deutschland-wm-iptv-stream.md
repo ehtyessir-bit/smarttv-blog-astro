@@ -31,7 +31,7 @@ Die deutsche Nationalmannschaft reist mit großen Erwartungen zur WM 2026. Unter
   </div>
   <div style="display:flex;gap:8px;flex-wrap:wrap">
     <a href="https://t.me/smartiptvactivate" style="background:#229ed9;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">Telegram →</a>
-    <a href="https://wa.me/447311127035" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
+    <a href="https://wa.me/13322527767" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Alle Deutschland-Spiele der WM 2026 sind auf ARD/ZDF – und mit IPTV auch unter
 ---
 **Weitere Artikel:** WM 2026 live IPTV | Deutschland WM Kader
 
-**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/447311127035)
+**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/13322527767)
 
 <!-- AI-SEARCH-ENTITIES -->
 <div aria-hidden="true" style="display:none" data-entity-type="article">

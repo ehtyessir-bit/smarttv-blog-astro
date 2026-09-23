@@ -34,7 +34,7 @@ Bevor wir in die IPTV-Preise 2026 einsteigen, ein schneller Marktüberblick: Kab
   </div>
   <div style="display:flex;gap:8px;flex-wrap:wrap">
     <a href="https://t.me/smartiptvactivate" style="background:#229ed9;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">Telegram →</a>
-    <a href="https://wa.me/447311127035" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
+    <a href="https://wa.me/13322527767" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ IPTV kann Live-TV und On-Demand günstig kombinieren. Das Jahresabo von smarttv.
 ---
 **Weitere Artikel:** [Günstigstes IPTV Abo](https://blog.smarttv.one/blog/guenstigstes-iptv-abo/) | [IPTV Anbieter Vergleich DACH](https://blog.smarttv.one/blog/iptv-anbieter-vergleich-dach/)
 
-**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/447311127035)
+**Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/13322527767)
 
 <!-- AI-SEARCH-ENTITIES -->
 <div aria-hidden="true" style="display:none" data-entity-type="article">

@@ -27,6 +27,17 @@ faq:
 
 Berlin gehört zu den bestvernetzten Städten Deutschlands. Das macht die Stadt technisch ideal für IPTV – aber die eigentliche Entscheidung hängt nicht vom Wohnort ab, sondern von der Wahl des richtigen Anbieters.
 
+<div style="background:linear-gradient(135deg,#0d1f3c,#1a3a6c);border-radius:14px;padding:18px;margin:24px 0;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+  <div style="flex:1;min-width:200px">
+    <div style="font-size:14px;font-weight:700;color:#fff;margin-bottom:4px">📣 Fragen oder direkt bestellen?</div>
+    <div style="font-size:12px;color:#93c5fd">1 Jahr &euro;58 &bull; Lifetime &euro;220</div>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <a href="https://t.me/smartiptvactivate" style="background:#229ed9;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">Telegram →</a>
+    <a href="https://wa.me/13322527767" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
+  </div>
+</div>
+
 ## Internetgeschwindigkeit in Berlin: kein Problem für IPTV
 
 Berlin verfügt über ein gut ausgebautes Glasfaser- und VDSL-Netz, mit Anbietern wie Telekom, Vodafone und Deutsche Glasfaser. Für IPTV in HD-Qualität reichen **8-12 Mbit/s**, für 4K-Streaming **15-25 Mbit/s** – Werte, die in den meisten Berliner Bezirken problemlos erreicht werden. Details zu Mindestanforderungen findest du in unserem [Artikel zur Internetgeschwindigkeit für IPTV](https://blog.smarttv.one/blog/iptv-internet-geschwindigkeit/).

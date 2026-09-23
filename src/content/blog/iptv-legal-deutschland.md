@@ -25,6 +25,18 @@ faq:
 
 *Stand: 22.09.2026. Diese Seite fasst öffentlich zugängliche Rechtsinformationen zusammen, unter anderem von der <a href="https://www.verbraucherzentrale.de/digitale-welt/checkliste-urheberrecht-79986" target="_blank" rel="noopener">Verbraucherzentrale</a> und von <a href="https://www.die-anwalts-kanzlei.de/internetstrafrecht/illegales-iptv-strafbar-fuer-nutzer-und-anbieter/" target="_blank" rel="noopener">die-anwalts-kanzlei.de</a>. Sie ersetzt keine Rechtsberatung im Einzelfall.*
 
+<div style="background:linear-gradient(135deg,#0d1f3c,#1a3a6c);border-radius:14px;padding:18px;margin:24px 0;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+  <div style="flex:1;min-width:200px">
+    <div style="font-size:14px;font-weight:700;color:#fff;margin-bottom:4px">📣 Fragen oder direkt bestellen?</div>
+    <div style="font-size:12px;color:#93c5fd">1 Jahr &euro;58 &bull; Lifetime &euro;220</div>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <a href="https://t.me/smartiptvactivate" style="background:#229ed9;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">Telegram →</a>
+    <a href="https://wa.me/13322527767" style="background:#25d366;color:#fff;font-weight:700;font-size:13px;padding:9px 16px;border-radius:9px;text-decoration:none">WhatsApp</a>
+  </div>
+</div>
+
+
 ## Was ist an IPTV legal, was nicht?
 
 IPTV bedeutet nur, dass Fernsehsignale über das Internet statt über Antenne, Kabel oder Satellit übertragen werden. Das machen auch Telekom MagentaTV, Vodafone GigaTV und 1&1 TV. Die Technik selbst ist also kein Problem.
