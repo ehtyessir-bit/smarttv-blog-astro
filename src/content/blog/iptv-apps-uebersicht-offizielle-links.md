@@ -21,7 +21,7 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. Die hier genannten Apps sind unabhängige Programme anderer Hersteller.
 
-**Schnellantwort:** IPTV-Apps sind Abspielprogramme. Sender bringen sie nicht mit. Hier finden Sie elf bekannte Player mit den Angaben der offiziellen Seiten und App-Stores: **TiviMate**, **IPTV Smarters Pro**, **IBO Player**, **GSE Smart IPTV**, **Perfect Player**, **OTT Navigator**, **XCIPTV**, **Smart IPTV**, **Kodi** mit dem Add-on PVR IPTV Simple Client, **VLC** und **SS IPTV**.
+**Schnellantwort:** IPTV-Apps sind Abspielprogramme. Sender bringen sie nicht mit. Hier finden Sie zwölf bekannte Player mit den Angaben der offiziellen Seiten und App-Stores: **TiviMate**, **IPTV Smarters Pro**, **IBO Player**, **GSE Smart IPTV**, **Perfect Player**, **OTT Navigator**, **XCIPTV**, **Chillio**, **Smart IPTV**, **Kodi** mit dem Add-on PVR IPTV Simple Client, **VLC** und **SS IPTV**.
 
 *Stand: 23.09.2026, nach den offiziellen Seiten und App-Stores der Hersteller. Preise und Funktionen können sich ändern, prüfen Sie sie vor dem Kauf.*
 
@@ -36,6 +36,7 @@ faq:
 | Perfect Player | Android, Android TV, Fire TV Stick, Windows – nicht iOS oder Apple TV | Kostenlos, aber seit 2021 nicht mehr im Google Play Store | Nur noch über APK-Drittquellen |
 | OTT Navigator | Android, Android TV – nicht iOS/Apple TV | Kostenlose Basisversion, Premium ab ca. 1 USD/Monat laut Google Play | <a href="https://play.google.com/store/apps/details?id=com.ottnavigator.iptvnavigator" target="_blank" rel="noopener">Google Play</a> |
 | XCIPTV | Android, Android TV, Fire OS | Kostenlos laut Google Play, über 10 Mio. Downloads | <a href="https://play.google.com/store/apps/details?id=com.nathnetwork.xciptv" target="_blank" rel="noopener">Google Play</a> |
+| Chillio | Apple TV, iPhone, iPad, Mac – nicht Android/Fire TV | Kostenlose Basisversion laut Hersteller, Premium optional | <a href="https://apps.apple.com/us/app/chillio-iptv-smart-player-pro/id6478813450" target="_blank" rel="noopener">App Store</a> |
 | Smart IPTV | Android/Google/Fire TV, Samsung Tizen ab 6.5 (Modelle ab 2022), LG webOS ab 3.0, LG Netcast und webOS 1.0 bis 2.0 | Einmalig 5,49 EUR pro Gerät | <a href="https://siptv.app" target="_blank" rel="noopener">siptv.app</a> |
 | Kodi mit PVR IPTV Simple Client | Alle Geräte, auf denen Kodi läuft | Add-on quelloffen (GPL-2.0) | <a href="https://github.com/kodi-pvr/pvr.iptvsimple" target="_blank" rel="noopener">GitHub</a> |
 | VLC | Windows, macOS, Linux, Android, iOS, Chrome OS und weitere | Kostenlos, ohne Werbung | <a href="https://www.videolan.org/vlc/" target="_blank" rel="noopener">videolan.org</a> |
@@ -69,6 +70,10 @@ OTT Navigator ist ein Player für Android und Android TV mit kostenloser Basisve
 
 XCIPTV läuft auf Android, Android TV und Fire OS und ist laut Google Play kostenlos, mit über 10 Millionen Downloads. Die App bringt zwei Wiedergabe-Engines mit (ExoPlayer und VLC-Player) und unterstützt Xtream Codes, M3U-Playlists sowie geräteübergreifende Synchronisierung. Ausführliche Anleitung: [XCIPTV einrichten](https://blog.smarttv.one/blog/xciptv-einrichten/).
 
+## Chillio
+
+Chillio von Lumos Labs LLC ist ein Player exklusiv für das Apple-Ökosystem: Apple TV, iPhone, iPad und Mac. Laut Hersteller ist die Grundversion kostenlos, ohne Werbung und ohne versteckte Kosten, mit einer optionalen Premium-Stufe für erweiterte Funktionen. Für Android oder Fire TV gibt es keine offizielle Chillio-App. Ausführliche Anleitung: [Chillio einrichten](https://blog.smarttv.one/blog/chillio-iptv-einrichten/).
+
 ## Smart IPTV
 
 Auf der offiziellen Seite steht: Smart IPTV ist nur ein Media-Player und enthält keine Sender. Aktiviert wird die App laut <a href="https://siptv.app/activation/" target="_blank" rel="noopener">siptv.app/activation</a> einmalig pro Gerät für 5,49 EUR per PayPal oder Kryptowährung. Ein Gratis-Test wird dort nicht genannt. Ausführlich: [Smart IPTV: Kosten und Aktivierung](https://smarttv.one/smart-iptv-kosten/) und [Smart IPTV funktioniert nicht](https://smarttv.one/smart-iptv-funktioniert-nicht/).
@@ -92,6 +97,8 @@ Das hängt vom Betriebssystem Ihres Fernsehers ab. Anleitungen: [Samsung Smart-T
 ## Vorsicht bei Angeboten, die alle Sender für wenig Geld versprechen
 
 Die Apps liefern keine Inhalte. Woher Ihre Playlist stammt, entscheidet über Qualität und Rechtslage. Wer alle Sender und Spiele zu einem sehr niedrigen Preis verspricht, hat oft keine Lizenz. Streaming aus einer erkennbar illegalen Quelle kann rechtliche Folgen haben. Mehr dazu: [Ist IPTV legal in Deutschland?](https://smarttv.one/iptv-legal-deutschland/)
+
+**Zusätzlicher Hinweis:** Manche Namen wie „SoPlayer" bezeichnen keinen neutralen Player, sondern einen eigenen Anbieter mit gebündeltem Senderpaket (24.000+ Kanäle laut Eigenangabe) – die App wurde zudem aus den offiziellen Stores entfernt und ist nur noch über Drittquellen erhältlich. Das ist ein anderes Risikoprofil als bei reinen Playern wie TiviMate oder Chillio: Sie installieren dabei nicht nur eine App unbekannter Herkunft, sondern binden sich auch an einen Anbieter, dessen Lizenzlage Sie nicht prüfen können.
 
 ## Häufige Fragen
 
