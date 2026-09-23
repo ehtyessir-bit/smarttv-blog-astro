@@ -7,6 +7,7 @@ image: "/images/blog/iptv-deutschland-komplett-guide-featured.jpg"
 keywords: "was ist IPTV, IPTV Deutschland erklärt, IPTV Grundlagen, internetfernsehen Deutschland, IPTV für Anfänger"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 wordCount: 600
 faq:
   - q: "Ist IPTV legal in Deutschland?"

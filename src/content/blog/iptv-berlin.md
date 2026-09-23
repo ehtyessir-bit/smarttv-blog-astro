@@ -7,6 +7,7 @@ image: "/images/blog/iptv-berlin-featured.jpg"
 keywords: "IPTV Berlin, IPTV Anbieter Berlin, IPTV Berlin legal, RBB IPTV, IPTV Hauptstadt"
 mainSite: "https://smarttv.one"
 noindex: false
+lean: true
 wordCount: 650
 faq:
   - q: "Ist RBB in IPTV-Paketen enthalten?"
