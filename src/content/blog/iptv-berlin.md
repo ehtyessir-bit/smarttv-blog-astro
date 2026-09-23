@@ -9,14 +9,14 @@ mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 650
 faq:
-  - question: "Ist RBB in IPTV-Paketen enthalten?"
-    answer: "Bei seriösen Anbietern mit vollständigem Senderpaket ja – RBB gehört zu den öffentlich-rechtlichen Programmen, die üblicherweise mitgeliefert werden. Prüfe die Senderliste vor dem Kauf."
-  - question: "Reicht mein Internet in Berlin für IPTV?"
-    answer: "Berlin hat eines der am besten ausgebauten Glasfasernetze Deutschlands. Für HD reichen 8-12 Mbit/s, für 4K 15-25 Mbit/s – das erreichen die meisten Berliner Anschlüsse problemlos."
-  - question: "Ist IPTV in Berlin legal?"
-    answer: "Das hängt vom Anbieter ab, nicht vom Wohnort. Details dazu in unserem Artikel zur Rechtslage in Deutschland."
-  - question: "Brauche ich in Berlin ein VPN für IPTV?"
-    answer: "Nein, für die Nutzung selbst ist kein VPN notwendig."
+  - q: "Ist RBB in IPTV-Paketen enthalten?"
+    a: "Bei seriösen Anbietern mit vollständigem Senderpaket ja – RBB gehört zu den öffentlich-rechtlichen Programmen, die üblicherweise mitgeliefert werden. Prüfe die Senderliste vor dem Kauf."
+  - q: "Reicht mein Internet in Berlin für IPTV?"
+    a: "Berlin hat eines der am besten ausgebauten Glasfasernetze Deutschlands. Für HD reichen 8-12 Mbit/s, für 4K 15-25 Mbit/s – das erreichen die meisten Berliner Anschlüsse problemlos."
+  - q: "Ist IPTV in Berlin legal?"
+    a: "Das hängt vom Anbieter ab, nicht vom Wohnort. Details dazu in unserem Artikel zur Rechtslage in Deutschland."
+  - q: "Brauche ich in Berlin ein VPN für IPTV?"
+    a: "Nein, für die Nutzung selbst ist kein VPN notwendig."
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">
 <strong style="color:#0369a1;font-size:13px;text-transform:uppercase;letter-spacing:.05em">⚡ Schnellantwort</strong>

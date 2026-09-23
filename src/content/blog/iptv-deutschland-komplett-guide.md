@@ -9,14 +9,14 @@ mainSite: "https://smarttv.one"
 noindex: false
 wordCount: 600
 faq:
-  - question: "Ist IPTV legal in Deutschland?"
-    answer: "Das hängt vom jeweiligen Anbieter und dessen Lizenzierung ab, nicht von der Technologie selbst. Details in unserem Artikel zur Rechtslage in Deutschland."
-  - question: "Brauche ich eine Satellitenantenne für IPTV?"
-    answer: "Nein – IPTV läuft komplett über deine Internetverbindung, ohne zusätzliche Antennen-Hardware."
-  - question: "Welche Internetgeschwindigkeit brauche ich?"
-    answer: "Für HD reichen 8-12 Mbit/s, für 4K-Streaming 15-25 Mbit/s. Details in unserem Artikel zur Internetgeschwindigkeit für IPTV."
-  - question: "Auf welchen Geräten funktioniert IPTV?"
-    answer: "Samsung und LG Smart TVs, Amazon Firestick, Android-Geräte, iPhone/iPad und Windows-PCs sind die gängigsten unterstützten Plattformen."
+  - q: "Ist IPTV legal in Deutschland?"
+    a: "Das hängt vom jeweiligen Anbieter und dessen Lizenzierung ab, nicht von der Technologie selbst. Details in unserem Artikel zur Rechtslage in Deutschland."
+  - q: "Brauche ich eine Satellitenantenne für IPTV?"
+    a: "Nein – IPTV läuft komplett über deine Internetverbindung, ohne zusätzliche Antennen-Hardware."
+  - q: "Welche Internetgeschwindigkeit brauche ich?"
+    a: "Für HD reichen 8-12 Mbit/s, für 4K-Streaming 15-25 Mbit/s. Details in unserem Artikel zur Internetgeschwindigkeit für IPTV."
+  - q: "Auf welchen Geräten funktioniert IPTV?"
+    a: "Samsung und LG Smart TVs, Amazon Firestick, Android-Geräte, iPhone/iPad und Windows-PCs sind die gängigsten unterstützten Plattformen."
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">
 <strong style="color:#0369a1;font-size:13px;text-transform:uppercase;letter-spacing:.05em">⚡ Schnellantwort</strong>
