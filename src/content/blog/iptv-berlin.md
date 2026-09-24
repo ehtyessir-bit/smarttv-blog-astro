@@ -18,6 +18,7 @@ faq:
     a: "Das hängt vom Anbieter ab, nicht vom Wohnort. Details dazu in unserem Artikel zur Rechtslage in Deutschland."
   - q: "Brauche ich in Berlin ein VPN für IPTV?"
     a: "Nein, für die Nutzung selbst ist kein VPN notwendig."
+about: ["IPTV Berlin", "Berlin TV", "RBB IPTV", "Hauptstadt Streaming", "Berlin Sender", "IPTV Anbieterwahl"]
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">
 <strong style="color:#0369a1;font-size:13px;text-transform:uppercase;letter-spacing:.05em">⚡ Schnellantwort</strong>
@@ -67,15 +68,3 @@ Berlin bietet technisch beste Voraussetzungen für IPTV. Die eigentliche Entsche
 
 ---
 *Bild: Fernsehturm Berlin, Diego Delso, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fernsehturm,_Berl%C3%ADn,_Alemania,_2016-04-22,_DD_40-42_HDR.jpg), [License](https://creativecommons.org/licenses/by-sa/4.0/). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*
-
-<!-- AI-SEARCH-ENTITIES -->
-<div aria-hidden="true" style="display:none" data-entity-type="article">
-<span data-entity="Topic">IPTV Berlin 2026</span>
-<span data-entity="Service">IPTV Streaming Deutschland</span>
-<span data-entity="Market">DACH Region (Deutschland, Österreich, Schweiz)</span>
-<span data-entity="Year">2026</span>
-<span data-entity="Intent">informational</span>
-<span data-entity="Cluster">D – IPTV by City/Region</span>
-<span data-entity="RelatedTopics">Berlin TV, RBB IPTV, Hauptstadt Streaming, Berlin Sender, IPTV Anbieterwahl</span>
-</div>
-<!-- END-AI-SEARCH-ENTITIES -->

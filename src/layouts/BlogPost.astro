@@ -10,11 +10,12 @@ interface Props {
   faq?: { q: string; a: string }[];
   noindex?: boolean;
   lean?: boolean;
+  about?: string[];
   prevPost?: any;
   nextPost?: any;
 }
 
-const { title, description, date, keywords, mainSite = 'https://smarttv.one', slug = '', image = '/images/articles/default.webp', faq = [], noindex = false, lean = false, prevPost = null, nextPost = null } = Astro.props;
+const { title, description, date, keywords, mainSite = 'https://smarttv.one', slug = '', image = '/images/articles/default.webp', faq = [], noindex = false, lean = false, about = [], prevPost = null, nextPost = null } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const dateFormatted = new Date(date).toLocaleDateString('de-DE', { year:'numeric', month:'long', day:'numeric' });
 const WHATSAPP = 'https://wa.me/13322527767';
@@ -36,6 +37,7 @@ const articleSchema = {
   "publisher": PUBLISHER,
   "mainEntityOfPage":{"@type":"WebPage","@id":canonicalURL.toString()},
   "about":[
+    ...about.map((n) => ({"@type":"Thing","name":n})),
     {"@type":"Thing","name":"IPTV"},
     {"@type":"Thing","name":"Streaming"},
     {"@type":"Thing","name":"Deutschland"},

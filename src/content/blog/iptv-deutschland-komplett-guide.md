@@ -18,6 +18,7 @@ faq:
     a: "Für HD reichen 8-12 Mbit/s, für 4K-Streaming 15-25 Mbit/s. Details in unserem Artikel zur Internetgeschwindigkeit für IPTV."
   - q: "Auf welchen Geräten funktioniert IPTV?"
     a: "Samsung und LG Smart TVs, Amazon Firestick, Android-Geräte, iPhone/iPad und Windows-PCs sind die gängigsten unterstützten Plattformen."
+about: ["Was ist IPTV Deutschland", "IPTV Einsteiger", "Internet TV", "IPTV erklärt", "Smart TV Streaming", "IPTV Grundlagen"]
 ---
 <div class="quick-answer" style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px 20px;margin:0 0 28px 0;border-radius:0 8px 8px 0">
 <strong style="color:#0369a1;font-size:13px;text-transform:uppercase;letter-spacing:.05em">⚡ Schnellantwort</strong>
@@ -66,15 +67,3 @@ IPTV ist im Kern eine Übertragungstechnologie, keine Frage von legal oder illeg
 
 ---
 *Bild: Samsung Smart TV Fernbedienung, Receptie123, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Samsung_Smart_TV_remote.JPG), [License](https://creativecommons.org/licenses/by-sa/3.0/). Bearbeitet: Ausschnitt, Titel und Farbverlauf ergänzt.*
-
-<!-- AI-SEARCH-ENTITIES -->
-<div aria-hidden="true" style="display:none" data-entity-type="article">
-<span data-entity="Topic">Was ist IPTV Deutschland 2026</span>
-<span data-entity="Service">IPTV Streaming Deutschland</span>
-<span data-entity="Market">DACH Region (Deutschland, Österreich, Schweiz)</span>
-<span data-entity="Year">2026</span>
-<span data-entity="Intent">informational</span>
-<span data-entity="Cluster">A – IPTV Providers & Reviews</span>
-<span data-entity="RelatedTopics">IPTV Einsteiger, Internet TV, IPTV erklärt, Smart TV Streaming, IPTV Grundlagen</span>
-</div>
-<!-- END-AI-SEARCH-ENTITIES -->

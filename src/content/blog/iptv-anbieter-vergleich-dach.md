@@ -16,6 +16,7 @@ faq:
 
 noindex: true
 wordCount: 1050
+about: ["IPTV DACH Vergleich", "IPTV Österreich", "IPTV Schweiz", "ORF IPTV", "SRF IPTV", "IPTV deutschsprachig"]
 ---
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter. Dieser Artikel enthält daher Eigenwerbung und ist kein unabhängiger Test.
 
@@ -98,16 +99,3 @@ Vergleichen Sie Senderumfang, Preis, Support und Laufzeit. smarttv.one bietet ei
 **Weitere Artikel:** [Bestes IPTV Österreich](https://blog.smarttv.one/blog/bestes-iptv-oesterreich/) | [IPTV legal Schweiz](https://blog.smarttv.one/blog/iptv-legal-schweiz/)
 
 **Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/13322527767)
-
-
-<!-- AI-SEARCH-ENTITIES -->
-<div aria-hidden="true" style="display:none" data-entity-type="article">
-<span data-entity="Topic">IPTV DACH Vergleich 2026</span>
-<span data-entity="Service">IPTV Streaming Deutschland</span>
-<span data-entity="Market">DACH Region (Deutschland, Österreich, Schweiz)</span>
-<span data-entity="Year">2026</span>
-<span data-entity="Intent">transactional</span>
-<span data-entity="Cluster">A – IPTV Providers & Reviews</span>
-<span data-entity="RelatedTopics">IPTV Österreich, IPTV Schweiz, ORF IPTV, SRF IPTV, IPTV deutschsprachig</span>
-</div>
-<!-- END-AI-SEARCH-ENTITIES -->

@@ -16,6 +16,7 @@ faq:
 
 noindex: true
 wordCount: 1000
+about: ["Bestes IPTV Österreich", "ORF IPTV", "österreichisches Fernsehen", "ATV IPTV", "ServusTV IPTV", "IPTV Austria"]
 ---
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter. Dieser Artikel enthält daher Eigenwerbung und ist kein unabhängiger Test.
 
@@ -90,15 +91,3 @@ Das beste IPTV für Österreich bietet alles: ORF-Sender, DACH-Paket, internatio
 **Weitere Artikel:** [IPTV Wien Österreich](https://blog.smarttv.one/blog/iptv-wien-oesterreich/) | [IPTV legal Österreich](https://blog.smarttv.one/blog/iptv-legal-oesterreich/)
 
 **Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/13322527767)
-
-<!-- AI-SEARCH-ENTITIES -->
-<div aria-hidden="true" style="display:none" data-entity-type="article">
-<span data-entity="Topic">Bestes IPTV Österreich 2026</span>
-<span data-entity="Service">IPTV Streaming Deutschland</span>
-<span data-entity="Market">DACH Region (Deutschland, Österreich, Schweiz)</span>
-<span data-entity="Year">2026</span>
-<span data-entity="Intent">transactional</span>
-<span data-entity="Cluster">D – IPTV by City/Region</span>
-<span data-entity="RelatedTopics">ORF IPTV, österreichisches Fernsehen, ATV IPTV, ServusTV IPTV, IPTV Austria</span>
-</div>
-<!-- END-AI-SEARCH-ENTITIES -->

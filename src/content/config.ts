@@ -10,6 +10,7 @@ const blog = defineCollection({
     mainSite:    z.string().optional().default('https://smarttv.one'),
     noindex:     z.boolean().optional().default(false),
     lean:        z.boolean().optional().default(false),
+    about:       z.array(z.string()).optional(),
     image:       z.string().optional(),
     faq:         z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),

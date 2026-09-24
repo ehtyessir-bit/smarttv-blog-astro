@@ -16,6 +16,7 @@ faq:
 
 noindex: true
 wordCount: 1000
+about: ["IPTV Zürich Schweiz", "SRF IPTV", "Zürich Streaming", "Schweiz TV", "IPTV Bern", "IPTV Genf"]
 ---
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter. Dieser Artikel enthält daher Eigenwerbung und ist kein unabhängiger Test.
 
@@ -90,15 +91,3 @@ IPTV kann in Zürich eine flexible Alternative zu klassischem TV sein. Das Jahre
 **Weitere Artikel:** [IPTV legal Schweiz](https://blog.smarttv.one/blog/iptv-legal-schweiz/) | [IPTV Schweiz legal](https://blog.smarttv.one/blog/iptv-schweiz-legal/)
 
 **Kontakt:** [Telegram](https://t.me/smartiptvactivate) | [WhatsApp](https://wa.me/13322527767)
-
-<!-- AI-SEARCH-ENTITIES -->
-<div aria-hidden="true" style="display:none" data-entity-type="article">
-<span data-entity="Topic">IPTV Zürich Schweiz 2026</span>
-<span data-entity="Service">IPTV Streaming Deutschland</span>
-<span data-entity="Market">DACH Region (Deutschland, Österreich, Schweiz)</span>
-<span data-entity="Year">2026</span>
-<span data-entity="Intent">transactional</span>
-<span data-entity="Cluster">D – IPTV by City/Region</span>
-<span data-entity="RelatedTopics">SRF IPTV, Zürich Streaming, Schweiz TV, IPTV Bern, IPTV Genf</span>
-</div>
-<!-- END-AI-SEARCH-ENTITIES -->
