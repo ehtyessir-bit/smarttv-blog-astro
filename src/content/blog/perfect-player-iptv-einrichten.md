@@ -16,7 +16,7 @@ faq:
   - q: "Ist Perfect Player kostenlos?"
     a: "Ja, die App selbst war und ist kostenlos, sie enthält aber keine Sender."
   - q: "Auf welchen Geräten läuft Perfect Player?"
-    a: "Android, Android TV, Fire TV Stick und Windows – nicht auf iOS oder Apple TV."
+    a: "Android, Android TV, Fire TV Stick und Windows, nicht auf iOS oder Apple TV."
 ---
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. Perfect Player ist eine unabhängige App eines anderen Herstellers.
@@ -27,17 +27,17 @@ faq:
 
 ## Warum Perfect Player nicht mehr im Play Store ist
 
-Google entfernte Perfect Player von Niklabs Software am 16. Dezember 2021 aus dem Play Store, nach einer Urheberrechtsbeschwerde eines großen Pay-TV-Anbieters. Die App selbst liefert jedoch keine Sender, Links oder Playlists mit – Nutzer müssen eigene Quellen hinzufügen. Der Grund für die Beschwerde blieb unklar, laut Berichten damaliger Fachmedien wurde die App dennoch entfernt und ist seitdem nicht zurückgekehrt.
+Google entfernte Perfect Player von Niklabs Software am 16. Dezember 2021 aus dem Play Store, nach einer Urheberrechtsbeschwerde eines großen Pay-TV-Anbieters. Die App selbst liefert jedoch keine Sender, Links oder Playlists mit, Nutzer müssen eigene Quellen hinzufügen. Der Grund für die Beschwerde blieb unklar, laut Berichten damaliger Fachmedien wurde die App dennoch entfernt und ist seitdem nicht zurückgekehrt.
 
-**Das bedeutet für Sie:** Wenn Sie Perfect Player installieren möchten, geht das nur noch über eine APK-Datei von einer Drittanbieter-Seite, nicht über den offiziellen Play Store. Das ist ein zusätzliches Sicherheitsrisiko – APK-Dateien außerhalb offizieller Stores können manipuliert sein. Prüfen Sie die Quelle sorgfältig oder weichen Sie auf eine App mit offiziellem Store-Eintrag wie [TiviMate](https://blog.smarttv.one/blog/tivimate-einrichten-anleitung/) oder [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/) aus.
+**Das bedeutet für Sie:** Wenn Sie Perfect Player installieren möchten, geht das nur noch über eine APK-Datei von einer Drittanbieter-Seite, nicht über den offiziellen Play Store. Das ist ein zusätzliches Sicherheitsrisiko, APK-Dateien außerhalb offizieller Stores können manipuliert sein. Prüfen Sie die Quelle sorgfältig oder weichen Sie auf eine App mit offiziellem Store-Eintrag wie [TiviMate](https://blog.smarttv.one/blog/tivimate-einrichten-anleitung/) oder [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/) aus.
 
 ## Geräte und Funktionen
 
-Perfect Player läuft auf Android, Android TV, Fire TV Stick und Windows – nicht auf iOS oder Apple TV. Die App unterstützt laut Funktionsbeschreibung M3U- und Xtream-Codes-Playlists, EPG im XMLTV-Format, mehrere Playlists gleichzeitig und die Aufnahme von Live-Streams.
+Perfect Player läuft auf Android, Android TV, Fire TV Stick und Windows, nicht auf iOS oder Apple TV. Die App unterstützt laut Funktionsbeschreibung M3U- und Xtream-Codes-Playlists, EPG im XMLTV-Format, mehrere Playlists gleichzeitig und die Aufnahme von Live-Streams.
 
 ## Installation (über APK, da nicht im Play Store)
 
-1. Eine vertrauenswürdige APK-Quelle für Perfect Player suchen – im Zweifel eher auf eine Alternative mit offiziellem Store-Eintrag ausweichen.
+1. Eine vertrauenswürdige APK-Quelle für Perfect Player suchen, im Zweifel eher auf eine Alternative mit offiziellem Store-Eintrag ausweichen.
 2. Auf Android/Fire TV unter Einstellungen die Installation aus unbekannten Quellen erlauben.
 3. APK-Datei herunterladen und installieren.
 4. App öffnen, unter Einstellungen die M3U-Playlist-URL oder Xtream-Codes-Zugangsdaten Ihres Anbieters eintragen.

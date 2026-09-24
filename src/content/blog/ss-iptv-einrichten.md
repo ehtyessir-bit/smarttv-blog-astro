@@ -16,12 +16,12 @@ faq:
   - q: "Kann ich eigene Playlists hochladen?"
     a: "Ja, laut Hersteller lassen sich eigene Playlists hochladen und mit einem Playlist-Editor auf der Website ordnen."
   - q: "Ist SS IPTV eine Alternative zu Smart IPTV?"
-    a: "Beide sind unabhängige Player für LG-Fernseher. Welche App verfügbar ist, hängt vom Modell und Land ab – prüfen Sie beide im App-Store Ihres Geräts."
+    a: "Beide sind unabhängige Player für LG-Fernseher. Welche App verfügbar ist, hängt vom Modell und Land ab, prüfen Sie beide im App-Store Ihres Geräts."
 ---
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. SS IPTV ist eine unabhängige App eines anderen Herstellers.
 
-**Schnellantwort:** SS IPTV ist ein Media-Player vor allem für LG Smart TVs. Sie laden eine eigene Playlist hoch oder verlinken eine M3U-URL – Sender liefert die App nicht mit.
+**Schnellantwort:** SS IPTV ist ein Media-Player vor allem für LG Smart TVs. Sie laden eine eigene Playlist hoch oder verlinken eine M3U-URL, Sender liefert die App nicht mit.
 
 *Stand: 23.09.2026, nach der offiziellen Seite ss-iptv.com. Kosten und unterstützte Modelle nennt die Seite nicht, prüfen Sie beides im App-Store Ihres Geräts.*
 

@@ -21,7 +21,7 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. IBO Player ist eine unabhängige App eines anderen Herstellers.
 
-**Schnellantwort:** IBO Player ist ein Video-Player für iPhone, iPad, Mac, Apple TV und Android, laut App Store mit 7 Tagen kostenlosem Test. Die App liefert selbst keine Sender – Sie brauchen zusätzlich Zugangsdaten eines IPTV-Anbieters.
+**Schnellantwort:** IBO Player ist ein Video-Player für iPhone, iPad, Mac, Apple TV und Android, laut App Store mit 7 Tagen kostenlosem Test. Die App liefert selbst keine Sender, Sie brauchen zusätzlich Zugangsdaten eines IPTV-Anbieters.
 
 *Stand: 23.09.2026, nach dem Eintrag im Apple App Store. Preise und Funktionen können sich ändern, prüfen Sie sie vor dem Kauf.*
 
@@ -38,7 +38,7 @@ IBO Player läuft auf iPhone und iPod touch (iOS 15.6+), iPad (iPadOS 15.6+), Ma
 1. App Store (iPhone/iPad/Mac/Apple TV) oder Play Store (Android) öffnen und „IBO Player" suchen.
 2. App installieren und öffnen.
 3. Playlist-URL (M3U) oder Xtream-Codes-Zugangsdaten Ihres IPTV-Anbieters eintragen.
-4. Senderliste laden lassen – die Dauer hängt vom Anbieter und der Anzahl der Kanäle ab.
+4. Senderliste laden lassen, die Dauer hängt vom Anbieter und der Anzahl der Kanäle ab.
 
 ## Kostenloser Test und Abo
 

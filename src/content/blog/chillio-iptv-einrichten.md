@@ -21,7 +21,7 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. Chillio ist eine unabhängige App eines anderen Herstellers.
 
-**Schnellantwort:** Chillio ist ein IPTV-Player für Apple TV, iPhone, iPad und Mac, mit kostenloser Basisversion ohne Werbung. Die App liefert selbst keine Sender – Sie brauchen zusätzlich eine Playlist oder Xtream-Codes-Zugangsdaten eines Anbieters.
+**Schnellantwort:** Chillio ist ein IPTV-Player für Apple TV, iPhone, iPad und Mac, mit kostenloser Basisversion ohne Werbung. Die App liefert selbst keine Sender, Sie brauchen zusätzlich eine Playlist oder Xtream-Codes-Zugangsdaten eines Anbieters.
 
 *Stand: 23.09.2026, nach dem Eintrag im Apple App Store (Lumos Labs LLC). Preise und Funktionen können sich ändern, prüfen Sie sie vor dem Kauf.*
 
@@ -35,7 +35,7 @@ Chillio ist ausschließlich für das Apple-Ökosystem gedacht: Apple TV, iPhone,
 
 ## Kostenlos vs. Premium
 
-Die Grundversion ist laut Hersteller kostenlos, ohne Werbung und ohne versteckte Kosten nutzbar. Für erweiterte Anpassungen gibt es eine Premium-Stufe, für die laut App-Store-Angaben Dritter ein Jahresabo oder ein einmaliger Kauf angeboten wird – prüfen Sie die aktuellen Preise direkt im App Store, da sich diese ändern können.
+Die Grundversion ist laut Hersteller kostenlos, ohne Werbung und ohne versteckte Kosten nutzbar. Für erweiterte Anpassungen gibt es eine Premium-Stufe, für die laut App-Store-Angaben Dritter ein Jahresabo oder ein einmaliger Kauf angeboten wird, prüfen Sie die aktuellen Preise direkt im App Store, da sich diese ändern können.
 
 ## Installation und Einrichtung
 

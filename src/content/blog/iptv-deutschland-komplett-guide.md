@@ -13,7 +13,7 @@ faq:
   - q: "Ist IPTV legal in Deutschland?"
     a: "Das hängt vom jeweiligen Anbieter und dessen Lizenzierung ab, nicht von der Technologie selbst. Details in unserem Artikel zur Rechtslage in Deutschland."
   - q: "Brauche ich eine Satellitenantenne für IPTV?"
-    a: "Nein – IPTV läuft komplett über deine Internetverbindung, ohne zusätzliche Antennen-Hardware."
+    a: "Nein, IPTV läuft komplett über deine Internetverbindung, ohne zusätzliche Antennen-Hardware."
   - q: "Welche Internetgeschwindigkeit brauche ich?"
     a: "Für HD reichen 8-12 Mbit/s, für 4K-Streaming 15-25 Mbit/s. Details in unserem Artikel zur Internetgeschwindigkeit für IPTV."
   - q: "Auf welchen Geräten funktioniert IPTV?"
@@ -40,11 +40,11 @@ about: ["Was ist IPTV Deutschland", "IPTV Einsteiger", "Internet TV", "IPTV erkl
 
 ## Was ist IPTV genau?
 
-IPTV steht für **Internet Protocol Television**. Statt dass ein TV-Signal per Kabel, Satellit oder Antenne übertragen wird, laufen die Inhalte als Datenpakete über deine normale Internetverbindung – ähnlich wie bei Video-Streaming-Diensten, nur mit echtem Live-Fernsehen statt nur On-Demand-Inhalten. Das erklärt auch den Unterschied zu klassischen Streaming-Anbietern wie Netflix: Diese bieten überwiegend Bibliotheken zum Abrufen, während IPTV linear ausgestrahlte Sender in Echtzeit überträgt.
+IPTV steht für **Internet Protocol Television**. Statt dass ein TV-Signal per Kabel, Satellit oder Antenne übertragen wird, laufen die Inhalte als Datenpakete über deine normale Internetverbindung, ähnlich wie bei Video-Streaming-Diensten, nur mit echtem Live-Fernsehen statt nur On-Demand-Inhalten. Das erklärt auch den Unterschied zu klassischen Streaming-Anbietern wie Netflix: Diese bieten überwiegend Bibliotheken zum Abrufen, während IPTV linear ausgestrahlte Sender in Echtzeit überträgt.
 
 ## Wie funktioniert IPTV technisch?
 
-Ein IPTV-Anbieter empfängt Sendersignale und wandelt sie in Datenströme um, die über das Internet an eine App auf deinem Gerät gesendet werden. Die App (z. B. IPTV Smarters, TiviMate oder eine anbieterspezifische App) entschlüsselt und zeigt den Stream an. Für eine flüssige Wiedergabe ist vor allem die Stabilität der Internetverbindung entscheidend, weniger die reine Bandbreite – Pufferprobleme entstehen häufiger durch Netzwerkschwankungen als durch zu geringe Geschwindigkeit. Details dazu in unserem Artikel [IPTV Pufferprobleme lösen](https://blog.smarttv.one/blog/iptv-puffer-probleme-loesen/).
+Ein IPTV-Anbieter empfängt Sendersignale und wandelt sie in Datenströme um, die über das Internet an eine App auf deinem Gerät gesendet werden. Die App (z. B. IPTV Smarters, TiviMate oder eine anbieterspezifische App) entschlüsselt und zeigt den Stream an. Für eine flüssige Wiedergabe ist vor allem die Stabilität der Internetverbindung entscheidend, weniger die reine Bandbreite, Pufferprobleme entstehen häufiger durch Netzwerkschwankungen als durch zu geringe Geschwindigkeit. Details dazu in unserem Artikel [IPTV Pufferprobleme lösen](https://blog.smarttv.one/blog/iptv-puffer-probleme-loesen/).
 
 ## Welche Internetverbindung brauche ich?
 
@@ -52,11 +52,11 @@ Für HD-Streaming reichen **8-12 Mbit/s**, für 4K-Inhalte werden **15-25 Mbit/s
 
 ## Welche Geräte unterstützen IPTV?
 
-IPTV läuft auf den meisten modernen Geräten: Samsung- und LG-Smart-TVs, Amazon Firestick, Android-Smartphones/-Tablets/-TV-Boxen, iPhone/iPad und Windows-PCs. Die konkreten Einrichtungsschritte unterscheiden sich je nach Gerät und App – eine vollständige Schritt-für-Schritt-Anleitung findest du in unserem [IPTV Einrichtungs-Guide](https://blog.smarttv.one/blog/iptv-einrichten-anleitung/), sowie geräte-spezifisch für [Samsung](https://blog.smarttv.one/blog/iptv-samsung-smart-tv/), [LG](https://blog.smarttv.one/blog/iptv-lg-smart-tv/) und [Firestick](https://blog.smarttv.one/blog/iptv-firestick-einrichten/).
+IPTV läuft auf den meisten modernen Geräten: Samsung- und LG-Smart-TVs, Amazon Firestick, Android-Smartphones/-Tablets/-TV-Boxen, iPhone/iPad und Windows-PCs. Die konkreten Einrichtungsschritte unterscheiden sich je nach Gerät und App, eine vollständige Schritt-für-Schritt-Anleitung findest du in unserem [IPTV Einrichtungs-Guide](https://blog.smarttv.one/blog/iptv-einrichten-anleitung/), sowie geräte-spezifisch für [Samsung](https://blog.smarttv.one/blog/iptv-samsung-smart-tv/), [LG](https://blog.smarttv.one/blog/iptv-lg-smart-tv/) und [Firestick](https://blog.smarttv.one/blog/iptv-firestick-einrichten/).
 
 ## Ist IPTV in Deutschland legal?
 
-Die Technologie selbst ist neutral – legal genutzt wird sie z. B. von Telekom MagentaTV oder waipu.tv. Ob ein konkretes Angebot legal ist, hängt von dessen Lizenzierung der übertragenen Inhalte ab, nicht von der Technik. Eine ausführliche Einordnung inklusive der relevanten Rechtsprechung findest du in unserem Artikel [IPTV legal in Deutschland](https://blog.smarttv.one/blog/iptv-legal-deutschland/).
+Die Technologie selbst ist neutral, legal genutzt wird sie z. B. von Telekom MagentaTV oder waipu.tv. Ob ein konkretes Angebot legal ist, hängt von dessen Lizenzierung der übertragenen Inhalte ab, nicht von der Technik. Eine ausführliche Einordnung inklusive der relevanten Rechtsprechung findest du in unserem Artikel [IPTV legal in Deutschland](https://blog.smarttv.one/blog/iptv-legal-deutschland/).
 
 ## Fazit
 

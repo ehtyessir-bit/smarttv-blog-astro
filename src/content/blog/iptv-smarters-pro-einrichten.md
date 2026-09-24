@@ -25,7 +25,7 @@ faq:
 
 *Stand: 23.09.2026. Funktionsumfang und Verfügbarkeit können sich je nach App-Version und Land unterscheiden.*
 
-**Wichtiger Hinweis:** Für „IPTV Smarters Pro" kursieren zahlreiche Nachahmer-Apps und -Webseiten mit ähnlichem Namen, manche davon verkaufen direkt eigene IPTV-Abos unter diesem Namen. Eine einzelne, eindeutige offizielle Webseite des ursprünglichen Herstellers gibt es aktuell nicht zuverlässig – installieren Sie die App daher direkt über den App-Store Ihres Geräts (Google Play, Apple App Store, Amazon App Store) statt über eine verlinkte Drittseite, und prüfen Sie Entwicklername und Bewertungen vor der Installation.
+**Wichtiger Hinweis:** Für „IPTV Smarters Pro" kursieren zahlreiche Nachahmer-Apps und -Webseiten mit ähnlichem Namen, manche davon verkaufen direkt eigene IPTV-Abos unter diesem Namen. Eine einzelne, eindeutige offizielle Webseite des ursprünglichen Herstellers gibt es aktuell nicht zuverlässig, installieren Sie die App daher direkt über den App-Store Ihres Geräts (Google Play, Apple App Store, Amazon App Store) statt über eine verlinkte Drittseite, und prüfen Sie Entwicklername und Bewertungen vor der Installation.
 
 <div style="background:linear-gradient(135deg,#0d1f3c,#1a3a6c);border-radius:14px;padding:18px;margin:24px 0;display:flex;align-items:center;gap:14px;flex-wrap:wrap">
   <div style="flex:1;min-width:200px">

@@ -1,7 +1,7 @@
 ---
 title: "IPTV auf Android TV Box installieren: Chromecast, Sony, TCL & Co."
 slug: "iptv-android-tv-box-installieren"
-description: "IPTV auf Android TV und Google TV installieren: Chromecast mit Google TV, Sony, Philips, TCL und Nvidia Shield – über Play Store oder per Sideloading."
+description: "IPTV auf Android TV und Google TV installieren: Chromecast mit Google TV, Sony, Philips, TCL und Nvidia Shield: über Play Store oder per Sideloading."
 date: '2026-09-23'
 image: "/images/blog/iptv-android-tv-box-installieren-featured.jpg"
 keywords: "IPTV Android TV installieren, IPTV Chromecast Google TV, IPTV Sony Bravia, IPTV Philips TCL Android TV, IPTV Nvidia Shield, Sideloading Android TV"
@@ -21,17 +21,17 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. Die hier genannten Apps sind unabhängige Programme anderer Hersteller.
 
-**Schnellantwort:** Die meisten Android-TV- und Google-TV-Geräte – Sony, Philips, TCL, Chromecast mit Google TV, Nvidia Shield – haben direkten Zugriff auf den Google Play Store. Anders als beim Fire TV Stick ist für die meisten IPTV-Apps kein Sideloading nötig.
+**Schnellantwort:** Die meisten Android-TV- und Google-TV-Geräte (Sony, Philips, TCL, Chromecast mit Google TV, Nvidia Shield) haben direkten Zugriff auf den Google Play Store. Anders als beim Fire TV Stick ist für die meisten IPTV-Apps kein Sideloading nötig.
 
 *Stand: 23.09.2026. Details zu Geräten und App-Verfügbarkeit können sich ändern, prüfen Sie den Play Store Ihres Geräts.*
 
 ## Sony, Philips, TCL: direkt über den Google Play Store
 
-Moderne Sony-Bravia-, Philips- und TCL-Fernseher laufen mit Android TV oder Google TV als Betriebssystem und haben denselben Google Play Store wie ein Android-Smartphone. Das bedeutet: Sie können auf dem Fernseher direkt zum Play Store gehen, nach einer App wie [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/), [XCIPTV](https://blog.smarttv.one/blog/xciptv-einrichten/) oder [OTT Navigator](https://blog.smarttv.one/blog/ott-navigator-einrichten/) suchen und sie regulär installieren – ohne Sideloading, ohne Entwickleroptionen.
+Moderne Sony-Bravia-, Philips- und TCL-Fernseher laufen mit Android TV oder Google TV als Betriebssystem und haben denselben Google Play Store wie ein Android-Smartphone. Das bedeutet: Sie können auf dem Fernseher direkt zum Play Store gehen, nach einer App wie [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/), [XCIPTV](https://blog.smarttv.one/blog/xciptv-einrichten/) oder [OTT Navigator](https://blog.smarttv.one/blog/ott-navigator-einrichten/) suchen und sie regulär installieren, ohne Sideloading, ohne Entwickleroptionen.
 
 ## Chromecast mit Google TV und Nvidia Shield
 
-Chromecast mit Google TV und Nvidia Shield sind ebenfalls Google-TV- bzw. Android-TV-Geräte mit eingebautem Play Store. Für die meisten Apps reicht die reguläre Installation über den Store. Nur für Apps, die dort nicht gelistet sind – etwa TiviMate auf manchen Geräten – ist Sideloading nötig:
+Chromecast mit Google TV und Nvidia Shield sind ebenfalls Google-TV- bzw. Android-TV-Geräte mit eingebautem Play Store. Für die meisten Apps reicht die reguläre Installation über den Store. Nur für Apps, die dort nicht gelistet sind (etwa TiviMate auf manchen Geräten) ist Sideloading nötig:
 
 1. Einstellungen öffnen, zu System, Über gehen und mehrfach auf die Build-Nummer tippen, bis die Entwickleroptionen erscheinen.
 2. Unter Apps, Sicherheit & Einschränkungen die Installation aus unbekannten Quellen für eine Datei-Verwaltungs-App wie „Downloader" erlauben.
@@ -42,7 +42,7 @@ Eine ausführliche Schritt-für-Schritt-Anleitung für dieses Vorgehen, übertra
 
 ## Wichtige Änderung ab Ende 2026
 
-Google führt schrittweise eine Entwickler-Verifizierung ein, die auch Apps außerhalb des Play Stores betrifft: Ab Ende 2026 (zunächst in Brasilien, Indonesien, Singapur und Thailand, weltweiter Rollout ab 2027 geplant) sollen unverifizierte Apps auf zertifizierten Android-Geräten blockiert werden, auch beim Sideloading. Für Power-User ist laut Google weiterhin eine Installation über den Entwicklermodus mit einer Wartezeit von 24 Stunden vorgesehen. Was das konkret für IPTV-Apps in der DACH-Region bedeutet, ist noch nicht final geklärt – wir aktualisieren diesen Artikel, sobald der Rollout hier startet.
+Google führt schrittweise eine Entwickler-Verifizierung ein, die auch Apps außerhalb des Play Stores betrifft: Ab Ende 2026 (zunächst in Brasilien, Indonesien, Singapur und Thailand, weltweiter Rollout ab 2027 geplant) sollen unverifizierte Apps auf zertifizierten Android-Geräten blockiert werden, auch beim Sideloading. Für Power-User ist laut Google weiterhin eine Installation über den Entwicklermodus mit einer Wartezeit von 24 Stunden vorgesehen. Was das konkret für IPTV-Apps in der DACH-Region bedeutet, ist noch nicht final geklärt, wir aktualisieren diesen Artikel, sobald der Rollout hier startet.
 
 ## Welche App passt zu welchem Gerät?
 

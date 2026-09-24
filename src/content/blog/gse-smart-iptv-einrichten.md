@@ -21,13 +21,13 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. GSE Smart IPTV ist eine unabhängige App eines anderen Herstellers.
 
-**Schnellantwort:** GSE Smart IPTV ist ein Player für iPhone, iPad und Apple TV, in mehreren Store-Varianten mit unterschiedlichen Preisen. Die App liefert keine eigenen Sender – Sie brauchen eine Playlist oder Xtream-Codes-Zugangsdaten eines IPTV-Anbieters.
+**Schnellantwort:** GSE Smart IPTV ist ein Player für iPhone, iPad und Apple TV, in mehreren Store-Varianten mit unterschiedlichen Preisen. Die App liefert keine eigenen Sender, Sie brauchen eine Playlist oder Xtream-Codes-Zugangsdaten eines IPTV-Anbieters.
 
 *Stand: 23.09.2026, nach den App-Store-Einträgen. Preise und Funktionen können sich ändern und unterscheiden sich je nach Version, prüfen Sie sie vor dem Kauf.*
 
 ## Welche Variante ist die richtige?
 
-GSE Smart IPTV wird von GSE Technology / droidvision in mehreren separaten Store-Einträgen angeboten – etwa eine Variante für iPhone/iPad und eine eigene Variante speziell für Apple TV. Die Preise unterscheiden sich je nach Eintrag, von kostenlos bis rund 5 USD. Prüfen Sie vor dem Kauf im App Store Ihres Geräts, welche Variante für Ihr Gerät gedacht ist, um nicht versehentlich die falsche zu kaufen.
+GSE Smart IPTV wird von GSE Technology / droidvision in mehreren separaten Store-Einträgen angeboten, etwa eine Variante für iPhone/iPad und eine eigene Variante speziell für Apple TV. Die Preise unterscheiden sich je nach Eintrag, von kostenlos bis rund 5 USD. Prüfen Sie vor dem Kauf im App Store Ihres Geräts, welche Variante für Ihr Gerät gedacht ist, um nicht versehentlich die falsche zu kaufen.
 
 ## Funktionen laut App-Store-Eintrag
 
@@ -38,7 +38,7 @@ GSE Smart IPTV wird von GSE Technology / droidvision in mehreren separaten Store
 - Unterstützung für 31 Sprachen
 - Wiedergabe verschiedener Formate: HLS, RTSP, MMS, UDP
 
-Der Hersteller stellt klar: „GSE SMART IPTV PRO does not supply or include any media or content" – die App ist ein reiner Player, keine Quelle für Sender.
+Der Hersteller stellt klar: „GSE SMART IPTV PRO does not supply or include any media or content", die App ist ein reiner Player, keine Quelle für Sender.
 
 ## Installation und Einrichtung
 

@@ -21,7 +21,7 @@ faq:
 
 > **Hinweis:** smarttv.one ist selbst ein IPTV-Anbieter, und auf dieser Seite werben wir für unser Angebot. XCIPTV ist eine unabhängige App eines anderen Herstellers.
 
-**Schnellantwort:** XCIPTV ist ein kostenloser IPTV-Player für Android, Android TV und Fire OS mit über 10 Millionen Downloads. Die App bringt zwei Wiedergabe-Engines mit und unterstützt Aufnahmen – Sender liefert sie nicht mit.
+**Schnellantwort:** XCIPTV ist ein kostenloser IPTV-Player für Android, Android TV und Fire OS mit über 10 Millionen Downloads. Die App bringt zwei Wiedergabe-Engines mit und unterstützt Aufnahmen, Sender liefert sie nicht mit.
 
 *Stand: 23.09.2026, nach dem Google-Play-Eintrag von OTTRUN. Funktionen können sich mit neuen App-Versionen ändern.*
 

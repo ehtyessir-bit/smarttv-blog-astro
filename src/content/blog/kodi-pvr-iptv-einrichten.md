@@ -47,7 +47,7 @@ Das Add-on wird vom Kodi-PVR-Team gepflegt, Quelltext und Dokumentation liegen o
 
 ## Alternative für Fernbedienung und Fire TV Stick
 
-Wer eine einfachere, für Fernbedienungen optimierte Oberfläche sucht, ist mit [TiviMate](https://blog.smarttv.one/blog/tivimate-einrichten-anleitung/) oder [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/) oft besser bedient – Kodi richtet sich eher an Nutzer, die eine bestehende Media-Center-Installation um IPTV erweitern möchten.
+Wer eine einfachere, für Fernbedienungen optimierte Oberfläche sucht, ist mit [TiviMate](https://blog.smarttv.one/blog/tivimate-einrichten-anleitung/) oder [IPTV Smarters Pro](https://blog.smarttv.one/blog/iptv-smarters-pro-einrichten/) oft besser bedient, Kodi richtet sich eher an Nutzer, die eine bestehende Media-Center-Installation um IPTV erweitern möchten.
 
 ## Häufige Fragen
 
